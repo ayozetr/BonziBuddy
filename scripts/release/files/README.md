@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/bonzi.webp" alt="BonziBuddy" width="160"></p>
+
 # BonziBuddy — decompiled source
 
 Decompiled code of **BonziBUDDY** (Bonzi Software, 1999–2004) and its components, organized like the
@@ -14,6 +16,9 @@ original VB source is not available. What you find here is the closest reconstru
 - The **Lingo scripts** of *Bonzi's Beach Checkers* (Macromedia Director) — practically the original source.
 
 It does not compile back into the program. It is for reading, studying and preservation.
+
+> **Educational and research purposes only.** No binaries are included. Read [`DISCLAIMER.md`](DISCLAIMER.md)
+> before using this material.
 
 ## Contents
 | Folder | Binary | Version / date | Objects | Functions (real names) |
@@ -70,4 +75,4 @@ Some reports mention local folders that are not published (`sample/`, `extracted
 
 ## Licence
 Our tools and documentation: MIT (`LICENSE`). The decompiled content belongs to its copyright
-holders and is published for preservation and research — see `NOTICE.md`.
+holders and is published for preservation and research — see `NOTICE.md`. Use at your own risk — see `DISCLAIMER.md`.

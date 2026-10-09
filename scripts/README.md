@@ -46,7 +46,7 @@ Ghidra scripts used by the pipeline live in `ghidra/scripts/`.
 | File | Purpose |
 |---|---|
 | `build_release.sh <out_dir>` | copies an allowlist (decompiled source of Bonzi's own binaries, our tools, docs) and audits it: no PE files, no binaries/archives, no un-redacted secrets, no local paths |
-| `files/` | release-only files: `README.md`, `LICENSE` (MIT), `NOTICE.md`, `.gitignore` |
+| `files/` | release-only files: `README.md`, `LICENSE` (MIT), `NOTICE.md`, `DISCLAIMER.md`, `.gitignore` |
 
 Not published: `sample/`, `extracted/`, `references/`, `ghidra/project`, `ghidra/input`, `source/third_party/`,
 `source/repack_BonziBuddy432/`, the Director movie binaries (`.dcr`/`.dir`).

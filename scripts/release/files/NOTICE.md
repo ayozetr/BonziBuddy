@@ -11,5 +11,6 @@
   https://github.com/NixButterPlay/BonziBuddy (Copyright (c) 2022 NixButterPlay, MIT licence).
 - The Beach Checkers Lingo was decompiled with ProjectorRays (https://github.com/ProjectorRays/ProjectorRays).
 - C pseudocode generated with Ghidra (https://ghidra-sre.org/).
+- `assets/bonzi.webp`: picture of the BonziBUDDY character, © its owners, used for identification only.
 - No binaries are included: no BonziBuddy executables, installers, characters or runtimes, and no
   third-party components (Microsoft runtimes, Mabry RegiCon, vbAccelerator SSubTimer…).
