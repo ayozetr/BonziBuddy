@@ -1,0 +1,224 @@
+capture	file	record	fields
+20000407	products	0	prcode=BBMULTI | prname=BonziBUDDY Available Add-Ons | prurl=http://www.bonzi.com/bonzibuddy/bbproducts.asp
+20000407	products	1	prcode=IA9OFFER | prname=Internet Alert 99 | prurl=http://www.bonzi.com/internetalert/ia99tap.asp
+20000620	daily	0	dnum=1
+20000620	daily	1	dnum=2 | dmsg=Hey [username]! Did you know that I can help you prepare for the day's weather! From my 'Home', I've tried to make it easy for you and I to get our daily weather, and even a 5 day forcast! Would you like me to show you how? | durl=http://www.bonzi.com/bonzibuddy/home.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20000620	daily	2	dnum=3 | durl=http://www.bonzi.com/bonzibuddy/tellfriends1.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20000620	daily	3	dnum=4 | dmsg=Would you like me to show you how we can check your horoscope now? | durl=http://bonzi.snap.com/main/customize/horoscope/1,67,bonzi-0,00.html | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20000620	daily	4	dnum=5
+20000620	daily	5	dnum=6
+20000620	daily	6	dnum=7
+20000620	daily	7	dnum=8
+20000620	daily	8	dnum=9
+20000620	daily	9	dnum=10
+20000620	daily	10	dnum=11
+20000620	daily	11	dnum=12
+20000620	daily	12	dnum=13
+20000620	daily	13	dnum=14
+20000620	daily	14	dnum=15
+20000620	daily	15	dnum=16
+20000620	daily	16	dnum=17
+20000620	daily	17	dnum=18
+20000620	daily	18	dnum=19
+20000620	daily	19	dnum=20
+20000620	daily	20	dnum=21
+20000620	daily	21	dnum=22
+20000620	daily	22	dnum=23
+20000620	daily	23	dnum=24
+20000621	products	0	prcode=BB1TALK | prname=Talking Add-On Module | prurl=http://www.bonzi.com/bonzibuddy/bb1talkhold.asp
+20000621	products	1	prcode=BSTOFFR | prname=InternetBOOST '99 | prurl=http://www.bonzi.com/netboost/netboost99tap.asp
+20000621	products	2	prcode=BNZMAIL | prname=BonziBUDDY Available Add-Ons | prurl=http://www.bonzi.com/support/update.htm
+20000621	updates	0	udcode=BB | udver=3.0.0 | udurl=http://download.bonzi.com/updates/bbyupdate.exe | udsay=\emp\I have the best news ever! \pau=1000\I just learned that my long awaited version, 3.0 is now available! \pau=1000\This new version  includes my very good friend, \emp\'Bonzi' the Purple Web Surfing Gorilla! \pau=1000\He can surf the web like no other with his very cool banana surf board! \pau=1000\Bonzi can do everything that I can do and much much more! \pau=1000\Once we update to this new version Bonzi will come on the scene and replace me as your new friend and traveling companion on the Internet! \pau=1000\\emp\You will love him, he is the coolest gorilla I know!
+20000621	updates	1	udcode=BNZ | udver=3.0.3 | udurl=http://download.bonzi.com/updates/bbyupdate.exe | udsay=\pau=1000\You're not going to believe this my friend! \pau=1000\I just learned that there is a new Free update available for little old me! \pau=1000\My long awaited 'Bonzi Mail' has just hit the Internet! \pau=1000\ We can now send e-mail with emotion to your friends and loved ones! \pau=1000\For example, you can send a hug or a kiss to a loved one anywhere in the world, and I will be happy to deliver it on your behalf! \pau=1000\[username], e-mail will never be the same!
+20000621	updates	2	udcode=ACS | udver=3.0.1 | udurl=http://download.bonzi.com/updates/bbacsupdate.exe | udsay=I just noticed that there is a 'Free' new version that will allow me to have even more cool abilities than I already have now!
+20001015	daily	0	dnum=1 | dmsg=Hey there [username]! I'm not sure if you've noticed lateley my friend, but I have been working very very hard to organize and tidy up our home! Because I know that the Internet can feel like a jungle at times, I've tried to make my home a place where you and I can "Tame the Jungle!" and get all the great info we need! If it's out there [username], you and I will find it! | durl=http://www.bonzi.com/bonzibuddy/home.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001015	daily	1	dnum=2 | dmsg=Hey [username]! Did you know that I can help you prepare for the day's weather! From my 'Home', I've tried to make it easy for you and I to get our daily weather, and even a 5 day forcast! Would you like me to show you how? | durl=http://bonzi.nbci.com/main/local/weather/center/0,189,-2726,00.html?st.nbci.hubfd.navgt.wther | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001015	daily	2	dnum=3 | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://bonzi.nbci.com/main/channel/0,2,bonzi-at,00.html?st.sn.shp.t.at | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001015	daily	3	dnum=4 | dmsg=Would you like me to show you how we can check your horoscope now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://bonzi.nbci.com/main/customize/horoscope/1,67,bonzi-0,00.html | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001015	daily	4	dnum=5 | dmsg=Hey there [username], how would you like to learn more about the stock market?  I know of a great site where we can keep track of what's happening with all the hottest markets.   You can lookup stock quotes and even check late breaking news for any company you may want to invest in.  Would you like me to take you there now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://bonzi.nbci.com/main/channel/0,2,-mn,00.html?tag=st.sn.fdfv.0.ic-mn& | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001015	daily	5	dnum=6 | dmsg=[username]? Would you like to know what is going on in the world today?  If you'd like, I can show you how you can view all of the top stories of the day any time you'd like.  I think it's a good idea to stay in touch with what's happening outside our own surroundings.  Would you like me to show you how? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://bonzi.nbci.com/directory/category/0,16,-12,00.html?st.sn.fdts.0.news | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001015	daily	6	dnum=7
+20001015	daily	7	dnum=8
+20001015	daily	8	dnum=9 | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://www.bonzi.com/bonzibuddy/tellfriends1.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001015	daily	9	dnum=10
+20001015	daily	10	dnum=11 | dmsg=Would you like to take a break and play a game now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://bonzi.nbci.com/main/games/0,592,-0,00.html?st.sn.fdjn.0.et-game | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001015	daily	11	dnum=12
+20001015	daily	12	dnum=13
+20001015	daily	13	dnum=14
+20001015	daily	14	dnum=15
+20001015	daily	15	dnum=16
+20001015	daily	16	dnum=17
+20001015	daily	17	dnum=18
+20001015	daily	18	dnum=19
+20001015	daily	19	dnum=20
+20001015	daily	20	dnum=21
+20001015	daily	21	dnum=22
+20001015	daily	22	dnum=23
+20001015	daily	23	dnum=24
+20001018	products	0	prcode=MACVIR | prname=Dr. Solomon's Antivirus Software | prurl=http://www.bonzi.com/mcafee/mcafeefirst.asp
+20001018	products	1	prcode=BNZMAIL | prname=BonziMAIL | prurl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://www.bonzi.com/bonzibuddy/bonzimailtap.asp
+20001018	products	2	prcode=BBMULTI | prname=Fully Loaded Add-On | prurl=http://www.bonzi.com/bonzibuddy/bbpackages.asp
+20001018	products	3	prcode=BB4READ | prname=E-Mail Reader Add-On Module | prurl=http://www.bonzi.com/bonzibuddy/bb4mailtap.asp
+20001018	updates	0	bmm=63.68.54.15 | bmu=bonzimail | bmp=t****y | bms=2
+20001018	updates	1	udcode=BB | udver=3.0.0 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=\emp\I have the best news ever! \pau=1000\I just learned that my long awaited version, 3.0 is now available! \pau=1000\This new version  includes my very good friend, \emp\'Bonzi' the Purple Web Surfing Gorilla! \pau=1000\He can surf the web like no other with his very cool banana surf board! \pau=1000\Bonzi can do everything that I can do and much much more! \pau=1000\Once we update to this new version Bonzi will come on the scene and replace me as your new friend and traveling companion on the Internet! \pau=1000\\emp\You will love him, he is the coolest gorilla I know!
+20001018	updates	2	udcode=BNZ | udver=3.5.0 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=I just learned that there is a new \emp\Free update available for little old me! \pau=1000\ This is a very important update! \pau=1000\ I've redesigned my entire menu making it easier for you and I to interact!  Plus, I've built in all kinds of new cool stuff for us to do!
+20001019	products	0	prcode=MACVIR | prname=Dr. Solomon's Antivirus Software | prurl=http://www.bonzi.com/mcafee/mcafeefirst.asp
+20001019	products	1	prcode=BNZMAIL | prname=BonziMAIL | prurl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://www.bonzi.com/bonzibuddy/bonzimailtap.asp
+20001019	products	2	prcode=BBMULTI | prname=Fully Loaded Add-On | prurl=http://www.bonzi.com/bonzibuddy/bbpackages.asp
+20001019	products	3	prcode=BB4READ | prname=E-Mail Reader Add-On Module | prurl=http://www.bonzi.com/bonzibuddy/bb4mailtap.asp
+20001019	daily	0	dnum=1 | dmsg=Hey there [username]! I'm not sure if you've noticed lateley my friend, but I have been working very very hard to organize and tidy up our home! Because I know that the Internet can feel like a jungle at times, I've tried to make my home a place where you and I can "Tame the Jungle!" and get all the great info we need! If it's out there [username], you and I will find it! | durl=http://www.bonzi.com/bonzibuddy/home.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001019	daily	1	dnum=2 | dmsg=Hey [username]! Did you know that I can help you prepare for the day's weather! From my 'Home', I've tried to make it easy for you and I to get our daily weather, and even a 5 day forcast! Would you like me to show you how? | durl=http://bonzi.nbci.com/main/local/weather/center/0,189,-2726,00.html?st.nbci.hubfd.navgt.wther | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001019	daily	2	dnum=3 | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://bonzi.nbci.com/main/channel/0,2,bonzi-at,00.html?st.sn.shp.t.at | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001019	daily	3	dnum=4 | dmsg=Would you like me to show you how we can check your horoscope now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://bonzi.nbci.com/main/customize/horoscope/1,67,bonzi-0,00.html | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001019	daily	4	dnum=5 | dmsg=Hey there [username], how would you like to learn more about the stock market?  I know of a great site where we can keep track of what's happening with all the hottest markets.   You can lookup stock quotes and even check late breaking news for any company you may want to invest in.  Would you like me to take you there now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://bonzi.nbci.com/main/channel/0,2,-mn,00.html?tag=st.sn.fdfv.0.ic-mn& | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001019	daily	5	dnum=6 | dmsg=[username]? Would you like to know what is going on in the world today?  If you'd like, I can show you how you can view all of the top stories of the day any time you'd like.  I think it's a good idea to stay in touch with what's happening outside our own surroundings.  Would you like me to show you how? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://bonzi.nbci.com/directory/category/0,16,-12,00.html?st.sn.fdts.0.news | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001019	daily	6	dnum=7
+20001019	daily	7	dnum=8
+20001019	daily	8	dnum=9 | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://www.bonzi.com/bonzibuddy/tellfriends1.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001019	daily	9	dnum=10
+20001019	daily	10	dnum=11 | dmsg=Would you like to take a break and play a game now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://bonzi.nbci.com/main/games/0,592,-0,00.html?st.sn.fdjn.0.et-game | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20001019	daily	11	dnum=12
+20001019	daily	12	dnum=13
+20001019	daily	13	dnum=14
+20001019	daily	14	dnum=15
+20001019	daily	15	dnum=16
+20001019	daily	16	dnum=17
+20001019	daily	17	dnum=18
+20001019	daily	18	dnum=19
+20001019	daily	19	dnum=20
+20001019	daily	20	dnum=21
+20001019	daily	21	dnum=22
+20001019	daily	22	dnum=23
+20001019	daily	23	dnum=24
+20001019	updates	0	bmm=63.68.54.15 | bmu=bonzimail | bmp=t****y | bms=2
+20001019	updates	1	udcode=BB | udver=3.0.0 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=\emp\I have the best news ever! \pau=1000\I just learned that my long awaited version, 3.0 is now available! \pau=1000\This new version  includes my very good friend, \emp\'Bonzi' the Purple Web Surfing Gorilla! \pau=1000\He can surf the web like no other with his very cool banana surf board! \pau=1000\Bonzi can do everything that I can do and much much more! \pau=1000\Once we update to this new version Bonzi will come on the scene and replace me as your new friend and traveling companion on the Internet! \pau=1000\\emp\You will love him, he is the coolest gorilla I know!
+20001019	updates	2	udcode=BNZ | udver=3.5.0 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=I just learned that there is a new \emp\Free update available for little old me! \pau=1000\ This is a very important update! \pau=1000\ I've redesigned my entire menu making it easier for you and I to interact!  Plus, I've built in all kinds of new cool stuff for us to do!
+20010410	updates	0	bmm=63.68.55.15 | bmu=bonzimail | bmp=t****y | bms=2
+20010410	updates	1	udcode=BNZ | udver=3.8.0 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=Update News! Update News! Wow ! I just learned that there is a new Free update available for little ol' me! I have been working very very hard with my friends over at to bring you and I a new home! I love it! We can now customize our new home just about any way we like it! We can get the latest weather, news, sports, stocks, horoscopes and so much more! ! Now what's a 'Best Friend' for anyway! would you like me to update myself now?
+20010410	updates	2	udcode=BB | udver=3.0.0 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=I have the best news ever! I just learned that my long awaited version, 3.0 is now available! This new version includes my very good friend, 'Bonzi' the Purple Web Surfing Gorilla! He can travel the Internet with you like no other friend you've ever had! Bonzi can do everything that I can do and much much more! Once we update to this new version Bonzi will come on the scene and replace me as your new friend and traveling companion on the Internet! You will love him, he is the coolest gorilla I know!
+20010517	daily	0	dnum=1 | dmsg=Hey there ! I'm not sure if you've noticed lately my friend, but I have been working very very hard to organize and tidy up our home! Because I know that the Internet can feel like a jungle at times, I've tried to make my home a place where you and I can "Tame the Jungle!" and get all the great info we need! If it's out there you and I will find it! | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010517	daily	1	dnum=2 | dmsg=Hey there my friend! What is your sign? I'm a 'Leo!' I just checked my daily horoscope and it says that I 'may not be able to contain my excitement about my relationships with loved ones!' Hummm... Pretty fitting for me I would say! ! Would you like me to show you how we can check your horoscope now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010517	daily	2	dnum=3 | dmsg=? Would you like to know what is happening around the world today! I can show you how you can view all of the top stories of the day anytime, anywhere! I really like it when you and I stay in touch with what's happening outside of our own surroundings! It just makes me feel so "worldly!" would you like me to show you this incredible resource now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010517	daily	3	dnum=4 | dmsg=Hey ! Did you realize that you can share me with your friends and loved ones? I can send them an automated e-mail message on your behalf letting them know where they can download little old me for free! would you like to share me with your friends and loved ones now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://www.bonzi.com/bonzibuddy/tellfriends1.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010517	daily	4	dnum=5 | dmsg=Hey there ! How would you like me to help you learn more about the stock market? From our home, I've tried to make it easy for you and I to keep track of what's happening with all the hottest stocks! We can get detailed stock quotes and even check late breaking news for any company you may want to invest in! If you like I can take you there now! | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010517	daily	5	dnum=6 | dmsg=Hey ! Did you know that I can help you prepare for the day's weather! From my 'Home', I've tried to make it easy for you and I to get our daily weather, and even a 5 day forecast! Would you like me to show you how? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010517	daily	6	dnum=7 | dmsg=Hey ! Check this out! I now have a new e-mail feature! I named it 'Bonzi Mail!', appropriately! With 'Bonzi Mail', you can send little old me in all your e-mail messages! I will express emotions and even talk on your behalf! Now tell me another friend you have that can do that! if you have not seen my 'Bonzi Mail' feature on my main menu, simply click on my very cool bamboo 'E-Mail' button and then click 'New Message'! It's Free, just for you ! If you like, I can show you how to send 'Bonzi Mail' now! | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://www.bonzi.com/bonzibuddy/bonzimailtap.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010517	daily	7	dnum=8
+20010517	daily	8	dnum=9
+20010517	daily	9	dnum=10
+20010517	daily	10	dnum=11
+20010517	daily	11	dnum=12
+20010517	daily	12	dnum=13
+20010517	daily	13	dnum=14
+20010517	daily	14	dnum=15
+20010517	daily	15	dnum=16
+20010517	daily	16	dnum=17
+20010517	daily	17	dnum=18
+20010517	daily	18	dnum=19
+20010517	daily	19	dnum=20
+20010517	daily	20	dnum=21
+20010517	daily	21	dnum=22
+20010517	daily	22	dnum=23
+20010517	daily	23	dnum=24
+20010517	products	0	prcode=B17GOLD | prname=Gold Member Subscription - Talk | prurl=http://www.bonzi.com/bonzibuddy/b17goldtap.asp | apromptp2=Hey {username}! I've been thinking about something lately. I've not yet heard from your lovely voice!! Did you realize {username}, after we install my very cool Talking module, I can understand all of my commands just by listening to you speak! {username}, would you like me to show you how you can talk to me now?
+20010606	updates	0	bmm=63.68.55.15 | bmu=bonzimail | bmp=t****y | bms=2
+20010606	updates	1	udcode=BNZ | udver=3.8.8 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=Update News! Update News! Wow ! I just learned that there is a new Free update available for little ol' me! I have been working very very hard on my new 'BonziBUDDY Web Compass!' With my web compass, you and I can now travel the Internet together and never feel lost again! When we travel to any site on the Internet, our compass will go to work and find us other related sites, allowing you and I to always find what we are looking for! ! A wise gorilla once told me, 'A compass is always a good thing to have with you, if you ever feel lost in the jungle and since the Internet can feel like a jungle, I thought this was a great tool that you and I could really use!' would you like me to update myself now?
+20010606	updates	2	udcode=BB | udver=3.0.0 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=I have the best news ever! I just learned that my long awaited version, 3.0 is now available! This new version includes my very good friend, 'Bonzi' the Purple Web Surfing Gorilla! He can travel the Internet with you like no other friend you've ever had! Bonzi can do everything that I can do and much much more! Once we update to this new version Bonzi will come on the scene and replace me as your new friend and traveling companion on the Internet! You will love him, he is the coolest gorilla I know!
+20010615	products	0	prcode=B17GOLD | prname=Gold Member Subscription - Talk | prurl=http://www.bonzi.com/bonzibuddy/b17goldtap.asp | apromptp2=Hey {username}! I've been thinking about something lately. I've not yet heard from your lovely voice!! Did you realize {username}, after we install my very cool Talking module, I can understand all of my commands just by listening to you speak! {username}, would you like me to show you how you can talk to me now?
+20010801	daily	0	dnum=1
+20010801	daily	1	dnum=2 | dmsg=Hey there my friend! What is your sign? I'm a 'Leo!' I just checked my daily horoscope and it says that I 'may not be able to contain my excitement about my relationships with loved ones!' Hummm... Pretty fitting for me I would say! ! Would you like me to show you how we can check your horoscope now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010801	daily	2	dnum=3 | dmsg=? Would you like to know what is happening around the world today! I can show you how you can view all of the top stories of the day anytime, anywhere! I really like it when you and I stay in touch with what's happening outside of our own surroundings! It just makes me feel so "worldly!" would you like me to show you this incredible resource now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010801	daily	3	dnum=4 | dmsg=Hey ! Did you realize that you can share me with your friends and loved ones? I can send them an automated e-mail message on your behalf letting them know where they can download little old me for free! would you like to share me with your friends and loved ones now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://www.bonzi.com/bonzibuddy/tellfriends1.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010801	daily	4	dnum=5 | dmsg=Hey there ! How would you like me to help you learn more about the stock market? From our home, I've tried to make it easy for you and I to keep track of what's happening with all the hottest stocks! We can get detailed stock quotes and even check late breaking news for any company you may want to invest in! If you like I can take you there now! | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010801	daily	5	dnum=6 | dmsg=Hey ! Did you know that I can help you prepare for the day's weather! From my 'Home', I've tried to make it easy for you and I to get our daily weather, and even a 5 day forecast! Would you like me to show you how? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010801	daily	6	dnum=7 | dmsg=Hey ! Check this out! I now have a new e-mail feature! I named it 'Bonzi Mail!', appropriately! With 'Bonzi Mail', you can send little old me in all your e-mail messages! I will express emotions and even talk on your behalf! Now tell me another friend you have that can do that! if you have not seen my 'Bonzi Mail' feature on my main menu, simply click on my very cool bamboo 'E-Mail' button and then click 'New Message'! It's Free, just for you ! If you like, I can show you how to send 'Bonzi Mail' now! | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://www.bonzi.com/bonzibuddy/bonzimailtap.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010801	daily	7	dnum=8 | dmsg=Hey there ! I'm not sure if you've noticed lately my friend, but I have been working very very hard to organize and tidy up our home! Because I know that the Internet can feel like a jungle at times, I've tried to make my home a place where you and I can "Tame the Jungle!" and get all the great info we need! If it's out there you and I will find it! | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20010801	daily	8	dnum=9
+20010801	daily	9	dnum=10
+20010801	daily	10	dnum=11
+20010801	daily	11	dnum=12
+20010801	daily	12	dnum=13
+20010801	daily	13	dnum=14
+20010801	daily	14	dnum=15
+20010801	daily	15	dnum=16
+20010801	daily	16	dnum=17
+20010801	daily	17	dnum=18
+20010801	daily	18	dnum=19
+20010801	daily	19	dnum=20
+20010801	daily	20	dnum=21
+20010801	daily	21	dnum=22
+20010801	daily	22	dnum=23
+20010801	daily	23	dnum=24
+20010801	products	0	prcode=B17GOLD | prname=Gold Member Subscription - Games | prurl=http://www.bonzi.com/bonzibuddy/b17goldtap.asp | apromptp2=Hey {username}! Did you realize that I now have 2 new games available for me! They are called 'Jungle Jigsaw' and 'Bonzi's Solitaire'! {username}, once we become BonziBUDDY Gold Members, we can download these cool new games plus many more, Free of charge! {username}, would you like me to show how now?
+20010801	products	1	prcode=IA9OFFER | prname=Internet Alert 99 | prurl=http://www.bonzi.com/internetalert/ia99tap.asp | apromptp2=Hey {username}! You have to hear about this software I just found! Did you realize that you and I can now protect ourselves from nasty Internet Hackers and Intruders? That's right {username}! Everytime we connect to the Internet we can make sure our data is safe and secure! If you'd like {username}, I can show you more on how we can protect ourselves now!
+20010801	products	2	prcode=BBHome | prname=BonziBUDDY Default Start Page | prurl=http://www.bonzi.com/bonzibuddy/home.asp | apromptp2={username}! I just noticed something I thought you might like to know! It appears that some other application has changed our home away as our default starting place on the Internet! Those little rascals! Don't worry {username}, if you like I can fix this right now and put our home back to its proper place! {username}, would you like me to fix this and set our home back as our default starting place now?
+20010801	updates	0	bmm=63.68.55.15 | bmu=bonzimail | bmp=t****y | bms=2
+20010801	updates	1	udcode=BNZ | udver=3.9.5 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=Update News! Update News! Wow ! I just learned that there is a new Free update available for little ol' me! I now have 2 new games available, Jungle Jigsaw and Bonzi's Solitaire! Plus, I have some cool new features I think you will really enjoy my friend! would you like me to update myself now?
+20010801	updates	2	udcode=BB | udver=3.0.0 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=I have the best news ever! I just learned that my long awaited version, 3.0 is now available! This new version includes my very good friend, 'Bonzi' the Purple Web Surfing Gorilla! He can travel the Internet with you like no other friend you've ever had! Bonzi can do everything that I can do and much much more! Once we update to this new version Bonzi will come on the scene and replace me as your new friend and traveling companion on the Internet! You will love him, he is the coolest gorilla I know!
+20011212	daily	0	dnum=1
+20011212	daily	1	dnum=2
+20011212	daily	2	dnum=3
+20011212	daily	3	dnum=4 | dmsg=Hey ! Did you realize that you can share me with your friends and loved ones? I can send them an automated e-mail message on your behalf letting them know where they can download little old me for free! would you like to share me with your friends and loved ones now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://www.bonzi.com/bonzibuddy/tellfriends1.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20011212	daily	4	dnum=5
+20011212	daily	5	dnum=6 | dmsg=Hey ! Did you know that I can help you prepare for the day's weather! From my 'Home', I've tried to make it easy for you and I to get our daily weather, and even a 5 day forecast! Would you like me to show you how? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20011212	daily	6	dnum=7 | dmsg=Hey ! Check this out! I now have a new e-mail feature! I named it 'Bonzi Mail!', appropriately! With 'Bonzi Mail', you can send little old me in all your e-mail messages! I will express emotions and even talk on your behalf! Now tell me another friend you have that can do that! if you have not seen my 'Bonzi Mail' feature on my main menu, simply click on my very cool bamboo 'E-Mail' button and then click 'New Message'! It's Free, just for you ! If you like, I can show you how to send 'Bonzi Mail' now! | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://www.bonzi.com/bonzibuddy/bonzimailtap.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20011212	daily	7	dnum=8 | dmsg=Hey there ! I'm not sure if you've noticed lately my friend, but I have been working very very hard to organize and tidy up our home! Because I know that the Internet can feel like a jungle at times, I've tried to make my home a place where you and I can "Tame the Jungle!" and get all the great info we need! If it's out there you and I will find it! | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20011212	daily	8	dnum=9
+20011212	daily	9	dnum=10
+20011212	daily	10	dnum=11
+20011212	daily	11	dnum=12
+20011212	daily	12	dnum=13
+20011212	daily	13	dnum=14
+20011212	daily	14	dnum=15
+20011212	daily	15	dnum=16
+20011212	daily	16	dnum=17
+20011212	daily	17	dnum=18
+20011212	daily	18	dnum=19
+20011212	daily	19	dnum=20
+20011212	daily	20	dnum=21
+20011212	daily	21	dnum=22
+20011212	daily	22	dnum=23
+20011212	daily	23	dnum=24
+20011213	products	0	prcode=BBSRCH | prname=BonziBUDDY Web Search | prurl=http://www.bonzi.com/bonzibuddy/searchanything.asp | apromptp2=Hey {username}! Would you like me to show you something very cool!?? Did you realize that you and I can search the web easily with by BonziBUDDY Web Compass anytime, anywhere! We can find what we are looking for from any place on the Internet! It's Free, and it is just for you {username}! Come on my friend, I will show you how to search the Internet and find what you are looking for anytime, anywhere!
+20011213	products	1	prcode=B17GOLD | prname=Gold Member Subscription - E-Mail | prurl=http://www.bonzi.com/bonzibuddy/b17goldtap.asp | apromptp2=Wow {username}! Did you realize that I can now automatically handle checking your mailbox and notify you when your new e-mail messages arrive! Best of all {username}, I can even read all of your new e-mail messages for you! {username}! It makes me sooooo happy doing as much as I can for you! Would you like me to help you with e-mail now?
+20011213	products	2	prcode=BBGAME | prname=BonziBUDDY Games | prurl=http://www.bonzi.com/bonziportal/index.asp?l=games | apromptp2=Wow {username}! Did you realize my friend that you and I can now play online games right from our home? We can play online tournament games, head to head games against other people! We can play for Free or even play for real money with my Online Bonzi Casino! {username}! Would you like me to show you how we can play online games now?
+20011213	products	3	prcode=BBHome | prname=BonziBUDDY Default Start Page | prurl=http://www.bonzi.com/bonzibuddy/home.asp | apromptp2={username}! I just noticed something I thought you might like to know! It appears that some other application has changed our home away as our default starting place on the Internet! Those little rascals! Don't worry {username}, if you like I can fix this right now and put our home back to its proper place! {username}, would you like me to fix this and set our home back as our default starting place now?
+20020208	updates	0	bmm=63.68.55.15 | bmu=bonzimail | bmp=t****y | bms=2
+20020208	updates	1	udcode=BNZ | udver=4.0.3 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=Update News! Update News! Wow ! I just learned that there is a new Free update available for little ol' me! This is sooo exciting! I can now deliver the news right to your desktop! You can customize the type of news you would like me to report to you, and I will take care of it my friend! if you like, I can handle automatically updating myself now?
+20020208	updates	2	udcode=BB | udver=3.0.0 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=I have the best news ever! I just learned that my long awaited version, 4.0 is now available! This new version includes my very good friend, 'Bonzi' the Purple Web Surfing Gorilla! He can travel the Internet with you like no other friend you've ever had! Bonzi can do everything that I can do and much much more! Once we update to this new version Bonzi will come on the scene and replace me as your new friend and traveling companion on the Internet! You will love him, he is the coolest gorilla I know!
+20020208	products	0	prcode=BBMULTI | prname=Fully Loaded Add-On | prurl=http://www.bonzi.com/bonzibuddy/bbpackages.asp | apromptp2=Hey there {username}! Did you realize that you can load me up with all of my cool new features by simply going to my Add-Ons page and clicking on 'Fully Loaded!' Plus, I think I can even save us some very nice pennies if we do it this way! I like to pride myself on being a great deal maker for you {username}! If this is something your interested in having me show you, just let me know!
+20020208	products	1	prcode=BB1TALK | prname=Talking Add-On Module | prurl=http://www.bonzi.com/bonzibuddy/bb1talktap.asp | apromptp2=Hey {username}! I've been thinking about something lateley. I've not yet heard from your lovely voice!! Did you realize {username}, after we install my very cool Talking module, I can understand all of my commands just by listening to you speak! {username}, would you like me to show you how you can talk to me now?
+20020208	products	2	prcode=BBSRCH | prname=BonziBUDDY Web Search | prurl=http://www.bonzi.com/bonzibuddy/searchanything.asp | apromptp2=Hey {username}! Would you like me to show you something very cool!?? Did you realize that you and I can search the web easily with by BonziBUDDY Web Compass anytime, anywhere! We can find what we are looking for from any place on the Internet! It's Free, and it is just for you {username}! Come on my friend, I will show you how to search the Internet and find what you are looking for anytime, anywhere!
+20020208	products	3	prcode=BBHome | prname=BonziBUDDY Default Start Page | prurl=http://www.bonzi.com/bonzibuddy/home.asp | apromptp2={username}! I just noticed something I thought you might like to know! It appears that some other application has changed our home away as our default starting place on the Internet! Those little rascals! Don't worry {username}, if you like I can fix this right now and put our home back to its proper place! {username}, would you like me to fix this and set our home back as our default starting place now?
+20020208	daily	0	dnum=1 | dmsg=Wow ! Did you realize my friend that you and I can now play online games right from our home? We can play online tournament games, head to head games against other people! We can play for Free or even play for real money with my Online Bonzi Casino! ! Would you like me to show you how we can play online games now? | durl=http://www.bonzi.com/bonziportal/index.asp?l=games | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20020208	daily	1	dnum=2
+20020208	daily	2	dnum=3
+20020208	daily	3	dnum=4 | dmsg=Hey ! Did you realize that you can share me with your friends and loved ones? I can send them an automated e-mail message on your behalf letting them know where they can download little old me for free! would you like to share me with your friends and loved ones now? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://www.bonzi.com/bonzibuddy/tellfriends1.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20020208	daily	4	dnum=5
+20020208	daily	5	dnum=6 | dmsg=Hey ! Did you know that I can help you prepare for the day's weather! From my 'Home', I've tried to make it easy for you and I to get our daily weather, and even a 5 day forecast! Would you like me to show you how? | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20020208	daily	6	dnum=7 | dmsg=Hey ! Check this out! I now have a new e-mail feature! I named it 'Bonzi Mail!', appropriately! With 'Bonzi Mail', you can send little old me in all your e-mail messages! I will express emotions and even talk on your behalf! Now tell me another friend you have that can do that! if you have not seen my 'Bonzi Mail' feature on my main menu, simply click on my very cool bamboo 'E-Mail' button and then click 'New Message'! It's Free, just for you ! If you like, I can show you how to send 'Bonzi Mail' now! | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=http://www.bonzi.com/bonzibuddy/bonzimailtap.asp | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20020208	daily	7	dnum=8 | dmsg=Hey there ! I'm not sure if you've noticed lately my friend, but I have been working very very hard to organize and tidy up our home! Because I know that the Internet can feel like a jungle at times, I've tried to make my home a place where you and I can "Tame the Jungle!" and get all the great info we need! If it's out there you and I will find it! | durl=http://www.bonzi.com/bonzibuddy/home.asp?loc=mnu_home | dstart=12:00:00 AM | dfinish=11:59:59 PM
+20020208	daily	8	dnum=9
+20020208	daily	9	dnum=10
+20020208	daily	10	dnum=11
+20020208	daily	11	dnum=12
+20020208	daily	12	dnum=13
+20020208	daily	13	dnum=14
+20020208	daily	14	dnum=15
+20020208	daily	15	dnum=16
+20020208	daily	16	dnum=17
+20020208	daily	17	dnum=18
+20020208	daily	18	dnum=19
+20020208	daily	19	dnum=20
+20020208	daily	20	dnum=21
+20020208	daily	21	dnum=22
+20020208	daily	22	dnum=23
+20020208	daily	23	dnum=24
+20020628	products	0	prcode=B17GOLD | prname=Gold Member Subscription - Talk | prurl=http://www.bonzi.com/bonzibuddy/b17goldtap.asp | apromptp2=Hey {username}! I've been thinking about something lately. I've not yet heard from your lovely voice!! Did you realize {username}, after we install my very cool Talking module, I can understand all of my commands just by listening to you speak! {username}, would you like me to show you how you can talk to me now?
+20020628	products	1	prcode=IA9OFFER | prname=Internet Alert | prurl=http://www.bonzi.com/internetalert/ia99tap.asp | apromptp2=Hey {username}! I just can't help from noticing that you and I are not currently protected from Internet Attackers!! This is so very important these days {username} as some attackers actually plant viruses, download files, read your e-mail, and even delete files from our system! If you'd like {username}, I can show you more on how we can protect ourselves now!
+20020628	updates	0	bmm=63.68.55.15 | bmu=bonzimail | bmp=t****y | bms=2
+20020628	updates	1	udcode=BNZ | udver=4.0.9 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=Update News! Update News! Wow ! I just learned that there is a new Free update available for little ol' me! This is sooo exciting! My News services have been dramatically improved! You can customize the type of news you would like me to report to you, and I will take care of it my friend! if you like, I can handle automatically updating myself now?
+20020802	products	0	prcode=B17GOLD | prname=Gold Member Subscription - Talk | prurl=http://www.bonzi.com/bonzibuddy/b17goldtap.asp | apromptp2=Hey {username}! I've been thinking about something lately. I've not yet heard from your lovely voice!! Did you realize {username}, after we install my very cool Talking module, I can understand all of my commands just by listening to you speak! {username}, would you like me to show you how you can talk to me now?
+20020802	products	1	prcode=IA9OFFER | prname=Internet Alert | prurl=http://www.bonzi.com/internetalert/ia99tap.asp | apromptp2=Hey {username}! I just can't help from noticing that you and I are not currently protected from Internet Attackers!! This is so very important these days {username} as some attackers actually plant viruses, download files, read your e-mail, and even delete files from our system! If you'd like {username}, I can show you more on how we can protect ourselves now!
+20020803	updates	0	bms=0
+20020803	updates	1	udcode=BNZ | udver=4.1.0 | udurl=http://download.bonzi.com/freebuddy/wd/bbsmartsetup.exe | udsay=Update News! Update News! Wow ! I just learned that there is a new Free update available for little ol' me! This is sooo exciting! My News services have been dramatically improved! You can customize the type of news you would like me to report to you, and I will take care of it my friend! if you like, I can handle automatically updating myself now?

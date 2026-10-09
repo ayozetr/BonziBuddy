@@ -1,0 +1,446 @@
+address	type	used_by_functions	string
+004001c0	char[8]		.text
+004001e8	char[8]		.data
+00400210	char[8]		.rsrc
+00400248	TerminatedCString		MSVBVM60.DLL
+00401fa0	string		Intro
+0044c2e8	string		ArialD
+0044c2fa	string		prgLoading
+0044c308	string		MSComctlLib.ProgressBar
+0044c3b0	string		lblLoadCount
+0044c3f4	string		lblStatus
+0044c402	string		Loading Images...
+0044e1c5	string		MSComctlLib.ProgressBar
+0044e1dd	string		ProgressBar
+0044e315	string		MSComctlLib.ImageList
+0044e32b	string		ImageList
+0044e45d	string		MSComDlg.CommonDialog
+0044e473	string		CommonDialog
+0044e638	string		Caption
+0044e640	string		Value
+0044e678	string		Threed.SSCommand
+0044e689	string		SSCommand
+0044e7d8	string		AgentCtl.dll
+0044e7e5	string		AgentObjectsCtl.Agent
+0044e7fb	string		Agent
+00450198	string		frmMain
+004501a0	string		Intro
+004501b0	string		frmSelectImage
+004501c0	string		frmScores
+004501cc	string		clsDoublyLinkedList
+004501e0	string		clsDoublyLinkedListItem
+004501f8	string		clsDoublyLinkedListChildSkeleton
+0045021c	string		modMain
+00450224	string		clsDLLScores
+00450234	string		clsDLLIScore
+00450244	string		frmName
+00450250	unicode		BONZIBUDDY
+0045026c	unicode	FUN_0072dfc0	Bonzi.acs
+00450284	unicode	FUN_0072dfc0	Bonzi
+00450294	unicode		BonziBDY.exe
+004502b4	unicode	FUN_007343f0,FUN_00734740	jscores.dat
+00450320	string		Picture6
+0045033c	string	00450384	C:\Program Files\Microsoft Visual Studio\VB98\VB6.OLB
+004503cb	string		_C:\WINNT\system32\ssa3d30.oca
+004503ec	string	00450408	Threed
+0045041c	string		cmdHint
+0045043c	string		Picture3
+00450458	string		cmdCheat
+00450464	string		cmdScoreBoard
+00450474	string		tmrShutDown
+00450480	string		picFirstPick
+004504a0	string		Picture5
+004504ac	string		cmdShiftDown
+004504bc	string		cmdPreviousLevel
+004504d0	string		picHint
+004504e0	string		tmrGameTimer
+004504f0	string		cmdScramble
+0045050c	string		lblTime
+00450514	string		picCustom
+00450540	string		Agent1
+00450558	string	00450598	C:\WINNT\msagent\AgentCtl.oca
+00450578	string	0045059c	AgentObjectsCtl
+004505b0	string		Picture2
+004505d4	string		Picture1
+004505e0	string		cmdShiftLeft
+004505f0	string		cmdShiftUp
+004505fc	string		cmdNextLevel
+0045060c	string		cmdSelectImage
+0045061c	string		cmdClose
+00450628	string		Picture4
+00450634	string		cmdMinimize
+00450640	string		SetCustomPuzzle
+00450650	string		SetPuzzle
+00450744	unicode	FUN_007253c0,FUN_00727880,FUN_0072ea30,FUN_00734740	hh:nn:ss
+00450778	string	00450960	C:\WINNT\system32\MSCOMCTL.oca
+00450798	string	00450964	MSComctlLib
+00450820	unicode	FUN_007253c0	  That puts you in 
+00450860	unicode	FUN_007253c0	Great Score!
+00450880	unicode	FUN_007253c0,FUN_00727600	00:00:00
+00450924	string		lblLoadCount
+00450944	string		prgLoading
+00450978	string		lblStatus
+00450984	string	00450088,0045008c	ProgressMax
+00450990	string	00450090,00450094	ProgressMin
+0045099c	string	00450098,0045009c	ProgressValue
+004509cc	string	004509ec	WINMM.DLL
+004509dc	string		sndPlaySoundA
+00450a90	string		lblPuzzleName
+00450aa0	string		cmdNext
+00450aa8	string		cmdPrevious
+00450ac4	string		lblScores
+00450ad0	string		ShowScoresForm
+00450af4	unicode	FUN_00727dc0	Are you sure you want to scramble this puzzle?
+00450b94	string		picFrame
+00450ba0	string		cmdCancel
+00450bac	string		cmdOpen
+00450bcc	string		HScroll1
+00450bd8	string		picPuzzleList
+00450c9c	string		Class
+00450cb4	string	00450cf0	C:\WINNT\system32\msvbvm60.dll\3
+00450cd8	string	00450cf4	VBRUN
+00450d08	string		GetScoresForAPuzzle
+00450d1c	string	00450154	LoadScores
+00450d28	string	00450158	SaveScores
+00450d34	string	0045015c	GetScores
+00450d40	string	00450160	NewScore
+00450dd0	unicode	FUN_00730390,FUN_00730db0,FUN_00731510	BonziBUDDY
+00450dec	unicode	FUN_00730390,FUN_00730db0,FUN_00731510	Jigsaw
+00450e00	unicode	FUN_00730390	Intro
+00450e10	unicode	FUN_00730390,FUN_00730db0,FUN_00731510	FALSE
+00450e20	unicode	FUN_00730390	TRUE
+00450e40	unicode	FUN_00730390	Explain
+00450ea4	unicode	FUN_00730390	I've collected together some of the \emp\best pictures I could find and made them into \emp\jigsaw puzzles!
+00450f94	unicode	FUN_007308a0	Hee Hee!  You've \emp\solved the puzzle!
+00451008	string		__vbaVarSetObjAddref
+004510ec	unicode	FUN_00730390	If you need help, just \emp\click and hold down the \emp\lightbulb shaped \emp\Hint button.
+004511c0	string		__vbaNew
+004511d0	unicode	FUN_00730390	When you've beaten all of the puzzles you can continue to play with your own images!  To import an image click on the \emp\Camera button and then click on \emp\Open.
+00451320	unicode	FUN_00730390	Alert
+00451330	unicode	FUN_00730390	Let's try a puzzle now!
+00451378	unicode	FUN_00730390	It's \emp\jigsaw time!
+004513b8	unicode	FUN_007308a0	I can't \emp\believe you got it!  \pau=500\That one was realy hard!  \pau=500\\emp\Good job!
+004514ec	unicode	FUN_007308a0	Wow!  \emp\That was impressive!
+004515fc	string		__vbaBoolStr
+0045160c	string		__vbaExitProc
+0045161c	string		__vbaVarTstGe
+00451640	string		__vbaAryDestruct
+00451654	string		__vbaAryConstruct2
+00451668	string		__vbaEnd
+00451674	string		__vbaGenerateBoundsError
+0045169c	string		__vbaErase
+004516a8	string		__vbaVarAdd
+004516c8	string		__vbaLateIdCallLd
+004516dc	string		__vbaCastObjVar
+004516ec	string		__vbaVerifyVarObj
+00451700	string		__vbaCastObj
+00451710	string		__vbaObjSetAddref
+00451724	string		__vbaLateIdSt
+00451734	string		__vbaErrorOverflow
+00451758	string		__vbaVarForNext
+00451774	string		__vbaVarForInit
+00451784	string		__vbaFreeObjList
+00451798	string		__vbaNew2
+004517a4	string		__vbaOnError
+004517b4	string		__vbaLenVar
+004517c0	string		__vbaVarTstNe
+004517d0	string		__vbaVarCat
+004517dc	string		__vbaVarDup
+00451814	string		__vbaStrVarVal
+00451824	string		__vbaStrCat
+00451830	string		__vbaFreeVarList
+00451844	string		__vbaLenBstr
+00451854	string		__vbaVarTstEq
+00451864	string		__vbaVarSub
+00451874	string		__vbaVarMove
+00451884	string		__vbaStrI2
+00451890	string		__vbaStrMove
+004518a0	string		__vbaFreeVar
+004518b0	string		__vbaFreeStr
+004518c0	string		__vbaStrCopy
+004518d0	string		__vbaDateVar
+004518e0	string		__vbaFreeObj
+004518f0	string		__vbaHresultCheckObj
+00451908	string		__vbaObjSet
+0045193c	string		__vbaStrToUnicode
+00451950	string		__vbaLateIdCall
+00451960	string		__vbaSetSystemError
+00451974	string		__vbaStrToAnsi
+00451984	string		__vbaStrVarMove
+004519e0	string		__vbaR8IntI2
+004519f4	string		__vbaAryMove
+00451a24	string		Count
+00451a2c	string	004500f8	Insert
+00451a34	string	004500fc,0045012c,00450140,0045017c	Delete
+00451a3c	string	00450100	Clear
+00451a74	string		__vbaVarTstGt
+00451a94	string	00450114,00450118	NextItem
+00451aa0	string	0045011c,00450120	PreviousItem
+00451ab0	string	00450124,00450128	Descendant
+00451abc	string	00450138,0045013c,00450174,00450178	Ancestor
+00451ac8	string		__vbaVarLateMemCallLd
+00451ae0	string		__vbaBoolVarNull
+00451af4	string		__vbaVarSetVarAddref
+00451b0c	string		__vbaVarVargNofree
+00451b20	string		__vbaVarCopy
+00451b50	string	00450144,00450180	Create
+00451b5c	unicode	FUN_00734740	Puzzle 
+00451bc0	string		GetRank
+00451bdc	string		__vbaAryCopy
+00451bec	string		__vbaFreeStrList
+00451c00	string		__vbaWriteFile
+00451c10	string		__vbaFileClose
+00451c20	string		__vbaInputFile
+00451c30	string		__vbaFileOpen
+00451c98	string		lblMessage
+00451d14	string		frmScores
+00451d22	string		Scoreboard
+00478aa8	string		cmdClose
+00478ab4	string		Threed.SSCommand
+0047a36a	string		cmdNext
+0047a375	string		Threed.SSCommand
+0047ae43	string		cmdPrevious
+0047ae52	string		Threed.SSCommand
+0047bc4a	string		lblScores
+0047bc58	string		----------------------------------
+0047bcb9	string		lblScores
+0047bcc7	string		----------------------------------
+0047bd28	string		lblScores
+0047bd36	string		----------------------------------
+0047bd97	string		lblScores
+0047bda5	string		----------------------------------
+0047be06	string		lblScores
+0047be14	string		----------------------------------
+0047be73	string		lblPuzzleName
+0047be85	string		Puzzle 1.
+0047bf24	string		frmName
+0047bf30	string		High Score!
+004ac408	string		lblMessage
+004ac417	string		Good Job! You finished this puzzle with a time of 00:00:00. That puts you in 5th place! Enter your name below.
+004ac51c	string		frmSelectImage
+004ac52f	string		Select a Puzzle
+004efb10	string		imlStripImages
+004efb22	string		MSComctlLib.ImageList
+00533dc6	string		CommonDialog1
+00533dd7	string		MSComDlg.CommonDialog
+00533e55	string		picFrame
+00533e7b	string		picPuzzleList
+0053b1bb	string		HScroll1
+0053b1e4	string		cmdOpen
+0053b1ef	string		Threed.SSCommand
+0053d166	string		Threed.SSCommand
+0053f0d6	string		cmdCancel
+0053f0e3	string		Threed.SSCommand
+005410b4	string		frmMain
+005410c0	string		Bonzi's Jungle Jigsaw
+00551c77	string		tmrShutDown
+00551c9c	string		cmdClose
+00551ca8	string		Threed.SSCommand
+00552698	string		Close
+005526a7	string		cmdCheat
+005526b4	string		CHEAT
+005526d1	string		picCustom
+00552708	string		Picture5
+005749d2	string		Picture5
+00585f76	string		Picture5
+005afe6a	string		Picture5
+005ddd97	string		Picture5
+005e8a8b	string		Picture5
+006316a6	string		Picture5
+00654c8a	string		Picture5
+0066bb88	string		Picture5
+0067aaab	string		tmrGameTimer
+0067aad3	string		picFirstPick
+006b8488	string		Picture4
+006b84bc	string		Picture1
+006f5e71	string		picHint
+006f5ea7	string		Picture2
+006f5edf	string		Picture6
+00702cff	string		Picture3
+00703132	string		ImageList1
+00703140	string		MSComctlLib.ImageList
+007031be	string		cmdMinimize
+007031cd	string		Threed.SSCommand
+0070358d	string		emtU^gOV_GISFOSJORHML<AB
+007039de	string		emtU^gOV_GISFOSJORHML<AB
+00703abd	string		Minimize
+00703acf	string		cmdShiftUp
+00703add	string		Threed.SSCommand
+0070454d	string		Shift Puzzle Up
+00704566	string		cmdShiftLeft
+00704576	string		Threed.SSCommand
+007052c6	string		Shift Puzzle Left
+007052e1	string		cmdHint
+007052ec	string		Threed.SSCommand
+0070835a	string		cmdScramble
+00708369	string		Threed.SSCommand
+0070f2d9	string		Scramble
+0070f2eb	string		cmdSelectImage
+0070f2fd	string		Threed.SSCommand
+0071626d	string		Select Puzzle
+00716284	string		cmdPreviousLevel
+00716298	string		Threed.SSCommand
+00716e35	string		6KkOYcLR]MS^HNSBGJMQVHNULRYR[dS]gV\gW]hXakWak\hr^jt_lt[fnVaiV`gPX_JRYLS\NU^S\eS\eMU\EMTJPWHNUFLSDJQFLSDJODJQCINDHMDILGJNDGKGKPFJOEMTDLSIQXCKRFLSHKSHKSLOWQ]aXbiPZaPX_QY`U]dT^e\fmkpseee[XS
+00716ef1	string		ESeLS\GLUGIQEHLLSVYcjYcm[dmYbkajt\fpU_iXajV_hU^gR\cLV]FPWKR[NS\KQXKR[LU^KT^PYbPYbNT[EKREHPFIQIOVPW`T^eOY`V^eW`dSY^PV[NRWIMRGKPADI?BJBEMEKREKRIOVRX_LT[`gpenwcnvfs{cqwbntalpJSWJPUPUTMKJNKF
+00717714	string		gsy\fmTZaGMR8>C58<36;8;CEMTP[cT`jWcmWcmR\fJRYLT[FNURZaXajYcm_hrajt]hpZdnS_iR^hS^fT]gXak[eo]jx\jvYhqWbjQ[bIOVGMTLRYHPWJRYLS\QZcNW`MV_LS\KQXIMRGMTHNUIMREINBEMDGOBFKDCEDECAB@
+007178da	string		_kw]gqQZcHNUMPXAGN>DKELUNV]MW^LT[KQXHMVAHQDNUGQXJRYMSZGLUEJSOT]PW`PYbOXaIR[MV_PYbZdk`hhehfNMI
+0071910a	string		6KkOYcLR]MS^HNSBGJMQVHNULRYR[dS]gV\gW]hXakWak\hr^jt_lt[fnVaiV`gPX_JRYLS\NU^S\eS\eMU\EMTJPWHNUFLSDJQFLSDJODJQCINDHMDILGJNDGKGKPFJOEMTDLSIQXCKRFLSHKSHKSLOWQ]aXbiPZaPX_QY`U]dT^e\fmkpseee[XS
+007191c6	string		ESeLS\GLUGIQEHLLSVYcjYcm[dmYbkajt\fpU_iXajV_hU^gR\cLV]FPWKR[NS\KQXKR[LU^KT^PYbPYbNT[EKREHPFIQIOVPW`T^eOY`V^eW`dSY^PV[NRWIMRGKPADI?BJBEMEKREKRIOVRX_LT[`gpenwcnvfs{cqwbntalpJSWJPUPUTMKJNKF
+007199e9	string		gsy\fmTZaGMR8>C58<36;8;CEMTP[cT`jWcmWcmR\fJRYLT[FNURZaXajYcm_hrajt]hpZdnS_iR^hS^fT]gXak[eo]jx\jvYhqWbjQ[bIOVGMTLRYHPWJRYLS\QZcNW`MV_LS\KQXIMRGMTHNUIMREINBEMDGOBFKDCEDECAB@
+00719baf	string		_kw]gqQZcHNUMPXAGN>DKELUNV]MW^LT[KQXHMVAHQDNUGQXJRYMSZGLUEJSOT]PW`PYbOXaIR[MV_PYbZdk`hhehfNMI
+0071a890	string		Previous Puzzle
+0071a8a9	string		cmdShiftDown
+0071a8b9	string		Threed.SSCommand
+0071b3c9	string		Shift Puzzle Down
+0071b3e4	string		cmdNextLevel
+0071b3f4	string		Threed.SSCommand
+0071fcdc	string		Next Puzzle
+0071fcf1	string		cmdScoreBoard
+0071fd02	string		Threed.SSCommand
+00720075	string	00451488,004519b0	qx^jpXcgQZ^MTWKPSFKL;?@5:=38;489548+032133338664675789;<???@DEGJREKPFIMJKOJNOHLQGIJDHIKJLIFHACCCEEGDFEGGCGHFKLFJOFHPLOTQTYOUZX]fU]dV\cU^gU]dZ]e^fmW_fX^eS[bT\cT\cU]dPX_Z`gX^eYZ^HFF
+0072012d	string		/'-:HNYOXaRYbKR[OW^S\`]el`gp]imXbiNV]DKN:CF148015/2615:7:B:=EBEMEHPKQX[_dW^gOUZELOFKNQRVNOSHLMIIILNOQQQQVYTV^UX]NSTQRVRVWRRXMQRKOPOQRSUVSUVIKLFHIHKOEHMHKOKPSIPSMVYQ[bQW^STXX]`SY^TW_TW\SW\X\aQY`RZaZbiV^eOW^MU\GMRKOTOSXJORDEC
+007203a8	string		!"),0;BELUY[bkagr`is_hr\enZem\fmZdkVae[afUSS
+00721dfe	string		/'-:HNYOXaRYbKR[OW^S\`]el`gp]imXbiNV]DKN:CF148015/2615:7:B:=EBEMEHPKQX[_dW^gOUZELOFKNQRVNOSHLMIIILNOQQQQVYTV^UX]NSTQRVRVWRRXMQRKOPOQRSUVSUVIKLFHIHKOEHMHKOKPSIPSMVYQ[bQW^STXX]`SY^TW_TW\SW\X\aQY`RZaZbiV^eOW^MU\GMRKOTOSXJORDEC
+00722079	string		!"),0;BELUY[bkagr`is_hr\enZem\fmZdkVae[afUSS
+007236f2	string		Scoresboard
+00723707	string		cmdShiftRight
+00723718	string		Threed.SSCommand
+00724508	string		Shift Puzzle Right
+00724524	string		Agent1
+0072452e	string		AgentObjectsCtl.Agent
+0072456c	string		lblTime
+00725278	string		strFileName
+00725284	string		PuzzleIndex
+0072529c	string		intNewMax
+007252a8	string	0072460c	intNewMin
+007252b4	string		intNewValue
+007252cc	string		intLevel
+007252f0	string		intIndex
+007252fc	string	00724690	intPuzzle
+00725308	string	00724688	strName
+00725310	string	0072468c	dtmTime
+00725318	string	007245b4	objNewObject
+00725328	string		objDyingObject
+00725338	string		varNewKey
+00725344	string		objNewNextItem
+00725354	string		objNewPreviousItem
+00725368	string		varNewDescendant
+0072537c	string	00724610	objNewAncestor
+0072538c	string		strNewName
+00725398	string	00724614	dtmNewTime
+00735bdc	TerminatedCString		MSVBVM60.DLL
+00735bec	TerminatedCString		__vbaVarTstGt
+00735bfc	TerminatedCString		__vbaVarSub
+00735c0a	TerminatedCString		__vbaStrI2
+00735c18	TerminatedCString		_CIcos
+00735c22	TerminatedCString		_adj_fptan
+00735c30	TerminatedCString		__vbaVarMove
+00735c40	TerminatedCString		__vbaVarVargNofree
+00735c56	TerminatedCString		__vbaAryMove
+00735c66	TerminatedCString		__vbaFreeVar
+00735c76	TerminatedCString		__vbaLateIdCall
+00735c88	TerminatedCString		__vbaStrVarMove
+00735c9a	TerminatedCString		__vbaLenBstr
+00735caa	TerminatedCString		__vbaFreeVarList
+00735cbe	TerminatedCString		__vbaEnd
+00735cca	TerminatedCString		_adj_fdiv_m64
+00735cda	TerminatedCString		__vbaFreeObjList
+00735cee	TerminatedCString		_adj_fprem1
+00735cfc	TerminatedCString		__vbaVarSetVarAddref
+00735d14	TerminatedCString		__vbaStrCat
+00735d22	TerminatedCString		__vbaWriteFile
+00735d34	TerminatedCString		__vbaSetSystemError
+00735d4a	TerminatedCString		__vbaHresultCheckObj
+00735d62	TerminatedCString		__vbaLenVar
+00735d70	TerminatedCString		_adj_fdiv_m32
+00735d80	TerminatedCString		__vbaAryDestruct
+00735d94	TerminatedCString		__vbaVarForInit
+00735da6	TerminatedCString		__vbaExitProc
+00735db6	TerminatedCString		__vbaBoolStr
+00735dc6	TerminatedCString		__vbaObjSet
+00735dd4	TerminatedCString		__vbaOnError
+00735de4	TerminatedCString		_adj_fdiv_m16i
+00735df6	TerminatedCString		__vbaObjSetAddref
+00735e0a	TerminatedCString		_adj_fdivr_m16i
+00735e1c	TerminatedCString		__vbaFpR4
+00735e28	TerminatedCString		__vbaBoolVarNull
+00735e3c	TerminatedCString		_CIsin
+00735e46	TerminatedCString		__vbaErase
+00735e54	TerminatedCString		__vbaChkstk
+00735e62	TerminatedCString		__vbaFileClose
+00735e74	TerminatedCString		EVENT_SINK_AddRef
+00735e88	TerminatedCString		__vbaGenerateBoundsError
+00735ea4	TerminatedCString		__vbaVarTstEq
+00735eb4	TerminatedCString		__vbaAryConstruct2
+00735eca	TerminatedCString		__vbaI2I4
+00735ed6	TerminatedCString		DllFunctionCall
+00735ee8	TerminatedCString		__vbaCastObjVar
+00735efa	TerminatedCString		_adj_fpatan
+00735f08	TerminatedCString		__vbaR4Var
+00735f16	TerminatedCString		__vbaLateIdCallLd
+00735f2a	TerminatedCString		EVENT_SINK_Release
+00735f40	TerminatedCString		__vbaNew
+00735f4c	TerminatedCString		_CIsqrt
+00735f56	TerminatedCString		__vbaObjIs
+00735f64	TerminatedCString		EVENT_SINK_QueryInterface
+00735f80	TerminatedCString		__vbaExceptHandler
+00735f96	TerminatedCString		__vbaInputFile
+00735fa8	TerminatedCString		__vbaStrToUnicode
+00735fbc	TerminatedCString		_adj_fprem
+00735fca	TerminatedCString		_adj_fdivr_m64
+00735fdc	TerminatedCString		__vbaFPException
+00735ff0	TerminatedCString		__vbaStrVarVal
+00736002	TerminatedCString		__vbaVarCat
+00736010	TerminatedCString		__vbaDateVar
+00736020	TerminatedCString		__vbaI2Var
+0073602e	TerminatedCString		_CIlog
+00736038	TerminatedCString		__vbaErrorOverflow
+0073604e	TerminatedCString		__vbaFileOpen
+0073605e	TerminatedCString		__vbaNew2
+0073606a	TerminatedCString		_adj_fdiv_m32i
+0073607c	TerminatedCString		_adj_fdivr_m32i
+0073608e	TerminatedCString		__vbaStrCopy
+0073609e	TerminatedCString		__vbaFreeStrList
+007360b2	TerminatedCString		_adj_fdivr_m32
+007360c4	TerminatedCString		_adj_fdiv_r
+007360d2	TerminatedCString		__vbaVarTstNe
+007360e2	TerminatedCString		__vbaI4Var
+007360f0	TerminatedCString		__vbaVarAdd
+007360fe	TerminatedCString		__vbaStrToAnsi
+00736110	TerminatedCString		__vbaVarDup
+0073611e	TerminatedCString		__vbaVerifyVarObj
+00736132	TerminatedCString		__vbaFpI2
+0073613e	TerminatedCString		__vbaVarCopy
+0073614e	TerminatedCString		__vbaVarLateMemCallLd
+00736166	TerminatedCString		__vbaVarTstGe
+00736176	TerminatedCString		__vbaVarSetObjAddref
+0073618e	TerminatedCString		__vbaR8IntI2
+0073619e	TerminatedCString		_CIatan
+007361a8	TerminatedCString		__vbaAryCopy
+007361b8	TerminatedCString		__vbaStrMove
+007361c8	TerminatedCString		__vbaCastObj
+007361d8	TerminatedCString		_allmul
+007361e2	TerminatedCString		__vbaLateIdSt
+007361f2	TerminatedCString		_CItan
+007361fc	TerminatedCString		__vbaVarForNext
+0073620e	TerminatedCString		_CIexp
+00736218	TerminatedCString		__vbaFreeObj
+00736228	TerminatedCString		__vbaFreeStr
+0073a2b2	unicode		ATM_SOUND
+0073a2d6	unicode		VS_VERSION_INFO
+0073a332	TerminatedUnicode		VarFileInfo
+0073a352	TerminatedUnicode		Translation
+0073a376	TerminatedUnicode		StringFileInfo
+0073a39a	TerminatedUnicode		040904B0
+0073a3b2	TerminatedUnicode		CompanyName
+0073a3cc	TerminatedUnicode		BONZI.COM Software
+0073a3fa	TerminatedUnicode		ProductName
+0073a414	TerminatedUnicode		Jigsaw
+0073a42a	TerminatedUnicode		FileVersion
+0073a444	TerminatedUnicode		1.00
+0073a456	TerminatedUnicode		ProductVersion
+0073a474	TerminatedUnicode		1.00
+0073a486	TerminatedUnicode		InternalName
+0073a4a0	TerminatedUnicode		Jigsaw
+0073a4b6	TerminatedUnicode		OriginalFilename
+0073a4d8	TerminatedUnicode		Jigsaw.exe

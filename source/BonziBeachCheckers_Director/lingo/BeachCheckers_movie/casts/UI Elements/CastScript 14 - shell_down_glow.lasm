@@ -1,0 +1,27 @@
+on mouseUp me
+  [  0] pushint8 7 .............................. <7>
+  [  3] pushint8 26 ............................. <26>
+  [  6] set 7 ................................... set the soundLevel to 7
+  [  8] pushcons 0 .............................. <"beachButton">
+  [ 10] pusharglistnoret 1 ...................... <"beachButton">
+  [ 12] extcall 2 ............................... puppetSound("beachButton")
+  [ 14] pushint8 11 ............................. <11>
+  [ 17] pusharglist 1 ........................... <11>
+  [ 19] extcall 4 ............................... <sprite(11)>
+  [ 21] pushcons 8 .............................. <"shell_glow">
+  [ 23] pusharglist 1 ........................... <"shell_glow">
+  [ 25] extcall 16 .............................. <cast("shell_glow")>
+  [ 27] setobjprop 17 ........................... sprite(11).member = cast("shell_glow")
+  [ 29] ret
+end
+
+on mouseLeave me
+  [  0] pushint8 11 ............................. <11>
+  [  3] pusharglist 1 ........................... <11>
+  [  5] extcall 4 ............................... <sprite(11)>
+  [  7] pushcons 16 ............................. <"shell_down">
+  [  9] pusharglist 1 ........................... <"shell_down">
+  [ 11] extcall 16 .............................. <cast("shell_down")>
+  [ 13] setobjprop 17 ........................... sprite(11).member = cast("shell_down")
+  [ 15] ret
+end

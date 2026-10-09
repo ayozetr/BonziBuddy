@@ -1,0 +1,386 @@
+timestamp	url	unpacked_size	unpack	type	sha256	matches_repack_file
+20000706195308	http://download.bonzi.com:80/freebuddy/comcat_group	4	deflate@4	577524c8	15f4581d0c02687bc458fb55b2cb23a93a9fd9072982a839a047d180994d9a02	
+20000707001125	http://download.bonzi.com:80/freebuddy/nbd_group	4	deflate@4	577524ca	2ddeba2108173efc9adf45b7e4573759308588d719721f90ea3831aa7f0f79c5	
+20000619005525	http://download.bonzi.com:80/freebuddy/regicon_group	36012	raw	42414356ea934e39	0b30d9f086ba086ccd4f41effded643fc93e6e71e6728f6490f0ff67c0ae19c7	
+20000619103111	http://download.bonzi.com:80/freebuddy/stdole_group	6068	raw	42414356ea934e39	f94ecb4165938a39af7cf9faeb16acc502ce387a0c5e745867f5bebd1b8d6fca	
+20001018052739	http://download.bonzi.com:80/freebuddy/wd/bbsetup.003	17920	deflate@4	PE 1999-03-08	6ea525bface5467c1045c3708f339a4b92a3a273f70656e061c7f7322c56d667	
+20001018063142	http://download.bonzi.com:80/freebuddy/wd/bbsetup.00r	32768	deflate@4	PE 1998-06-18	054fbd3c3a31cea5c69c78c1455d19d2f3486e07428ea951f107d5dac3e58d25	app/RACREG32.DLL
+20001018065355	http://download.bonzi.com:80/freebuddy/wd/bbsetup.00s	32768	deflate@4	PE 2000-02-25	5ef47ce4788b443d143122aded108cc93a8800b58524b32b3d7f5fda7f2e6af4	
+20001018101311	http://download.bonzi.com:80/freebuddy/wd/bbsetup.00t	40960	deflate@4	PE 1999-02-19	48bb226b418dae999d66731599996e042c5592d845ea11548a15ccd3a00fb5ab	app/SSubTmr6.dll
+20001018092633	http://download.bonzi.com:80/freebuddy/wd/bbsetup.00u	77824	deflate@4	PE 1999-04-02	07e91d8ed149d5cd6d48403268a773c664367bce707a99e51220e477fddeeb42	app/Regicon.ocx
+20001018155306	http://download.bonzi.com:80/freebuddy/wd/bbsetup.00x	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20000815210035	http://download.bonzi.com:80/freebuddy/wd/bbsetup.exe	144152	raw	PE 1999-04-08	9f953bc2e9de3c0da6ae149deeabf89a4c9f54c3d498525a85d9c215cad13fd7	
+20010701014118	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.000	77824	deflate@4	PE 2001-06-19	823cffa1b1d91e7b20ffa922dfd82797ff133c66974e687bb8cb49725f1dce1d	
+20011019104811	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.000	116736	deflate@4	PE 2001-07-30	df113379997c111bdc9ca0b05294ce35f9f990da0736eef321aae8bc2737a9d2	
+20011212170140	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.000	118272	deflate@4	PE 2001-11-07	59b332e9d7646deba66909e32a76ff4fa21c2da98bde35b91754263072e2b65a	
+20020404091207	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.000	118272	deflate@4	PE 2001-11-07	59b332e9d7646deba66909e32a76ff4fa21c2da98bde35b91754263072e2b65a	
+20020630224155	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.000	118272	deflate@4	PE 2001-11-07	59b332e9d7646deba66909e32a76ff4fa21c2da98bde35b91754263072e2b65a	
+20020808132634	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.000	117872	deflate@4	PE 2001-11-07	c9b50d1d54c8d6f69ac7e022171583b70e392d5088f74a69c7c0e2d7c1182e82	
+20020207095639	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.001	118272	deflate@4	PE 2001-11-07	59b332e9d7646deba66909e32a76ff4fa21c2da98bde35b91754263072e2b65a	
+20010808101121	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.002	400536	deflate@4	PE 1997-07-15	16ca09ad70561f413376ad72550ae5664c89c6a76c85c872ffe2cb1e7f49e2aa	app/Runtimes/MSAGENT.EXE
+20011004075842	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.002	400536	deflate@4	PE 1997-07-15	16ca09ad70561f413376ad72550ae5664c89c6a76c85c872ffe2cb1e7f49e2aa	app/Runtimes/MSAGENT.EXE
+20020213004443	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.002	400536	deflate@4	PE 1997-07-15	16ca09ad70561f413376ad72550ae5664c89c6a76c85c872ffe2cb1e7f49e2aa	app/Runtimes/MSAGENT.EXE
+20020808131333	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.002	69632	deflate@4	PE 2002-06-21	22eb782dc044108b16b71c3b7d892a9dc88891e777457f33eb1cd6a97d22d73c	
+20010625082544	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.003	53248	deflate@4	PE 2001-06-20	f551d6b35c762e7c57dc1d436619f6a40bcdb620b719da38e4662d62d31124ce	
+20010808102545	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.003	188499	deflate@4	PE 2000-11-17	ce29cdd08770a4bf4d5d50bc7095879ef6844fdee3605bb822e01b1cf3fe771b	
+20011004080140	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.003	188499	deflate@4	PE 2000-11-17	ce29cdd08770a4bf4d5d50bc7095879ef6844fdee3605bb822e01b1cf3fe771b	
+20020108023245	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.003	188499	deflate@4	PE 2000-11-17	ce29cdd08770a4bf4d5d50bc7095879ef6844fdee3605bb822e01b1cf3fe771b	
+20020213004323	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.003	40960	deflate@4	PE 2002-01-08	75caca86c5dd00bd9a1ae28ff5c00835ba37dcedc44c3a6d2b6a501da6760086	
+20020630224343	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.003	40960	deflate@4	PE 2002-01-08	75caca86c5dd00bd9a1ae28ff5c00835ba37dcedc44c3a6d2b6a501da6760086	
+20020808133357	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.003	40960	deflate@4	PE 2002-01-08	75caca86c5dd00bd9a1ae28ff5c00835ba37dcedc44c3a6d2b6a501da6760086	
+20010625083207	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.004	400536	deflate@4	PE 1997-07-15	16ca09ad70561f413376ad72550ae5664c89c6a76c85c872ffe2cb1e7f49e2aa	app/Runtimes/MSAGENT.EXE
+20011004081714	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.004	40960	deflate@4	PE 2001-10-30	a682ea494957178294e9bb28a41595a00e440b843cbf11f4e1bee3c836ec83b1	
+20011212171024	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.004	40960	deflate@4	PE 2001-10-30	a682ea494957178294e9bb28a41595a00e440b843cbf11f4e1bee3c836ec83b1	
+20020630224604	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.004	114688	deflate@4	PE 2001-10-31	8da35814cf6f93102abf3dfcd13133a1eae36e07dace36ce0fac3a40dd1a3c51	
+20020808131225	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.004	49152	deflate@4	PE 2002-06-21	13ffddf9f27458c16014d1bac858f90a79ab58a74c24958b1ae4a068680ed3ed	
+20010625083753	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.005	188499	deflate@4	PE 2000-11-17	ce29cdd08770a4bf4d5d50bc7095879ef6844fdee3605bb822e01b1cf3fe771b	
+20011102001102	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.005	32768	deflate@4	PE 2001-10-31	df5d6576f1595cf293f4154486bbd38f924584a045b5cdf18fddb31ae372974f	
+20011212171023	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.005	40960	deflate@4	PE 2001-10-31	e44b781e02cfaeb3825f74a56036fa37e55057d92b93a56580150504eb15acf9	
+20020207095741	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.005	32768	deflate@4	PE 2001-10-31	df5d6576f1595cf293f4154486bbd38f924584a045b5cdf18fddb31ae372974f	
+20020630224428	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.005	266240	deflate@4	PE 2002-06-21	640602fc5f6aa63cec11fbbe5a2839480bf27dd8490af1b8f6421850f72652a4	
+20020808131558	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.005	266240	deflate@4	PE 2002-06-21	640602fc5f6aa63cec11fbbe5a2839480bf27dd8490af1b8f6421850f72652a4	
+20011102001642	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.006	400536	deflate@4	PE 1997-07-15	16ca09ad70561f413376ad72550ae5664c89c6a76c85c872ffe2cb1e7f49e2aa	app/Runtimes/MSAGENT.EXE
+20020206104506	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.006	400536	deflate@4	PE 1997-07-15	16ca09ad70561f413376ad72550ae5664c89c6a76c85c872ffe2cb1e7f49e2aa	app/Runtimes/MSAGENT.EXE
+20020630225135	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.006	400536	deflate@4	PE 1997-07-15	16ca09ad70561f413376ad72550ae5664c89c6a76c85c872ffe2cb1e7f49e2aa	app/Runtimes/MSAGENT.EXE
+20010625085117	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.007	598288	deflate@4	PE 1999-03-08	baeb2f7c1b8be56738d34e1d1ddf8e0eebd3a633215dc1575e14656be38b939d	
+20011101233933	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.007	188499	deflate@4	PE 2000-11-17	ce29cdd08770a4bf4d5d50bc7095879ef6844fdee3605bb822e01b1cf3fe771b	
+20020630225912	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.007	188499	deflate@4	PE 2000-11-17	ce29cdd08770a4bf4d5d50bc7095879ef6844fdee3605bb822e01b1cf3fe771b	
+20010625085709	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.008	164112	deflate@4	PE 1999-03-08	789c3c45eda1749bd939f4a96616e1e9ef1b7dcc62a2889f65088954c64d0938	
+20011101234718	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.008	477293	deflate@4	c3abcdabde410700	f69010db4a5ce8b662e997323bcc5f76d955f558865980d0f8f15b9bf4338ace	
+20011213214028	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.008	400536	deflate@4	PE 1997-07-15	16ca09ad70561f413376ad72550ae5664c89c6a76c85c872ffe2cb1e7f49e2aa	app/Runtimes/MSAGENT.EXE
+20020206101454	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.008	477293	deflate@4	c3abcdabde410700	f69010db4a5ce8b662e997323bcc5f76d955f558865980d0f8f15b9bf4338ace	
+20020630230103	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.008	477293	deflate@4	c3abcdabde410700	f69010db4a5ce8b662e997323bcc5f76d955f558865980d0f8f15b9bf4338ace	
+20010625090232	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.009	147728	deflate@4	PE 1999-03-08	de83c9d9203050b40c098e4143ef8f577aa90016c7a64d4f2931b57a4c43e566	
+20011213215920	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.009	147728	deflate@4	PE 1999-03-08	de83c9d9203050b40c098e4143ef8f577aa90016c7a64d4f2931b57a4c43e566	
+20020324230642	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.009	147728	deflate@4	PE 1999-03-08	de83c9d9203050b40c098e4143ef8f577aa90016c7a64d4f2931b57a4c43e566	
+20011128123027	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00a	477293	deflate@4	c3abcdabde410700	f69010db4a5ce8b662e997323bcc5f76d955f558865980d0f8f15b9bf4338ace	
+20020324224906	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00a	477293	deflate@4	c3abcdabde410700	f69010db4a5ce8b662e997323bcc5f76d955f558865980d0f8f15b9bf4338ace	
+20010706034511	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00b	1388544	deflate@4	PE 2000-05-27	5d5a5c66ee708ae768937ded1f577499095d8ba286e834155dcec39c41c8fe2d	
+20020111165437	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00b	147728	deflate@4	PE 1999-03-08	de83c9d9203050b40c098e4143ef8f577aa90016c7a64d4f2931b57a4c43e566	
+20010809224531	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00c	995383	deflate@4	PE 1999-11-30	52e1eb5eb51f0b08fe08a6ab97f522247161a816a8296b7bba87d2865f3985fd	
+20011005082634	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00c	995383	deflate@4	PE 1999-11-30	52e1eb5eb51f0b08fe08a6ab97f522247161a816a8296b7bba87d2865f3985fd	
+20020111170712	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00c	17920	deflate@4	PE 1999-03-08	6ea525bface5467c1045c3708f339a4b92a3a273f70656e061c7f7322c56d667	
+20020526175450	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00c	17920	deflate@4	PE 1999-03-08	6ea525bface5467c1045c3708f339a4b92a3a273f70656e061c7f7322c56d667	
+20020108023252	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00d	1388544	deflate@4	PE 2000-05-27	5d5a5c66ee708ae768937ded1f577499095d8ba286e834155dcec39c41c8fe2d	
+20020207100329	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00d	1388544	deflate@4	PE 2000-05-27	5d5a5c66ee708ae768937ded1f577499095d8ba286e834155dcec39c41c8fe2d	
+20020702113737	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00d	1388544	deflate@4	PE 2000-05-27	5d5a5c66ee708ae768937ded1f577499095d8ba286e834155dcec39c41c8fe2d	
+20010625091145	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00e	995383	deflate@4	PE 1999-11-30	52e1eb5eb51f0b08fe08a6ab97f522247161a816a8296b7bba87d2865f3985fd	
+20010809224525	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00e	1066176	deflate@4	PE 2000-05-18	09f126e65d90026c3f659ff41b1287671b8cc1aa16240fc75dae91079a6b9712	
+20011005082443	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00e	1066176	deflate@4	PE 2000-05-18	09f126e65d90026c3f659ff41b1287671b8cc1aa16240fc75dae91079a6b9712	
+20011005094107	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00f		download_failed			
+20010706034523	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00g	1066176	deflate@4	PE 2000-05-18	09f126e65d90026c3f659ff41b1287671b8cc1aa16240fc75dae91079a6b9712	
+20010823152011	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00g	1066176	deflate@4	PE 2000-05-18	09f126e65d90026c3f659ff41b1287671b8cc1aa16240fc75dae91079a6b9712	
+20011101235002	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00g	1066176	deflate@4	PE 2000-05-18	09f126e65d90026c3f659ff41b1287671b8cc1aa16240fc75dae91079a6b9712	
+20020108023638	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00g	995383	deflate@4	PE 1999-11-30	52e1eb5eb51f0b08fe08a6ab97f522247161a816a8296b7bba87d2865f3985fd	
+20020630230303	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00g	995383	deflate@4	PE 1999-11-30	52e1eb5eb51f0b08fe08a6ab97f522247161a816a8296b7bba87d2865f3985fd	
+20010809231956	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00h	149504	deflate@4	PE 1999-06-25	49ef36bd01b8ebf38c7b807a5fb44cbaf47c9d4efa883b01c41494c61ae4a2e2	
+20011004081239	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00h	149504	deflate@4	PE 1999-06-25	49ef36bd01b8ebf38c7b807a5fb44cbaf47c9d4efa883b01c41494c61ae4a2e2	
+20020111172007	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00h	326656	deflate@4	PE 1996-02-20	9bcd0fe2c80a07c33eda7ff67bbb2f7b70f65de6ae5f458e6a6b9411ac5d91a2	
+20020220122106	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00h	326656	deflate@4	PE 1996-02-20	9bcd0fe2c80a07c33eda7ff67bbb2f7b70f65de6ae5f458e6a6b9411ac5d91a2	
+20010625092418	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00i	368912	deflate@4	PE 1996-11-08	ddf8f7366a4e44bd7efcad0b3f20c8b0eb82185cc909b03ce6935415bd8c6a10	
+20011014072414	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00i	28672	deflate@4	PE 2001-09-10	956d42645f9cd97ae79bd2497c1816434ba1bf48214f5303240cb5b1ce112c7b	
+20011212163056	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00i	995383	deflate@4	PE 1999-11-30	52e1eb5eb51f0b08fe08a6ab97f522247161a816a8296b7bba87d2865f3985fd	
+20020212045627	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00i	1066176	deflate@4	PE 2000-05-18	09f126e65d90026c3f659ff41b1287671b8cc1aa16240fc75dae91079a6b9712	
+20020404092337	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00i	995383	deflate@4	PE 1999-11-30	52e1eb5eb51f0b08fe08a6ab97f522247161a816a8296b7bba87d2865f3985fd	
+20020630230301	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00i	1066176	deflate@4	PE 2000-05-18	09f126e65d90026c3f659ff41b1287671b8cc1aa16240fc75dae91079a6b9712	
+20010809225448	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00j	163905	deflate@4	PE 1998-09-16	d19b6b7c57bcee7239526339e683f62d9c2f9690947d0a446001377f0b56103a	
+20011015022749	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00j	163905	deflate@4	PE 1998-09-16	d19b6b7c57bcee7239526339e683f62d9c2f9690947d0a446001377f0b56103a	
+20020702113546	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00j	140288	deflate@4	PE 1999-02-22	46f4fdb12c30742ff4607876d2f36cf432cdc7ec3d2c99097011448fc57e997c	
+20010625081955	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00k	28672	deflate@4	PE 2001-04-05	a1310772c5a0571ca8fd2f8811b36759cc9a736fc8a2ed9433a2ccc957d17982	
+20011015110937	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00k	140288	deflate@4	PE 1997-01-15	0563e77b6bd63eb0561f6264badb5d07dacb7287ce029dc3ca3279a964ea6a6d	app/AUTPRX32.DLL
+20010706034255	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00l	163905	deflate@4	PE 1998-09-16	d19b6b7c57bcee7239526339e683f62d9c2f9690947d0a446001377f0b56103a	
+20010809231956	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00l	151552	deflate@4	PE 1999-11-30	f198ec842cf9b9d1e9e3f4bb6864fae7eea98d6919e0c6609e139e00c262d6bc	app/empop3.dll
+20011016150856	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00l	151552	deflate@4	PE 1999-11-30	f198ec842cf9b9d1e9e3f4bb6864fae7eea98d6919e0c6609e139e00c262d6bc	app/empop3.dll
+20011212165114	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00l	140288	deflate@4	PE 1999-02-22	46f4fdb12c30742ff4607876d2f36cf432cdc7ec3d2c99097011448fc57e997c	
+20020213004148	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00l	140288	deflate@4	PE 1999-02-22	46f4fdb12c30742ff4607876d2f36cf432cdc7ec3d2c99097011448fc57e997c	
+20020630231338	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00l	149504	deflate@4	PE 1999-06-25	49ef36bd01b8ebf38c7b807a5fb44cbaf47c9d4efa883b01c41494c61ae4a2e2	
+20020808132035	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00l	149504	deflate@4	PE 1999-06-25	49ef36bd01b8ebf38c7b807a5fb44cbaf47c9d4efa883b01c41494c61ae4a2e2	
+20010625082714	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00m	140288	deflate@4	PE 1997-01-15	0563e77b6bd63eb0561f6264badb5d07dacb7287ce029dc3ca3279a964ea6a6d	app/AUTPRX32.DLL
+20011004080631	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00m	118784	deflate@4	PE 2000-07-11	743857c8be216893265c231ad45f4ffd3babb67c024ef8ceb5a698e292464263	app/emsmtp.dll
+20011209151726	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00m	368912	deflate@4	PE 1996-11-08	ddf8f7366a4e44bd7efcad0b3f20c8b0eb82185cc909b03ce6935415bd8c6a10	
+20020218174259	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00m	28672	deflate@4	PE 2001-09-10	956d42645f9cd97ae79bd2497c1816434ba1bf48214f5303240cb5b1ce112c7b	
+20020630231746	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00m	135168	deflate@4	PE 2002-02-01	fd5983bfd7498ade06a8666e20564cd215783dd71b3e0700a38908c7f24463ad	
+20010625083015	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00n	151552	deflate@4	PE 1999-11-30	f198ec842cf9b9d1e9e3f4bb6864fae7eea98d6919e0c6609e139e00c262d6bc	app/empop3.dll
+20010809225754	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00n	32768	deflate@4	PE 2000-02-25	5ef47ce4788b443d143122aded108cc93a8800b58524b32b3d7f5fda7f2e6af4	
+20011004080305	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00n	32768	deflate@4	PE 2000-02-25	5ef47ce4788b443d143122aded108cc93a8800b58524b32b3d7f5fda7f2e6af4	
+20011212164530	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00n	149504	deflate@4	PE 1999-06-25	49ef36bd01b8ebf38c7b807a5fb44cbaf47c9d4efa883b01c41494c61ae4a2e2	
+20010625083526	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00o	118784	deflate@4	PE 2000-07-11	743857c8be216893265c231ad45f4ffd3babb67c024ef8ceb5a698e292464263	app/emsmtp.dll
+20011101235713	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00o	140288	deflate@4	PE 1997-01-15	0563e77b6bd63eb0561f6264badb5d07dacb7287ce029dc3ca3279a964ea6a6d	app/AUTPRX32.DLL
+20011212165127	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00o	28672	deflate@4	PE 2001-09-10	956d42645f9cd97ae79bd2497c1816434ba1bf48214f5303240cb5b1ce112c7b	
+20020213003437	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00o	28672	deflate@4	PE 2001-09-10	956d42645f9cd97ae79bd2497c1816434ba1bf48214f5303240cb5b1ce112c7b	
+20020630232159	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00o	28672	deflate@4	PE 2001-09-10	956d42645f9cd97ae79bd2497c1816434ba1bf48214f5303240cb5b1ce112c7b	
+20011212165343	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00p	163905	deflate@4	PE 1998-09-16	d19b6b7c57bcee7239526339e683f62d9c2f9690947d0a446001377f0b56103a	
+20020630232119	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00p	151552	deflate@4	PE 1999-11-30	f198ec842cf9b9d1e9e3f4bb6864fae7eea98d6919e0c6609e139e00c262d6bc	app/empop3.dll
+20010809231525	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00q	209168	deflate@4	PE 2000-05-30	e7693c784a71a6efaade83de94dee14cec6cb7deebe49362600d17ae994e2c76	
+20011004080800	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00q	209168	deflate@4	PE 2000-05-30	e7693c784a71a6efaade83de94dee14cec6cb7deebe49362600d17ae994e2c76	
+20011212165541	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00q	140288	deflate@4	PE 1997-01-15	0563e77b6bd63eb0561f6264badb5d07dacb7287ce029dc3ca3279a964ea6a6d	app/AUTPRX32.DLL
+20020206104040	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00q	151552	deflate@4	PE 1999-11-30	f198ec842cf9b9d1e9e3f4bb6864fae7eea98d6919e0c6609e139e00c262d6bc	app/empop3.dll
+20020404091139	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00q	151552	deflate@4	PE 1999-11-30	f198ec842cf9b9d1e9e3f4bb6864fae7eea98d6919e0c6609e139e00c262d6bc	app/empop3.dll
+20020630233148	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00q	118784	deflate@4	PE 2000-07-11	743857c8be216893265c231ad45f4ffd3babb67c024ef8ceb5a698e292464263	app/emsmtp.dll
+20010625085901	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00r	188688	deflate@4	PE 2000-05-30	ff00dcbda7b56c8ea1026f8c60a49283320c79b74b8cf1a51e5c4ff770d8932c	
+20010809224218	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00r	115920	deflate@4	PE 2000-05-11	dd1215f01b484e7842763302d42749d516963d9ac74e2fe8825a5eaba34f6229	
+20011004081231	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00r	115920	deflate@4	PE 2000-05-11	dd1215f01b484e7842763302d42749d516963d9ac74e2fe8825a5eaba34f6229	
+20011212170957	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00r	151552	deflate@4	PE 1999-11-30	f198ec842cf9b9d1e9e3f4bb6864fae7eea98d6919e0c6609e139e00c262d6bc	app/empop3.dll
+20020630232319	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00r	1118720	deflate@4	PE 2001-07-31	0018a7b87e1da03c5340aab1345427aa16a4e4aec334212802dd656ffc5e4ae4	
+20010625090140	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00s	209168	deflate@4	PE 2000-05-30	e7693c784a71a6efaade83de94dee14cec6cb7deebe49362600d17ae994e2c76	
+20010809225748	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00s	290869	deflate@4	PE 2000-07-13	dadad35bf69ede748178e83a9e66f8d5d371ef9b686d65ca969cd4d1b3cc5c93	
+20011014072652	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00s	290869	deflate@4	PE 2000-07-13	dadad35bf69ede748178e83a9e66f8d5d371ef9b686d65ca969cd4d1b3cc5c93	
+20011212171036	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00s	118784	deflate@4	PE 2000-07-11	743857c8be216893265c231ad45f4ffd3babb67c024ef8ceb5a698e292464263	app/emsmtp.dll
+20020206101415	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00s	658024	deflate@4	PE 1999-09-25	7c06b4ffee7b5b7f63690e686379dffa2dc16b65fbcabacbd4d2c5955a7424f0	
+20020630232548	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00s	658024	deflate@4	PE 1999-09-25	7c06b4ffee7b5b7f63690e686379dffa2dc16b65fbcabacbd4d2c5955a7424f0	
+20010706034329	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00t	115920	deflate@4	PE 2000-05-11	dd1215f01b484e7842763302d42749d516963d9ac74e2fe8825a5eaba34f6229	
+20020213004355	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00t	115920	deflate@4	PE 2000-05-11	dd1215f01b484e7842763302d42749d516963d9ac74e2fe8825a5eaba34f6229	
+20020404092718	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00t	115920	deflate@4	PE 2000-05-11	dd1215f01b484e7842763302d42749d516963d9ac74e2fe8825a5eaba34f6229	
+20010625090908	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00u	290869	deflate@4	PE 2000-07-13	dadad35bf69ede748178e83a9e66f8d5d371ef9b686d65ca969cd4d1b3cc5c93	
+20010809231840	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00u	16896	deflate@4	PE 1998-06-18	c4b58c78dc14e247ba303f630e42e9e56667dafef7aba1f0fdfd058b658f0a36	app/ODKOB32.DLL
+20011015111033	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00u	16896	deflate@4	PE 1998-06-18	c4b58c78dc14e247ba303f630e42e9e56667dafef7aba1f0fdfd058b658f0a36	app/ODKOB32.DLL
+20020630233733	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00u	32768	deflate@4	PE 2000-02-25	5ef47ce4788b443d143122aded108cc93a8800b58524b32b3d7f5fda7f2e6af4	
+20010625091712	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00v	109248	deflate@4	PE 2000-09-14	eba048e3a9cb11671d0e3c5a0b243b304d421762361fe24fd5ea08cb66704b09	
+20011016150250	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00v	32768	deflate@4	PE 1998-06-18	054fbd3c3a31cea5c69c78c1455d19d2f3486e07428ea951f107d5dac3e58d25	app/RACREG32.DLL
+20020404092648	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00v	32768	deflate@4	PE 1998-06-18	054fbd3c3a31cea5c69c78c1455d19d2f3486e07428ea951f107d5dac3e58d25	app/RACREG32.DLL
+20010625092206	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00w	16896	deflate@4	PE 1998-06-18	c4b58c78dc14e247ba303f630e42e9e56667dafef7aba1f0fdfd058b658f0a36	app/ODKOB32.DLL
+20010809225100	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00w	77824	deflate@4	PE 1999-04-02	07e91d8ed149d5cd6d48403268a773c664367bce707a99e51220e477fddeeb42	app/Regicon.ocx
+20011004082842	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00w	77824	deflate@4	PE 1999-04-02	07e91d8ed149d5cd6d48403268a773c664367bce707a99e51220e477fddeeb42	app/Regicon.ocx
+20011213213312	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00w	209168	deflate@4	PE 2000-05-30	e7693c784a71a6efaade83de94dee14cec6cb7deebe49362600d17ae994e2c76	
+20020404091753	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00w	32768	deflate@4	PE 2000-02-25	5ef47ce4788b443d143122aded108cc93a8800b58524b32b3d7f5fda7f2e6af4	
+20020630234102	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00w	188688	deflate@4	PE 2000-05-30	ff00dcbda7b56c8ea1026f8c60a49283320c79b74b8cf1a51e5c4ff770d8932c	
+20011213214550	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00x		download_failed			
+20020213003811	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00x		download_failed			
+20010625082017	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00y	77824	deflate@4	PE 1999-04-02	07e91d8ed149d5cd6d48403268a773c664367bce707a99e51220e477fddeeb42	app/Regicon.ocx
+20010809231339	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00y	345544	deflate@4	PE 2000-04-27	455461ca3f246c07f8b7f8c1e56719e7b21f5ff0d30710d857f1e2da7e733845	
+20011004080510	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00y	345544	deflate@4	PE 2000-04-27	455461ca3f246c07f8b7f8c1e56719e7b21f5ff0d30710d857f1e2da7e733845	
+20020630233932	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00y	115920	deflate@4	PE 2000-05-11	dd1215f01b484e7842763302d42749d516963d9ac74e2fe8825a5eaba34f6229	
+20010625082235	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00z	203976	deflate@4	PE 2000-03-14	0fb6eae2ab36ce6cbeb2dfc45af5dd0c4bb0dc1e59abec84db4e102c3f2b7249	
+20010809224303	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00z	294912	deflate@4	PE 2000-06-26	596f3235642c9c968650194065850ecb02c8c524d2bdcaf6341a01201e0d69be	app/sstabs2.ocx
+20011004081353	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00z	294912	deflate@4	PE 2000-06-26	596f3235642c9c968650194065850ecb02c8c524d2bdcaf6341a01201e0d69be	app/sstabs2.ocx
+20011201093223	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00z	109248	deflate@4	PE 2000-09-14	eba048e3a9cb11671d0e3c5a0b243b304d421762361fe24fd5ea08cb66704b09	
+20020206102542	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00z	109248	deflate@4	PE 2000-09-14	eba048e3a9cb11671d0e3c5a0b243b304d421762361fe24fd5ea08cb66704b09	
+20020404091128	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00z	109248	deflate@4	PE 2000-09-14	eba048e3a9cb11671d0e3c5a0b243b304d421762361fe24fd5ea08cb66704b09	
+20020630234548	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.00z	290869	deflate@4	PE 2001-09-20	eda09e2a61c1f9b9a4ec7bdfd8f4deaac7505855ef9a26ea367e5e23611c5b73	
+20010625083002	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.010	345544	deflate@4	PE 2000-04-27	455461ca3f246c07f8b7f8c1e56719e7b21f5ff0d30710d857f1e2da7e733845	
+20010809225849	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.010	40960	deflate@4	PE 1999-02-19	48bb226b418dae999d66731599996e042c5592d845ea11548a15ccd3a00fb5ab	app/SSubTmr6.dll
+20011212164103	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.010	16896	deflate@4	PE 1998-06-18	c4b58c78dc14e247ba303f630e42e9e56667dafef7aba1f0fdfd058b658f0a36	app/ODKOB32.DLL
+20020206100825	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.010	16896	deflate@4	PE 1998-06-18	c4b58c78dc14e247ba303f630e42e9e56667dafef7aba1f0fdfd058b658f0a36	app/ODKOB32.DLL
+20010625083925	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.011	294912	deflate@4	PE 2000-06-26	596f3235642c9c968650194065850ecb02c8c524d2bdcaf6341a01201e0d69be	app/sstabs2.ocx
+20020206101711	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.011	32768	deflate@4	PE 1998-06-18	054fbd3c3a31cea5c69c78c1455d19d2f3486e07428ea951f107d5dac3e58d25	app/RACREG32.DLL
+20020404092603	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.011	290869	deflate@4	PE 2001-09-20	eda09e2a61c1f9b9a4ec7bdfd8f4deaac7505855ef9a26ea367e5e23611c5b73	
+20020702113617	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.011	16896	deflate@4	PE 1998-06-18	c4b58c78dc14e247ba303f630e42e9e56667dafef7aba1f0fdfd058b658f0a36	app/ODKOB32.DLL
+20010809231255	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.012	3252224	deflate@4	PE 2001-07-17	1b0ca9c02e23ed0e20659e6f07ab404f726cba427f69325b40d420e7a3a987d0	
+20020213003636	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.012	32768	deflate@4	PE 1998-06-18	054fbd3c3a31cea5c69c78c1455d19d2f3486e07428ea951f107d5dac3e58d25	app/RACREG32.DLL
+20020630235112	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.012	32768	deflate@4	PE 1998-06-18	054fbd3c3a31cea5c69c78c1455d19d2f3486e07428ea951f107d5dac3e58d25	app/RACREG32.DLL
+20010625085020	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.013	176128	deflate@4	PE 1999-10-19	20bbd5520b563c18cd7cd63d1c261b4d1324706c5c29f1f0aadbd43f1374f830	
+20011212164713	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.013	203976	deflate@4	PE 2000-03-14	0fb6eae2ab36ce6cbeb2dfc45af5dd0c4bb0dc1e59abec84db4e102c3f2b7249	
+20020705133640	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.013	77824	deflate@4	PE 1999-04-02	07e91d8ed149d5cd6d48403268a773c664367bce707a99e51220e477fddeeb42	app/Regicon.ocx
+20010625085640	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.014	3137536	deflate@4	PE 2001-06-21	166b4eef4852f0ef4772fdb48e4103293fe37fc49864b660ff20930349d137ff	
+20010828164244	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.014	3137536	deflate@4	PE 2001-06-21	166b4eef4852f0ef4772fdb48e4103293fe37fc49864b660ff20930349d137ff	
+20011102000039	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.014	345544	deflate@4	PE 2000-04-27	455461ca3f246c07f8b7f8c1e56719e7b21f5ff0d30710d857f1e2da7e733845	
+20011212165207	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.014	345544	deflate@4	PE 2000-04-27	455461ca3f246c07f8b7f8c1e56719e7b21f5ff0d30710d857f1e2da7e733845	
+20020404092953	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.014	203976	deflate@4	PE 2000-03-14	0fb6eae2ab36ce6cbeb2dfc45af5dd0c4bb0dc1e59abec84db4e102c3f2b7249	
+20020630235348	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.014	203976	deflate@4	PE 2000-03-14	0fb6eae2ab36ce6cbeb2dfc45af5dd0c4bb0dc1e59abec84db4e102c3f2b7249	
+20010625090454	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.015	10000	deflate@4	PE 1999-09-25	7b2c8528bded31a309313cbca486e0b1a4f05728bab1e8b0baed5daf2a23ab74	
+20010809224617	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.015	1021232	deflate@4	PE 1997-07-15	709936902951fb684d0a03a561fb7fd41c5e6f81ecd60d326809db66eb659331	app/Runtimes/tv_enua.exe
+20011212170306	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.015	294912	deflate@4	PE 2000-06-26	596f3235642c9c968650194065850ecb02c8c524d2bdcaf6341a01201e0d69be	app/sstabs2.ocx
+20020213004150	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.015	294912	deflate@4	PE 2000-06-26	596f3235642c9c968650194065850ecb02c8c524d2bdcaf6341a01201e0d69be	app/sstabs2.ocx
+20020701000103	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.015	294912	deflate@4	PE 2000-06-26	596f3235642c9c968650194065850ecb02c8c524d2bdcaf6341a01201e0d69be	app/sstabs2.ocx
+20011003202830	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.016	5245697	deflate@4	c3abcdabd8fc4f00	254b633ec6fc73cabd6540ea0282622d8c808bb1a8546e8f19b31bdde0febace	
+20011212165621	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.016	40960	deflate@4	PE 1999-02-19	48bb226b418dae999d66731599996e042c5592d845ea11548a15ccd3a00fb5ab	app/SSubTmr6.dll
+20020705132345	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.016	294912	deflate@4	PE 2000-06-26	596f3235642c9c968650194065850ecb02c8c524d2bdcaf6341a01201e0d69be	app/sstabs2.ocx
+20010809231259	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.017	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20011212170739	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.017	176128	deflate@4	PE 1999-10-19	20bbd5520b563c18cd7cd63d1c261b4d1324706c5c29f1f0aadbd43f1374f830	
+20020206102908	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.017	176128	deflate@4	PE 1999-10-19	20bbd5520b563c18cd7cd63d1c261b4d1324706c5c29f1f0aadbd43f1374f830	
+20020404091338	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.017	176128	deflate@4	PE 1999-10-19	20bbd5520b563c18cd7cd63d1c261b4d1324706c5c29f1f0aadbd43f1374f830	
+20020705133800	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.017	40960	deflate@4	PE 1999-02-19	48bb226b418dae999d66731599996e042c5592d845ea11548a15ccd3a00fb5ab	app/SSubTmr6.dll
+20010809224828	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.018	34386	deflate@4	64472c644c607b63	c3cea5b388a24292c9aaa548c67c21011986ee8e75001551699b0c8dfa18f1fe	
+20011212171444	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.018	3715072	deflate@4	PE 2001-09-28	119832f157d108864308a2a8ae6feef614906482b1aaacc05ba5ca06767de04a	
+20020630220002	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.018	3715072	deflate@4	PE 2001-09-28	119832f157d108864308a2a8ae6feef614906482b1aaacc05ba5ca06767de04a	
+20010706034445	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.019	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010809225848	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.019	888	deflate@4	654753642c606563	5a8749440d441766dba442097d5956cd7bfc0f3bb1fb46d431df341bba1a2778	app/sites.nbd
+20020206102025	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.019	10000	deflate@4	PE 1999-09-25	7b2c8528bded31a309313cbca486e0b1a4f05728bab1e8b0baed5daf2a23ab74	
+20020404092327	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.019	40960	deflate@4	PE 1999-02-19	48bb226b418dae999d66731599996e042c5592d845ea11548a15ccd3a00fb5ab	app/SSubTmr6.dll
+20020630215507	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.019	3846144	deflate@4	PE 2002-04-25	e6377c5993f44ab40897f1d3a778a92d377f186826f30eba799387fe5dab38ea	
+20020808132430	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.019	3846144	deflate@4	PE 2002-07-31	1c6fe22d9064603b601a848079bee7440e088bf97bf5194739ac0233a31e6cb6	
+20030814103407	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.019	5249795	deflate@4	c3abcdab060d5000	f3d4425238b5f68b4d41ed5be271d2f4118a245baf808a62dc1a9e6e619b2f95	app/MSAGENTS/Bonzi.acs
+20031010225301	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.019	5249795	deflate@4	c3abcdab060d5000	f3d4425238b5f68b4d41ed5be271d2f4118a245baf808a62dc1a9e6e619b2f95	app/MSAGENTS/Bonzi.acs
+20031218080616	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.019	1021232	deflate@4	PE 1997-07-15	709936902951fb684d0a03a561fb7fd41c5e6f81ecd60d326809db66eb659331	app/Runtimes/tv_enua.exe
+20040207215353	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.019	1021232	deflate@4	PE 1997-07-15	709936902951fb684d0a03a561fb7fd41c5e6f81ecd60d326809db66eb659331	app/Runtimes/tv_enua.exe
+20040414201506	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.019	5249795	deflate@4	c3abcdab060d5000	f3d4425238b5f68b4d41ed5be271d2f4118a245baf808a62dc1a9e6e619b2f95	app/MSAGENTS/Bonzi.acs
+20040604160353	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.019	5249795	deflate@4	c3abcdab060d5000	f3d4425238b5f68b4d41ed5be271d2f4118a245baf808a62dc1a9e6e619b2f95	app/MSAGENTS/Bonzi.acs
+20040824213950	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.019	5249795	deflate@4	c3abcdab060d5000	f3d4425238b5f68b4d41ed5be271d2f4118a245baf808a62dc1a9e6e619b2f95	app/MSAGENTS/Bonzi.acs
+20010625080117	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01a	34386	deflate@4	64472c644c607b63	c3cea5b388a24292c9aaa548c67c21011986ee8e75001551699b0c8dfa18f1fe	
+20011102000109	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01a	5245697	deflate@4	c3abcdabd8fc4f00	254b633ec6fc73cabd6540ea0282622d8c808bb1a8546e8f19b31bdde0febace	
+20020213004223	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01a	5245697	deflate@4	c3abcdabd8fc4f00	254b633ec6fc73cabd6540ea0282622d8c808bb1a8546e8f19b31bdde0febace	
+20020630220424	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01a	10000	deflate@4	PE 1999-09-25	7b2c8528bded31a309313cbca486e0b1a4f05728bab1e8b0baed5daf2a23ab74	
+20010625081927	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01b	888	deflate@4	654753642c606563	5a8749440d441766dba442097d5956cd7bfc0f3bb1fb46d431df341bba1a2778	app/sites.nbd
+20011102000635	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01b	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20020808131634	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01b	844448	deflate@4	PE 1997-07-15	7c8133e780d9b9b42f2e2f9e702ca53e4dbaaa49a35ccf6f65a864e80f0fb92a	
+20010625082633	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01c	344064	deflate@4	PE 2000-07-01	2c8f92dc16cbf13542ddd3bf0a947cf84b00fed83a7124b830ddefa92f939877	app/ActiveSkin.ocx
+20011102000708	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01c	34386	deflate@4	64472c644c607b63	c3cea5b388a24292c9aaa548c67c21011986ee8e75001551699b0c8dfa18f1fe	
+20011213214850	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01c	5245697	deflate@4	c3abcdabd8fc4f00	254b633ec6fc73cabd6540ea0282622d8c808bb1a8546e8f19b31bdde0febace	
+20010625083016	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01d	18044	deflate@4	5249464674460000	1cdb5e4d203f61e94c02f5eea5008289fb463c02174879887fc62574b34c12d3	app/CHORD.WAV
+20011102001538	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01d	888	deflate@4	654753642c606563	5a8749440d441766dba442097d5956cd7bfc0f3bb1fb46d431df341bba1a2778	app/sites.nbd
+20011213215826	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01d	888	deflate@4	654753642c606563	5a8749440d441766dba442097d5956cd7bfc0f3bb1fb46d431df341bba1a2778	app/sites.nbd
+20020404091621	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01d	844448	deflate@4	PE 1997-07-15	8955ee03217bc2539e2f80e58f51d30aa97e7512d96592f098133c8036e363dd	
+20020630221343	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01d	844448	deflate@4	PE 1997-07-15	8955ee03217bc2539e2f80e58f51d30aa97e7512d96592f098133c8036e363dd	
+20011128121913	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01e	34386	deflate@4	64472c644c607b63	c3cea5b388a24292c9aaa548c67c21011986ee8e75001551699b0c8dfa18f1fe	
+20020213004053	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01e	34386	deflate@4	64472c644c607b63	c3cea5b388a24292c9aaa548c67c21011986ee8e75001551699b0c8dfa18f1fe	
+20020630221612	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01e	5245697	deflate@4	c3abcdabd8fc4f00	254b633ec6fc73cabd6540ea0282622d8c808bb1a8546e8f19b31bdde0febace	
+20030324094123	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01e	18044	deflate@4	5249464674460000	1cdb5e4d203f61e94c02f5eea5008289fb463c02174879887fc62574b34c12d3	app/CHORD.WAV
+20030922073300	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01e	344064	deflate@4	PE 2000-07-01	2c8f92dc16cbf13542ddd3bf0a947cf84b00fed83a7124b830ddefa92f939877	app/ActiveSkin.ocx
+20020630221428	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01f	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20030922074423	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01f	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20020206102647	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01g	888	deflate@4	654753642c606563	5a8749440d441766dba442097d5956cd7bfc0f3bb1fb46d431df341bba1a2778	app/sites.nbd
+20020404091309	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01g	888	deflate@4	654753642c606563	5a8749440d441766dba442097d5956cd7bfc0f3bb1fb46d431df341bba1a2778	app/sites.nbd
+20030411144711	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01g	949424	deflate@4	PE 1997-07-15	57858127f1a07233ccb4713bd29c860c9a7a201f2b8207ccfc91410478cce4b4	app/Runtimes/spchcpl.exe
+20030625100908	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01g	949424	deflate@4	PE 1997-07-15	57858127f1a07233ccb4713bd29c860c9a7a201f2b8207ccfc91410478cce4b4	app/Runtimes/spchcpl.exe
+20030803080435	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01g	949424	deflate@4	PE 1997-07-15	57858127f1a07233ccb4713bd29c860c9a7a201f2b8207ccfc91410478cce4b4	app/Runtimes/spchcpl.exe
+20031010225338	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01g	949424	deflate@4	PE 1997-07-15	57858127f1a07233ccb4713bd29c860c9a7a201f2b8207ccfc91410478cce4b4	app/Runtimes/spchcpl.exe
+20020206101100	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01h	344064	deflate@4	PE 2000-07-01	2c8f92dc16cbf13542ddd3bf0a947cf84b00fed83a7124b830ddefa92f939877	app/ActiveSkin.ocx
+20020404091255	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01h	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20020702111721	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01h	888	deflate@4	654753642c606563	5a8749440d441766dba442097d5956cd7bfc0f3bb1fb46d431df341bba1a2778	app/sites.nbd
+20020129225731	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01i	888	deflate@4	654753642c606563	5a8749440d441766dba442097d5956cd7bfc0f3bb1fb46d431df341bba1a2778	app/sites.nbd
+20020206101150	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01i	18044	deflate@4	5249464674460000	1cdb5e4d203f61e94c02f5eea5008289fb463c02174879887fc62574b34c12d3	app/CHORD.WAV
+20020404092446	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01i	34386	deflate@4	64472c644c607b63	c3cea5b388a24292c9aaa548c67c21011986ee8e75001551699b0c8dfa18f1fe	
+20020324230506	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.01j		download_failed			
+20010701015320	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.04o	105199	deflate@4	PE 1999-08-17	c516b4935b8c31aa0224c38217cf77da8f49fca8c514cde875550ad9fa8e34f6	
+20011003210206	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.04t	28672	deflate@4	PE 2001-09-28	b4361e9375e445ffa97a4c6000ccf8fad0593489d7f42f14f5467a338052698b	
+20010809231536	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.04u	105199	deflate@4	PE 1999-08-17	c516b4935b8c31aa0224c38217cf77da8f49fca8c514cde875550ad9fa8e34f6	
+20011019131130	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.04u	105199	deflate@4	PE 1999-08-17	c516b4935b8c31aa0224c38217cf77da8f49fca8c514cde875550ad9fa8e34f6	
+20010714101503	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.04v		download_failed			
+20010714101502	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.04w		download_failed			
+20011101233626	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.04x	28672	deflate@4	PE 2001-09-28	b4361e9375e445ffa97a4c6000ccf8fad0593489d7f42f14f5467a338052698b	
+20011101234210	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.04y	105199	deflate@4	PE 1999-08-17	c516b4935b8c31aa0224c38217cf77da8f49fca8c514cde875550ad9fa8e34f6	
+20011212163703	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.04z	28672	deflate@4	PE 2001-09-28	b4361e9375e445ffa97a4c6000ccf8fad0593489d7f42f14f5467a338052698b	
+20011128121936	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.050	105199	deflate@4	PE 1999-08-17	c516b4935b8c31aa0224c38217cf77da8f49fca8c514cde875550ad9fa8e34f6	
+20020118120153	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.051	28672	deflate@4	PE 2002-01-08	7190f9368ff57fcf2220cff08ea65dcc79eb478c8e66379774b0ced52fb5531f	
+20020207093234	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.051	105199	deflate@4	PE 1999-08-17	c516b4935b8c31aa0224c38217cf77da8f49fca8c514cde875550ad9fa8e34f6	
+20020808131539	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.051	28672	deflate@4	PE 2002-04-23	f85525a3ebe334f7403f031ec47c2b32461650224223ee728107dce0e879ea93	app/BonziCTB.dll
+20020428113039	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.052	105199	deflate@4	PE 1999-08-17	c516b4935b8c31aa0224c38217cf77da8f49fca8c514cde875550ad9fa8e34f6	
+20020630221810	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.052	105199	deflate@4	PE 1999-08-17	c516b4935b8c31aa0224c38217cf77da8f49fca8c514cde875550ad9fa8e34f6	
+20020808132045	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.052	105199	deflate@4	PE 1999-08-17	c516b4935b8c31aa0224c38217cf77da8f49fca8c514cde875550ad9fa8e34f6	
+20020324223856	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.054	105199	deflate@4	PE 1999-08-17	c516b4935b8c31aa0224c38217cf77da8f49fca8c514cde875550ad9fa8e34f6	
+20010410235332	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	292920	raw	PE 1999-04-08	48f72acf99a800595352a962b250b73d60e2414bcd87da3db6b0441d8e816d71	
+20010609162449	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	292920	raw	PE 1999-04-08	48f72acf99a800595352a962b250b73d60e2414bcd87da3db6b0441d8e816d71	
+20010801174010	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe		download_failed			
+20011212164737	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	320568	raw	PE 1999-04-08	9c39df72b930ff81b99d5819cc4ad22dac329d6258624fc23b501737e86ecf1e	
+20020204231500	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	312832	raw	PE 1999-04-08	ff5249c84d415afbe2e2a619d84caa8b6998b9ccd39f821eaa942dc541e99058	
+20020601175712	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	312832	raw	PE 1999-04-08	ff5249c84d415afbe2e2a619d84caa8b6998b9ccd39f821eaa942dc541e99058	
+20021008040325	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	317608	raw	PE 1999-04-08	c69df84de1bdbe6d1b4995bb6ced6565af3fc23c8a4fc80bbc32962ee4adb062	
+20021204092400	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	317608	raw	PE 1999-04-08	ec83d262ab4ff3117b5c2dd8821a063480671161ad0c43b084c979cf4519fb83	
+20030202100522	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	304640	raw	PE 1999-04-08	419694e9f772c74b83768b789a29ade53db7bd6d13c08aa34c4501378c513118	
+20030611193906	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	314312	raw	PE 1999-04-08	f9182851129c666b1344a861357f1dd401726f5ff0b5536f2eb0e2131ce653a8	
+20030803080706	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	314312	raw	PE 1999-04-08	f9182851129c666b1344a861357f1dd401726f5ff0b5536f2eb0e2131ce653a8	
+20031003054724	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	314312	raw	PE 1999-04-08	06cf926655e16fa1f79af417661ce996d887c854795bc50d614e980c6dab9530	
+20031217111318	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	315848	raw	PE 1999-04-08	c0d311f39db768903f90e0b0a3994b074dbfddbdbd23257a8f6986303f376dc5	
+20040405120814	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	297600	raw	PE 1999-04-08	468a52a7472635a5562f9e525be593aa16d360c9a6b894faf5227ddf4a943630	
+20040603120348	http://download.bonzi.com:80/freebuddy/wd/bbsmartsetup.exe	297600	raw	PE 1999-04-08	80f79023c05658121591f9ad83f483544334e227187b22669e51e3529142c96d	
+20000817204556	http://download.bonzi.com:80/freebuddy/bbsetup.exe	141392	raw	PE 1999-04-08	5182877ad7419cbb800decd100d13551a10405b591ec2baba522280d04c14f72	
+20010701013536	http://download.bonzi.com:80/freebuddy/bbsetup.exe	141392	raw	PE 1999-04-08	5182877ad7419cbb800decd100d13551a10405b591ec2baba522280d04c14f72	
+20010623002137	http://download.bonzi.com:80/freebuddy/compass/bbcompass.exe	146000	raw	PE 1999-04-08	628b07a492552936ffea080f0e7b0c342b7329ff42866860e680be9f907e619e	
+20000619141414	http://download.bonzi.com:80/freebuddy/viseicat.idx	302	raw	45534956ea934e39	859d6449d57ee6fe17534c82ebfc30f3389f5d0f350dc8d19fb8bcb1d8a56d26	
+20010517061428	http://download.bonzi.com:80/freebuddy/wd/bbsmartstubfal.exe	142848	raw	PE 1999-04-08	270fb208ebf2040538992cc2d23f76b0ec3658072c91fe5a90755cd7a5295ab6	
+20000831235227	http://download.bonzi.com:80/freebuddy/wd/fly/bbsetup.exe		download_failed			
+20010826220222	http://download.bonzi.com:80/freebuddy/wd/bbsetup247.exe	141368	raw	PE 1999-04-08	4b198325351dffb8c1f413085cab4916124966278e1afb78d9fbfc547c16975e	
+20011227045705	http://download.bonzi.com:80/freebuddy/wd/bbsetupabo.000		download_failed			
+20010831074123	http://download.bonzi.com:80/freebuddy/wd/bbsetupabo.exe	141368	raw	PE 1999-04-08	df240761f11e901c647b3dee89d1d3e551cb526a6a4a3ab19161b0f1b52c9e6c	
+20010811103918	http://download.bonzi.com:80/freebuddy/wd/bbsetupad1.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010420202022	http://download.bonzi.com:80/freebuddy/wd/bbsetupAD1.exe	141368	raw	PE 1999-04-08	e27bbc00aeb5a8021e2b82d8c7d7b0f09e6ada9d9be2e701d40bebb4e56084b0	
+20010801144506	http://download.bonzi.com:80/freebuddy/wd/bbsetupAD1.exe	141368	raw	PE 1999-04-08	e27bbc00aeb5a8021e2b82d8c7d7b0f09e6ada9d9be2e701d40bebb4e56084b0	
+20010502064300	http://download.bonzi.com:80/freebuddy/wd/bbsetupAD2.exe	141368	raw	PE 1999-04-08	35840bc0eae6e629c4eabf75ccaad3937c12cbba5c3255af63ee4e5614e7a05b	
+20010817050842	http://download.bonzi.com:80/freebuddy/wd/bbsetupAD2.exe	141368	raw	PE 1999-04-08	9f0cd7ddfb51bf3d47b483ff102befe5104b0008e0b69c294f6a508f15f0ff3e	
+20011227074809	http://download.bonzi.com:80/freebuddy/wd/bbsetupad3.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010722050856	http://download.bonzi.com:80/freebuddy/wd/bbsetupad3.exe	141368	raw	PE 1999-04-08	a7353dd220fd95dd5932a72e67ed079acdffc3461bf031dcae1a9fa5954b3b22	
+20020310014437	http://download.bonzi.com:80/freebuddy/wd/bbsetupad6.exe	140968	raw	PE 1999-04-08	75aa78b7d0a060c55f40190826eae1e0933c1a8cd408deb4d8fab13881173f4f	
+20010502174046	http://download.bonzi.com:80/freebuddy/wd/bbsetupads.exe		download_failed			
+20010419194404	http://download.bonzi.com:80/freebuddy/wd/bbsetupadv.exe	140568	raw	PE 1999-04-08	a7a79824b19efde53f7fb418400bf6a3f92eab6de372bfaa5bbf5f963206d0ed	
+20010806071249	http://download.bonzi.com:80/freebuddy/wd/bbsetupadv.exe	141368	raw	PE 1999-04-08	613e6d9fbed3f7ee13b05a0b12b2fc0f516de2632d04bd72f836b952f1c4ecc2	
+20010831192031	http://download.bonzi.com:80/freebuddy/wd/bbsetupaol.exe	141368	raw	PE 1999-04-08	f53c3d452dbfd362e85d086febda8d7f58d48287d4b99517098395bcca9a11a8	
+20011102000028	http://download.bonzi.com:80/freebuddy/wd/bbsetupaud.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010918212855	http://download.bonzi.com:80/freebuddy/wd/bbsetupaud.exe	141368	raw	PE 1999-04-08	4bf0c7b1ee276733ad44caecee15ff7f72729026100146e9a9d002a6c06432b8	
+20011013041345	http://download.bonzi.com:80/freebuddy/wd/bbsetupbab.exe	141368	raw	PE 1999-04-08	834b4f8bd12a60b04dfa7208c2ff3adef2e28beeec8409f161c8f45928bd1307	
+20001027202929	http://download.bonzi.com:80/freebuddy/wd/bbsetupbzm.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010410052430	http://download.bonzi.com:80/freebuddy/wd/bbsetupbzm.exe	140568	raw	PE 1999-04-08	aaf614f4520474b21456ba729ccbc6db211fe852dcf3986a26ad783768870c7c	
+20010816015541	http://download.bonzi.com:80/freebuddy/wd/bbsetupbzm.exe	140568	raw	PE 1999-04-08	aaf614f4520474b21456ba729ccbc6db211fe852dcf3986a26ad783768870c7c	
+20010710051020	http://download.bonzi.com:80/freebuddy/wd/bbsetupcbs.exe	141392	raw	PE 1999-04-08	9c2c3dd42f9489f48833e87aa7dfc37ca846c5d0d45cc9294518b23c73172803	
+20010816045751	http://download.bonzi.com:80/freebuddy/wd/bbsetupcbs.exe	141368	raw	PE 1999-04-08	f5f7d26a83a6c1e2bd0491d664ead01e426299b62ec276bc3698bfe01ff99af4	
+20020220121756	http://download.bonzi.com:80/freebuddy/wd/bbsetupcc1.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20011122081136	http://download.bonzi.com:80/freebuddy/wd/bbsetupcc1.exe		download_failed			
+20011207103919	http://download.bonzi.com:80/freebuddy/wd/bbsetupcc2.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20011122083709	http://download.bonzi.com:80/freebuddy/wd/bbsetupcc2.exe	141368	raw	PE 1999-04-08	e21a25c6481960193108b0af7ddeeb79bfd43218c17cc1a2076458174fb3627d	
+20020105181830	http://download.bonzi.com:80/freebuddy/wd/bbsetupcc3.exe	141368	raw	PE 1999-04-08	8a164f0215f51f76121b9a18a0b6d2f85fe4d4f1cab144f9d262c568cc3432ca	
+20011213111257	http://download.bonzi.com:80/freebuddy/wd/bbsetupcl2.exe	141368	raw	PE 1999-04-08	98be5a1b8de00d178a9cf5c35e9e34cc18c6157dda0250937ffda653a1eba2eb	
+20010809224753	http://download.bonzi.com:80/freebuddy/wd/bbsetupcla.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010710034534	http://download.bonzi.com:80/freebuddy/wd/bbsetupcla.exe	141392	raw	PE 1999-04-08	6a75fefb8dade1e8c2aab1cda4b1945c5e672dd30f3c5759c8d66be2ccba8ae6	
+20010802090456	http://download.bonzi.com:80/freebuddy/wd/bbsetupcla.exe	141392	raw	PE 1999-04-08	6a75fefb8dade1e8c2aab1cda4b1945c5e672dd30f3c5759c8d66be2ccba8ae6	
+20010722050855	http://download.bonzi.com:80/freebuddy/wd/bbsetupcli.exe	141368	raw	PE 1999-04-08	ab143e701366df94593fbfebc26d46ba9f8c02049579cdf557da7f71c9a70050	
+20010922022949	http://download.bonzi.com:80/freebuddy/wd/bbsetupclk.exe	141368	raw	PE 1999-04-08	0d3a0cf3f2ba85e4bd08e4e699db066a970ef139d311e763a840aa8f794c6ad4	
+20011116192725	http://download.bonzi.com:80/freebuddy/wd/bbsetupcom.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010623002553	http://download.bonzi.com:80/freebuddy/wd/bbsetupcom.exe	141368	raw	PE 1999-04-08	2b9adbbfcc91ff07e40c0c6da63ba5949ea040ffd585753fa04a881d286607bf	
+20011019233945	http://download.bonzi.com:80/freebuddy/wd/bbsetupcom.exe	141368	raw	PE 1999-04-08	87f620240463f67712253e46b98d228855441253f5ad14fc28ffe396b4bf3b23	
+20010821101741	http://download.bonzi.com:80/freebuddy/wd/bbsetupcyd.exe	141368	raw	PE 1999-04-08	239969c95713da23b50083e8591b8d4d42ab995ccc897c2b9ad07065e1d312e6	
+20010724010410	http://download.bonzi.com:80/freebuddy/wd/bbsetupdb2.exe	141368	raw	PE 1999-04-08	6cb7d4943bbcb4f8bbf49785807ce5c2ffbfdbbc9ea89ed5f30a5dd5c1e377d6	
+20010801144615	http://download.bonzi.com:80/freebuddy/wd/bbsetupdb3.exe	141368	raw	PE 1999-04-08	6b6d56c0e03890fa2e7b5ce1da1dfba6fb5aea0c520fe57049fdbe19fb2ea6fc	
+20010809225513	http://download.bonzi.com:80/freebuddy/wd/bbsetupdb4.exe	141368	raw	PE 1999-04-08	b321b5303f221df5b2c518efec3a8440d1b77e64bab1eef9e096d44d6d9cd06d	
+20011116194505	http://download.bonzi.com:80/freebuddy/wd/bbsetupdbl.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010623003124	http://download.bonzi.com:80/freebuddy/wd/bbsetupdbl.exe	141368	raw	PE 1999-04-08	06211ce4e0dce2dd08f1c0fcf80b8c92f7c67559e43bff5a900c3032283b2342	
+20010821023116	http://download.bonzi.com:80/freebuddy/wd/bbsetupdbl.exe	141368	raw	PE 1999-04-08	3d8cae47520d989f5addc97b0e0450d2f119bc9e3a7480b3cb749686e420e512	
+20010722051445	http://download.bonzi.com:80/freebuddy/wd/bbsetupdia.exe		download_failed			
+20011116194145	http://download.bonzi.com:80/freebuddy/wd/bbsetupdor.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20011116195712	http://download.bonzi.com:80/freebuddy/wd/bbsetupdor.exe	141368	raw	PE 1999-04-08	bda3fa31fb2b8310b8f94691c7b6ffa9b4eb7a19e99645df623f7e91e91cceaa	
+20011023195201	http://download.bonzi.com:80/freebuddy/wd/bbsetupea1.exe	141368	raw	PE 1999-04-08	5b6ceb0b3bbf1c68509d64f5ca6ac3dffca66e9947829a1c6fed757e56c8180d	
+20010906210327	http://download.bonzi.com:80/freebuddy/wd/bbsetupeac.000		download_failed			
+20010826220045	http://download.bonzi.com:80/freebuddy/wd/bbsetupeac.exe	139040	raw	PE 1999-04-08	414c6e95b93b84e6811dfa57610ef57ff59e22f847575de1adbed8b2d24e2d38	
+20010511045257	http://download.bonzi.com:80/freebuddy/wd/bbsetupeun.exe	140632	raw	PE 1999-04-08	dd234e5f12e46570ce10dc0cbe1398ec85cd2d11d38c3613488f02c8538b90e2	
+20010725181538	http://download.bonzi.com:80/freebuddy/wd/bbsetupfas.exe	141368	raw	PE 1999-04-08	3a7abedabe8f5d10cf0430fc22a7f1bb08586e0a431311fa80f36ce4c8dcf6eb	
+20010429193120	http://download.bonzi.com:80/freebuddy/wd/bbsetupfly.exe	140568	raw	PE 1999-04-08	677f13318806421d9264c74ac5f432ff74c1b8f077ed4e004ea1f6c5245ae670	
+20010817052102	http://download.bonzi.com:80/freebuddy/wd/bbsetupfly.exe	141368	raw	PE 1999-04-08	9f5a785c666024179adf774351b1de2bdab04c0b97e6b054fecc39c8c3a13238	
+20011013092143	http://download.bonzi.com:80/freebuddy/wd/bbsetupfre.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010920102948	http://download.bonzi.com:80/freebuddy/wd/bbsetupfre.exe	141368	raw	PE 1999-04-08	7fb994681b7ed1657762b7de437ebf19ece85d6669fba3e336f1c3a1e3d1856e	
+20001027212503	http://download.bonzi.com:80/freebuddy/wd/bbsetupfrn.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010610031641	http://download.bonzi.com:80/freebuddy/wd/bbsetupfrn.exe	140568	raw	PE 1999-04-08	5267490f2f14e66e418e9e7d4175193293bf8f324e6fe185533514c3e3ab9e19	
+20010830022146	http://download.bonzi.com:80/freebuddy/wd/bbsetuphom.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010411225454	http://download.bonzi.com:80/freebuddy/wd/bbsetuphom.exe	140568	raw	PE 1999-04-08	c1f475fa8f42f78cae2da5c8e3f10e767e98d3598405b304caaece0ba532a267	
+20010609161812	http://download.bonzi.com:80/freebuddy/wd/bbsetuphom.exe	140568	raw	PE 1999-04-08	c1f475fa8f42f78cae2da5c8e3f10e767e98d3598405b304caaece0ba532a267	
+20010913012742	http://download.bonzi.com:80/freebuddy/wd/bbsetupibo.exe	141368	raw	PE 1999-04-08	9ea9c6a371f6c4fe13a1d4cd5dd2e6a259343a3029abb625aca044b9e09a6b27	
+20010817052401	http://download.bonzi.com:80/freebuddy/wd/bbsetupjng.exe	141368	raw	PE 1999-04-08	7b76958d9168899e1ca9c2eed5b79212896fd8d01e350de07caf9f5a9340e945	
+20010828170314	http://download.bonzi.com:80/freebuddy/wd/bbsetupkaa.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20011003200925	http://download.bonzi.com:80/freebuddy/wd/bbsetupkaa.exe	141368	raw	PE 1999-04-08	0c4e292eae5627bd52560d94df5d6de14474628bd27fb7f3cd7a5ad6f17e15da	
+20011020042814	http://download.bonzi.com:80/freebuddy/wd/bbsetupkab.exe	141368	raw	PE 1999-04-08	f772f36900431f986f7d94f59497e70a55c7a4274edba61acd8bd79215892342	
+20010710034835	http://download.bonzi.com:80/freebuddy/wd/bbsetuplat.exe	140568	raw	PE 1999-04-08	defa1f9eab7c4c4e05fe311ad141126a52f6b50a579efd889bd3470680194d11	
+20011116201701	http://download.bonzi.com:80/freebuddy/wd/bbsetuplim.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20011023200330	http://download.bonzi.com:80/freebuddy/wd/bbsetuplim.exe	141368	raw	PE 1999-04-08	ffa14c2c3d90ea9a203cfd920b9b3c3a176eda5d473284921467c897adfd1459	
+20020213003749	http://download.bonzi.com:80/freebuddy/wd/bbsetupmam.exe	141368	raw	PE 1999-04-08	5a09ca94360dc7f8d5aec77c0adad1e9c3c6e328a5eb9d54cbf2018e59cab8fa	
+20010710035310	http://download.bonzi.com:80/freebuddy/wd/bbsetupmca.exe	141392	raw	PE 1999-04-08	1df7a2a4317a1a5d19159a5b04db9600a623d99ab818ccd7b070b258855a29a7	
+20010826051945	http://download.bonzi.com:80/freebuddy/wd/bbsetupmca.exe	141368	raw	PE 1999-04-08	eb75e6540b13cb366d3426ac58cabf23fc2e40bd402b14f70d575a1c42856905	
+20010830124904	http://download.bonzi.com:80/freebuddy/wd/bbsetupmor.exe	141368	raw	PE 1999-04-08	668769c54a3dbcc301cf3f84756371eaf4fd27be77cb57ca70b0c00e623261d5	
+20010908224237	http://download.bonzi.com:80/freebuddy/wd/bbsetupmsn.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010625081853	http://download.bonzi.com:80/freebuddy/wd/bbsetupmsn.exe	141368	raw	PE 1999-04-08	5d40ee26663aee898b44f576c18b7acfcdbf66022396b8013d09993b903f2644	
+20010802121129	http://download.bonzi.com:80/freebuddy/wd/bbsetupmsn.exe	141368	raw	PE 1999-04-08	f8e845140d0785153f8e4e308cb5e0da21f8a64f30a8bd33bb0c4f9d37eee5ff	
+20010615014043	http://download.bonzi.com:80/freebuddy/wd/bbsetupmss.exe	140568	raw	PE 1999-04-08	51d83c8339071e9a5df27b25a60c0b63977166cfc34c6aea861eb5d569903248	
+20010422201707	http://download.bonzi.com:80/freebuddy/wd/bbsetupmus.exe	140632	raw	PE 1999-04-08	9b41ef9c81281ef76f4184c04e47af55dcd47c3e119f0129d27ed128c75999e3	
+20020630222432	http://download.bonzi.com:80/freebuddy/wd/bbsetupn2p.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20011005195238	http://download.bonzi.com:80/freebuddy/wd/bbsetupn2p.exe	141368	raw	PE 1999-04-08	afcf791bb37c1b28bdc815ac72ba93d651ae379b4249e573820a0703769e5479	
+20001027222048	http://download.bonzi.com:80/freebuddy/wd/bbsetupnar.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010422012155	http://download.bonzi.com:80/freebuddy/wd/bbsetupnar.exe	140568	raw	PE 1999-04-08	1c3cbc14e11ca9a1102f5c649c7a64d1709e4a55ad4cc5abcdcd09e6a8d7e910	
+20001019041026	http://download.bonzi.com:80/freebuddy/wd/bbsetuppop.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010603213936	http://download.bonzi.com:80/freebuddy/wd/bbsetuppop.exe	140568	raw	PE 1999-04-08	d23f79837d42df1cbf1576b0d5b525a6c6ab016e0d12b0b234b2d8924fc69f6c	
+20010416233434	http://download.bonzi.com:80/freebuddy/wd/bbsetuppro.exe	140568	raw	PE 1999-04-08	644f910837bdf21aca038aaa0c1662ca1a7994fce626102bdb23fd3cff300c62	
+20020328053914	http://download.bonzi.com:80/freebuddy/wd/bbsetupsav.exe	141368	raw	PE 1999-04-08	8345901c866a9ec23d68e78c02581d900c9ca705526098ebeb23d1bd547ca1fe	
+20021005010404	http://download.bonzi.com:80/freebuddy/wd/bbsetupshe.exe	140456	raw	PE 1999-04-08	d28747efa287347ac0c676af57422f2f8b8ab76179936d17ed8a059fb805f4d7	
+20011102003257	http://download.bonzi.com:80/freebuddy/wd/bbsetupsno.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010922023205	http://download.bonzi.com:80/freebuddy/wd/bbsetupsno.exe	141368	raw	PE 1999-04-08	b8b8f5cd3551e5c8b8337ad4c7a100d4423405a8194e426c314a53360a361d1b	
+20010522053627	http://download.bonzi.com:80/freebuddy/wd/bbsetupson.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010502230302	http://download.bonzi.com:80/freebuddy/wd/bbsetupson.exe	140568	raw	PE 1999-04-08	c7a5d17214f018acb0c31337c1b0c6550b82b420ed3bb68a991106cfa28686a5	
+20020114093402	http://download.bonzi.com:80/freebuddy/wd/bbsetuptmp.exe	141368	raw	PE 1999-04-08	080a0844349b19a230def46407cb228bc1581f22e9153091cc2bb699e8195dbf	
+20010504085915	http://download.bonzi.com:80/freebuddy/wd/bbsetuptst.exe	140568	raw	PE 1999-04-08	eeb766471377bf81a793e2c4486d894e7dfd5ba0b32796ef805d49ebf2b28915	
+20011120070039	http://download.bonzi.com:80/freebuddy/wd/bbsetupug1.exe	141368	raw	PE 1999-04-08	99dbbe3a00a6297bc83af811ea6a37844547d1c0da8c04bfcea256e7619089af	
+20011116204413	http://download.bonzi.com:80/freebuddy/wd/bbsetupug3.exe	141368	raw	PE 1999-04-08	17b5421973b5e5c87c4475e3b16a2faf159880237d44a8a371bbae0a0e23ac86	
+20011120071243	http://download.bonzi.com:80/freebuddy/wd/bbsetupugo.exe	141368	raw	PE 1999-04-08	4e547168b615ee7e2ee2d55c7b90be11b0344a066151cfb541bc516a98782b05	
+20010710032339	http://download.bonzi.com:80/freebuddy/wd/bbsetupval.exe	141392	raw	PE 1999-04-08	869df6629809f5a5cfb68103b5f4cf477dc632147786f6e8df5eeb3ccda4c724	
+20011124061243	http://download.bonzi.com:80/freebuddy/wd/bbsetupval.exe	141368	raw	PE 1999-04-08	ae37c65019fd5ae519cac2d0818e519293348526ab85344a3cfaaa66d3c4778b	
+20010807095952	http://download.bonzi.com:80/freebuddy/wd/bbsetupya2.exe	139040	raw	PE 1999-04-08	305440a70ed0ae61e8a659c8da8843dce2b444cff0a82fe59d426ea99cfa21d4	
+20010807102126	http://download.bonzi.com:80/freebuddy/wd/bbsetupya3.exe	139040	raw	PE 1999-04-08	5e0afcf8f82435617dee8485dbc5d83b8f2a529d0191b6163dbcab7697ad0d88	
+20010828164148	http://download.bonzi.com:80/freebuddy/wd/bbsetupya4.exe	141368	raw	PE 1999-04-08	7dddb5714ff82ad3ce4c4350442128ee81950a2d51ba87dd0cdb9c23f55b572f	
+20010821101416	http://download.bonzi.com:80/freebuddy/wd/bbsetupya5.exe	141368	raw	PE 1999-04-08	0ad5faa13fb01996e3e247eec0569792b6e1a00bd2c389cc308dfe9f40a79bb4	
+20010821024216	http://download.bonzi.com:80/freebuddy/wd/bbsetupya6.exe	141368	raw	PE 1999-04-08	29c4a3a5f0d1a77f73ef514d03823a429dbcb4a24cd721288a1db2e2c75b88da	
+20010725052523	http://download.bonzi.com:80/freebuddy/wd/bbsetupyah.000	3638	deflate@4	0000010002001010	d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095	app/favicon.ico
+20010722052459	http://download.bonzi.com:80/freebuddy/wd/bbsetupyah.exe	141368	raw	PE 1999-04-08	7d66f27e6ea75d71e48fdd8cfef47d6ebc86d1a0424c86889653f665f9758a60	

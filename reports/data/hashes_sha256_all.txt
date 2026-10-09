@@ -1,0 +1,187 @@
+2c8f92dc16cbf13542ddd3bf0a947cf84b00fed83a7124b830ddefa92f939877  ./app/ActiveSkin.ocx
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./app/Apps.nbd
+0563e77b6bd63eb0561f6264badb5d07dacb7287ce029dc3ca3279a964ea6a6d  ./app/AUTPRX32.DLL
+2836a35937ad987bd9ddba33162136d71bcbaba0ad6d9b1930a412961b3a3523  ./app/BBReader.EXE
+e4843ab74d29d608e406d137892afced0661ee56c3cd899cf49bc863dfc9e99a  ./app/BG/Bg1.bmp
+2066f7ede6410b790ee3446b6c27470526969eb837ab9187f61c10c611bdcc5f  ./app/BG/Bg2.bmp
+d983ff82ee546e5706da39531aff69721b9896fc99eacd59bfaeefdd0bef0147  ./app/BG/Bg3.bmp
+1e2994763a7674a0f1ec117dae562b05b614937ff61c83b316b135afab02d45a  ./app/BonziBDY_2.EXE
+88c03817ae8dfc5fc9e6ffd1cfb5b829924988d01cd472c1e64952c5398866e8  ./app/BonziBDY_35.EXE
+5678fd744faddb30a87568ae309066ef88102a274fff62f10e4963350da373bc  ./app/BonziBDY_4.EXE
+4dd98f95113b70772308a4671a482b9b59bba5fbf41e928f2a833366c54424e4  ./app/BonziBDY.vbw
+6d80bd5a3d5ec6630e9a411a978c8e2c196f530f6a5b580fa982c5ad1622bd0c  ./app/BonziBUDDY_Killer.exe
+9028075603c66ca2e906ecac3275e289d8857411a288c992e8eef793ed71a75b  ./app/BonziCheckers.ocx
+f85525a3ebe334f7403f031ec47c2b32461650224223ee728107dce0e879ea93  ./app/BonziCTB.dll
+821a16b65f68e745492419ea694f363926669ac16f6b470ed59fe5a3f1856fcb  ./app/Bonzi's Beach Checkers.exe
+fe97b317d345fb3e708087ebf27a50c539f66fc77c7b6895825f564c9fefc4c6  ./app/Bonzi's Solitaire.exe
+f8cae184ce04d906e348ff795aa20f6ac26e45ee41fa3de16c6985b291e3fdc4  ./app/Bonzi's Solitaire.vbw
+79acfe9005133be613baa6d85ff170ba9c4a7109d8dabd45cc5a39bf7f32b04a  ./app/Books/Bonz and the Polizoof/book
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./app/Books/Bonz and the Polizoof/~GLH0046.TMP
+4b0d3ac6305c56e814e87734d3798a4534b639fe7752a20bb398fa9eaf59bfd7  ./app/Books/Bonz and the Polizoof/page0.jpg
+170bdf6aaf4971f4a7f8647aff13e586be00dfcf6f102ddfc218a28b55fc855a  ./app/Books/Bonz and the Polizoof/page10.jpg
+1eec3c97c806459052a98661e0bfcdac4eafef0df5fd2af6c4c53916156e5eb1  ./app/Books/Bonz and the Polizoof/page11.jpg
+2f52d995e111b8c9ac693663a03ca0545861e94c53c7110270d21ff10cd4876b  ./app/Books/Bonz and the Polizoof/page12.jpg
+43f4e85f1c60b73fa8252dfc755e38649e8d23ba8a666a83d0cf859b0920f4a1  ./app/Books/Bonz and the Polizoof/page13.jpg
+aa9acde92741388db556b92bb3b3c7052faf78984835d4e05f3ff1bb44c07a3c  ./app/Books/Bonz and the Polizoof/page14.jpg
+2f1b0d7ff847c3987ddcd2eb432c8311bb148de5164b3d96f9f9a267d412079a  ./app/Books/Bonz and the Polizoof/page15.jpg
+e43ef38555b187d9335c77d60ccd215504af10c626f76e4e4967fc690b6fc300  ./app/Books/Bonz and the Polizoof/page16.jpg
+aca6a7880bd5a465d896f9d639e4a24fd93722d5d1f1b5bd08cde5479df67158  ./app/Books/Bonz and the Polizoof/page17.htm
+f08a95be88f1a893ef2989b258ab5699e49978776012789a4bde7056710fd45d  ./app/Books/Bonz and the Polizoof/page17.jpg
+bc48c07bc245bb7a7561c983c72851bc2f48cae594472c48d3447456dcbea804  ./app/Books/Bonz and the Polizoof/page1.jpg
+b961e9334abeef3ccca67eead97cfbd6eddc857f3d0a411e1978e22a14c27aa1  ./app/Books/Bonz and the Polizoof/page2.jpg
+7fb6ec96530be3754466c0c7a33c5302b8e38dd9d1b7fdde8c32926e98b4ade6  ./app/Books/Bonz and the Polizoof/page3.jpg
+973f508f18f8c79dc0ae8810940d79ad3b46939ea69afc7c8864897d4cc284b4  ./app/Books/Bonz and the Polizoof/page4.jpg
+3048bec5f4781d08360534a96ef7dec46a076cdb83cbfc1ecd84a157cf95f9f3  ./app/Books/Bonz and the Polizoof/page5.jpg
+a336ef4a9682e6209a47821007f4bb0ee2afb0e0bb2c3a15ef7d7c9928267aef  ./app/Books/Bonz and the Polizoof/page6.jpg
+94ab8fff641c839e81860b1c3b5f28cf83ed86b5285fae14f27a112c03845d24  ./app/Books/Bonz and the Polizoof/page7.jpg
+544e8923ccef640c4b22499319ae5eff1b7dbae862e0143c40f6e870e9159db2  ./app/Books/Bonz and the Polizoof/page8.jpg
+ff19988ec62abe0e0624c2c5f91994d59c050b32217d680254e6b7796b6e8041  ./app/Books/Bonz and the Polizoof/page9.jpg
+5d21bbd3ba16464b5ae1327867839f16eb5c161d60d2b5a81bd11a7f8075ffbf  ./app/Books/Bonz and the Polizoof/Thumbs.db
+f4b69039fc2e5827377bfc2e650623f2a1d0959e462c46e8a5502c68991cc641  ./app/Books/Bonz and the Treasure Chest/book
+ab33039db90f44dbb3c9967ab157f40805dd68311a441ce5e819c286a3569ddd  ./app/Books/Bonz and the Treasure Chest/cb001.gif
+d68e785094c2f0016c735ad9ac891e2ea2b0b30b4f30d800446759ba0134b7ac  ./app/Books/Bonz and the Treasure Chest/cb002.gif
+95cbcbd9c41c128ae03b8536ee229771a8a42e3cbf57faf4697aaabe98c11108  ./app/Books/Bonz and the Treasure Chest/cb003.gif
+9f93891fe6aeeea23b10ae5aa680fd44e408b97ffd9df65cf0434fef1b049af0  ./app/Books/Bonz and the Treasure Chest/cb004.gif
+0d177be82265d4458b9ab22efc15418128742dcd60488a5bdecd5d334164dedc  ./app/Books/Bonz and the Treasure Chest/cb005.gif
+3f5adbc7bef95ac98d78d9b2e2f25c1b89dd6a14b02ad0c6801de51fe1e48843  ./app/Books/Bonz and the Treasure Chest/cb006.gif
+292ace5abc773d1dbe3db5c3a51d42b11a360e22b17643209b30f5988e437761  ./app/Books/Bonz and the Treasure Chest/cb007.gif
+bdae04f6d7694e1981771c0a76fc555009dae6e56f2f11f8fdff87b2d9dd0797  ./app/Books/Bonz and the Treasure Chest/cb008.gif
+b5cb2f91a884e832c0eecfffbc4b0f6920a67e0513f3e2ac9130bf6b744ad146  ./app/Books/Bonz and the Treasure Chest/cb009.gif
+a16ddc10725a33dd91e617de97cfad7372ee33bbdf195312b70b1d10194b68c7  ./app/Books/Bonz and the Treasure Chest/cb010.gif
+741f4194e099e387d5b81753972074c2ec9944b36b442ee90f02f2e05a49e2f0  ./app/Books/Bonz and the Treasure Chest/cb011.gif
+47f4755a428995775089a622f33eb54c4505d8a6ad7963c6de646de0b2156017  ./app/Books/Bonz and the Treasure Chest/cb012.gif
+f7eebb0ae58ea8e64160bf2bf8bab0955603c0208c3bfb760d89d01088f042c5  ./app/Books/Bonz and the Treasure Chest/cb013.gif
+963bb112090949111b885ab790c9e032784d9dc6c0fb3388f47d011f5bdf6c7a  ./app/Books/Bonz and the Treasure Chest/cb014.gif
+84f12116cfbeeee6373bb94a0d878e134fff50d598d6f1578f4131d23be3703d  ./app/Books/Bonz and the Treasure Chest/cb015.gif
+7fd940a10524ed7aedb21658407cdbce0831475a51d7af081f1deacf9816fff0  ./app/Books/Bonz and the Treasure Chest/cb016.gif
+314fb3fad61f23649e79e63f3e0644dd8a0f8fd219e489f8d6d2ad7893e60f0e  ./app/Books/Bonz and the Treasure Chest/page0.jpg
+606583c58aff143468c40e839c11710a9558c47b94d5a86d1151446f4c137404  ./app/Books/Bonz and the Treasure Chest/page10.jpg
+1c2bf464976420ef71b59dbcb0fd16c20daec31f0fc5c03dbb3a4a5172c35712  ./app/Books/Bonz and the Treasure Chest/page11.jpg
+e42286e86415ed7ff3f5206909cfbc2a8111d9aea7160b06d73e71072f8fa8f6  ./app/Books/Bonz and the Treasure Chest/page12.jpg
+ee4abbebc89abb59e830f51932dc25bffd87debdff9813ce0eec216bedb0cb9c  ./app/Books/Bonz and the Treasure Chest/page13.jpg
+5c9c5b27a5104c494e657cd9d1d17b58338c3ed34dd38f51ad3a31d935bc88ee  ./app/Books/Bonz and the Treasure Chest/page14.jpg
+8a84938419a1f2a1895e482d2343cfb84a21ba2cd0053de298ac9315ead17dd9  ./app/Books/Bonz and the Treasure Chest/page15.jpg
+1cf3ec993c10248ae71928616ed8f6747be08cfcaa2a5ebb8336eb0a83bbd992  ./app/Books/Bonz and the Treasure Chest/page16.jpg
+8edfe12a1d8674de7922a53aea1c8acd93a4e9b516e5c323f128e963aac974ea  ./app/Books/Bonz and the Treasure Chest/page1.jpg
+bf164e9e1b512dee0902b66d39c9e8b7a9bf8b25beea206d593c93fe60816502  ./app/Books/Bonz and the Treasure Chest/page2.jpg
+9080f1863c1c1b92068972bff9b7dd81b5abd314216f832879411d09b080de0c  ./app/Books/Bonz and the Treasure Chest/page3.jpg
+e738143197ab2c1655345f29a3e89cdd65250d4eb631cfc930fb36abc4aff153  ./app/Books/Bonz and the Treasure Chest/page4.jpg
+0824f38b3169496765f8d1b6cf925af47a1b53940c7b1c52e4f30cd770f5ad01  ./app/Books/Bonz and the Treasure Chest/page5.jpg
+30a17bb3c29ce5fd12f6c26ef6d6f6adc019be7ebe858125ef5682a18452186d  ./app/Books/Bonz and the Treasure Chest/page6.jpg
+799e45d8227d2a9718fe85a3d3281cd4f0ca47a634e72dfb3beb253968c438e4  ./app/Books/Bonz and the Treasure Chest/page7.jpg
+82bf1e71642ce92294cedfaad9107c10f1a4e1f913fcdd2eaf7b3ce6594101df  ./app/Books/Bonz and the Treasure Chest/page8.jpg
+215a885eb08f1cffce16c785be47456b38d17fb1485ede519d256d3405fc58da  ./app/Books/Bonz and the Treasure Chest/page9.jpg
+3a91e9c0f4514096923eb665974724e63c3037c224ce156be44cff2c1a35fb1a  ./app/Books/Bonz and the Treasure Chest/sp001.gif
+2637ab06ccab00a9b6937c7d2c02e42a46d98f4351bed5236801ad3d3cad98f8  ./app/Books/Bonz and the Treasure Chest/Thumbs.db
+486c7e2d25096d871171fff1906c65f98e8c1fa888cc5c18558140f999274d4e  ./app/Books/Bonzi and the Alpha-net/book
+6623c9cdac71de0076ec405505ee66671423752ae1c4d107963b41fed6234280  ./app/Books/Bonzi and the Alpha-net/page0.jpg
+dc60db3b80e4c049bf870b2ce9981fefba35fba7afba5e60d75b9c0dac8ee141  ./app/Books/Bonzi and the Alpha-net/page10.jpg
+6a584c706ff3383b476fc4e55e7c16f0661c30c622237094f302db2f6cc7238a  ./app/Books/Bonzi and the Alpha-net/page11.jpg
+01006d2e7052d985101f0bce9c901c04fd55cd1cfb5e2d23385396f7e88e8fc0  ./app/Books/Bonzi and the Alpha-net/page12.jpg
+b5c0c80f4c8f8b83cfde14a90c04b7eb6c3cd01b1e8dfa92e398937c90e0e883  ./app/Books/Bonzi and the Alpha-net/page13.jpg
+8882f1cf6f0cae626f8677ff3d1b415a5df88f32b7e6f94690a5997823b4916b  ./app/Books/Bonzi and the Alpha-net/page14.jpg
+e71359b05df80c15916fb273710c8a87702af891b11734663cf538a6baf0a32d  ./app/Books/Bonzi and the Alpha-net/page15.jpg
+0f36eb4f571237452098816d03de25c9081625391a2295a5db4cd0a01933ddfc  ./app/Books/Bonzi and the Alpha-net/page16.jpg
+a40837d0619a98a96a5a5cab016ba35694914607665d6cdd795ee0076f56aaac  ./app/Books/Bonzi and the Alpha-net/page1.jpg
+102bf8d718bc7fd52ed450f81f4810d2af5d9e76d1f42ee983eea70b7222b529  ./app/Books/Bonzi and the Alpha-net/page2.jpg
+45e619917f11c27e495813f5b3df036cbc1c022f8af9af174c3e606b0950fc0a  ./app/Books/Bonzi and the Alpha-net/page3.jpg
+d635654cda3fff19815d46e1ea912291adb2c553933709826c1a167b6b77dd53  ./app/Books/Bonzi and the Alpha-net/page4.jpg
+38be8805a0cf6c7d34cfbb7256242d3e0aea0f3d36185ce6e73c7284bdd87e24  ./app/Books/Bonzi and the Alpha-net/page5.jpg
+3c814e53b65c1752145f3248bc0996b9f8733537f9fece5e94aac072d6694364  ./app/Books/Bonzi and the Alpha-net/page6.jpg
+db7027e0f7d02fe75874ab15de847352099e36bf10650c54c860e4fdd301d418  ./app/Books/Bonzi and the Alpha-net/page7.jpg
+d8333b0964148b5263793ca0493f40c373a47ea53fb3fd637f1431f44c414b7a  ./app/Books/Bonzi and the Alpha-net/page8.jpg
+c64ce0ded53d511f9a6deba02741d37e5c96e760bc34b294f546931c14d8137a  ./app/Books/Bonzi and the Alpha-net/page9.jpg
+86c740e67613e91aed0a45aefe643b50a3c763761264aab026859f3d1be20f74  ./app/Books/Bonzi and the Alpha-net/sp001.gif
+92d4e729520977fe8c3cee533c7e259ab5ab67810f36c557c747ca821bc19ca0  ./app/Books/Bonzi and the Alpha-net/sp002.gif
+6078f5e78caa39fa31eaa23ab37e6939003b99e67a0c843335581cb8ec7c824b  ./app/Books/Bonzi and the Alpha-net/sp003.gif
+e113e023fc04095434a417689f7b436a4e4120427c0f7368beb89e48e6ad6616  ./app/Books/Bonzi and the Alpha-net/sp004.gif
+f30c86b0ffc248ab421f3d2cdf6dbfa1d7c3504400a8026b8548d8161c4fb081  ./app/Books/Bonzi and the Alpha-net/sp005.gif
+1341f0db796d31c7382655362a682a45f00d5160ca149ddb0e13444bb622d9c9  ./app/Books/Bonzi and the Alpha-net/sp006.gif
+4e7c34f76e045cf1acdc64071a7fe2d31fec2864d89fdd87e3d79e37dabf30fd  ./app/Books/Bonzi and the Alpha-net/sp007.gif
+20a1a9d2a70aaa2d33355fb22284cd1ea5408824f93ab1d22f2145a99978402a  ./app/Books/Bonzi and the Internet/book
+6b3f8d11aeebf4d407e67f89e7d81d166c705ce6a8e9850bc9750306729c6f27  ./app/Books/Bonzi and the Internet/page0.jpg
+fbaffdfdd9ff30177d1da6ea5335a57fd31320158a6f659e1d0eaa433dc0df3c  ./app/Books/Bonzi and the Internet/page10.jpg
+6dce70dc115740d5d52c0c0e2f1811f3ca457f5a948f207a5a4fccdccccfa365  ./app/Books/Bonzi and the Internet/page11.jpg
+f8a8b2816920237db53bcc287a704be0adb43a55971f3fccec2925fd9dd143df  ./app/Books/Bonzi and the Internet/page12.jpg
+473a890da22defb3fbd643246b3fa0d6d34939ac469cd4f48054ee2a0bc33d82  ./app/Books/Bonzi and the Internet/page13.jpg
+03f269cd40809d7ec94f5fa4fff1033a624e849179962693cdc2c37d7904233b  ./app/Books/Bonzi and the Internet/page14.jpg
+8a040d1a94ab158f7807ddd2b9aaa0dba7a3e5dccfec6f2bea35673d29017de5  ./app/Books/Bonzi and the Internet/page15.jpg
+1a298bc3cc19d27f7f6213b19ecd238c044f631ed3fcd93515437a66ce165ecd  ./app/Books/Bonzi and the Internet/page16.jpg
+473a890da22defb3fbd643246b3fa0d6d34939ac469cd4f48054ee2a0bc33d82  ./app/Books/Bonzi and the Internet/page17.jpg
+03f269cd40809d7ec94f5fa4fff1033a624e849179962693cdc2c37d7904233b  ./app/Books/Bonzi and the Internet/page18.jpg
+993824753ee0f99b020da4f5f0bda4b14ae0e5b535be14eb24decf398b3ee60b  ./app/Books/Bonzi and the Internet/page19.jpg
+ea87cabd9babb2b7e6791ac98451545e98051f5a3a65dc2021d41b6dc07e6441  ./app/Books/Bonzi and the Internet/page1.jpg
+5fb9f37c7bcf322d4108fa7b424e54bb40f8dceb6016bf36c18d64003bf32635  ./app/Books/Bonzi and the Internet/page20.jpg
+178e4e26ee97549199d6765c4823cb18783f40b60f78f1b21eceb562d4d4d20d  ./app/Books/Bonzi and the Internet/page2.jpg
+a3cb8b835b33194095574d7a0eb26bc11f92189711abe86785918f848999add3  ./app/Books/Bonzi and the Internet/page3.jpg
+256aba539c9dfc725ecbb8925aef9e75435ce034597e16cdc21a4275c0ef814d  ./app/Books/Bonzi and the Internet/page4.jpg
+ffd5d52c98932d4feddfecd7aee546860c7fb46b6209dfc203e51a07c395a412  ./app/Books/Bonzi and the Internet/page5.jpg
+a5b2142913ac2983dbfaca6bb6c6743c762cf6c2edd3ddc2778e7b23ca0cc3d6  ./app/Books/Bonzi and the Internet/page6.jpg
+62c6f4ee6a937eed4c0d93ba1e07f290005e4a9158da345dfd64656906f7e0d5  ./app/Books/Bonzi and the Internet/page7.jpg
+26040bf12d19bbe6c852237570e9a3722cc7dc7b11f4f2633aea014287bf3153  ./app/Books/Bonzi and the Internet/page8.jpg
+0244e5c87ea823b5741c101129a3ab8a5dcbad798bde86ca15a838a777b26b67  ./app/Books/Bonzi and the Internet/page9.jpg
+1cdb5e4d203f61e94c02f5eea5008289fb463c02174879887fc62574b34c12d3  ./app/CHORD.WAV
+f198ec842cf9b9d1e9e3f4bb6864fae7eea98d6919e0c6609e139e00c262d6bc  ./app/empop3.dll
+743857c8be216893265c231ad45f4ffd3babb67c024ef8ceb5a698e292464263  ./app/emsmtp.dll
+d5343ff39d29ecd9b60fd31cc60321b2d4a36001d5d1ee24f6c766b10eef0095  ./app/favicon.ico
+1d648a27a0209959027567f793f8b3fd18a103b64e62eda3f20f11192bd0dfaa  ./app/Intro2.wav
+e312728e0491e1a15405566c8f591cf3ca6128ca17e5e022a7550494a600ad27  ./app/j001.nbd
+56ac8a4f90686b433297712de577ba68e0970458dee218764ed3acb3b3560f7b  ./app/J001.nbd-SR
+c032c71a49e0cb05072602c99251e6b1d76ca2db57120fc402b93d3392df7c3c  ./app/j2.nbd
+1837a9f0653a4093e448de37fdbf2bb0e4c3e98abb1414b8e60793a2863208a9  ./app/j2.nbd-SR
+197cd5e9b3bdec70314d3b3e5ddb5ee41578907a8a50d9ad2fc3683ff271656f  ./app/j3.nbd
+2a9cbdbd1459111eac43d2d505e7828108c68cc5042c97b4e93d235962f8ad59  ./app/j3.nbd-SR
+c3dfadbe670df02d784aa9db249303d253ecd18a720299c9ab4e8968ba240e57  ./app/Jigsaw.exe
+f3d4425238b5f68b4d41ed5be271d2f4118a245baf808a62dc1a9e6e619b2f95  ./app/MSAGENTS/Bonzi.acs
+b8112187525051bfade06cb678390d52c79555c960202cc5bbf5901fbc0853c5  ./app/MSAGENTS/Peedy.acs
+3b6ccdb560d7cd4748e992bd82c799acd1bbcfc922a13830ca381d976ffcccaf  ./app/MSCOMCTL.OCX
+73da54b69911bdd08ea8bbbd508f815ef7cfa59c4684d75c1c602252ec88ee31  ./app/MSINET.OCX
+2246b4feae199408ea66d4a90c1589026f4a5800ce5a28e583b94506a8a73dce  ./app/msvbvm60.dll
+d7cea69a98579d928e534070f5293e80ed7df38baf611b20717ef55aa1344a18  ./app/msvcrt.dll
+bf7e47c16d7e1c0e88534f4ef95e09d0fd821ed1a06b0d95a389b35364b63ff5  ./app/MSWINSCK.OCX
+c4b58c78dc14e247ba303f630e42e9e56667dafef7aba1f0fdfd058b658f0a36  ./app/ODKOB32.DLL
+11c57b03dd1a8bdce3f15d74af679df4f7091fcec57699a09b47c83bca35a1d9  ./app/Options/AutoDirPatcher.bat
+08583009a3ed2b1668f729edc48d7c8eeba302a7f42fb5c303a97dd38b747041  ./app/Options/AutoDirPatcher.vbs
+cbb7267266008da6d58707bdb91ee3c57bd208d0653a32a8e9b5a7f7080061ed  ./app/Options/AutoShortcutsMaker.vbs
+e596899f114b5162402325dfb31fdaa792fabed718628336cc7a35a24f38eaa9  ./app/Options/BonziBuddy.bat
+ce6634b06d190b964741fb8dc53dad631a1b001a46193567e0d66bb478713b8e  ./app/Options/bonzibuddys.URL
+18ee11dc6a159dbbab4f56c0a552fb3d8ab5c3c18fc1744516dfd1cb17a293d4  ./app/Options/CheckRuntimes.bat
+c191c970e39a53ae342515302c3bb1579ef5247ef76e8d2eb948000f2e5e0261  ./app/Options/chose.bat
+11c81b5638de403ab4bc1cb7299f7d46cc68da7c608dc971be6ff984c7391b8c  ./app/Options/fix.bat
+999a70147a3115502d5b47c2bebb6731b2cffaba93be49502034eba06034f412  ./app/Options/ManualDirPatcher.bat
+56e8d6f1006029624a8fb9b09cdd59f137eace19a122b82608e047613792de76  ./app/Options/ManualDirPatcher.vbs
+5c724387b4b1819a197b0d06b88394d7705a7311d17c8e29ac76e3b7439aac1d  ./app/Options/ManualShortcutsMaker.vbs
+b65d7b112c124ab6f1927a72244160f83e7db7a5c948ec0b325f237a306db546  ./app/Options/menu.bat
+80088f8bc82b3facca2daf7066e9cb78e4bf0aa81c57f77a500a75e137c0b411  ./app/Options/registry.reg
+a49357c09b87f39aa3e7c1560de48e2a070f315399bc7a7337f7fa75f8b8a455  ./app/Options/test.vbs
+8c2960f58beebab3b77bc4c705e06edd1620083ac9614368a4244dad7a4a89f7  ./app/Options/uninstall.bat
+6e39e8b14ac5a0dad47279595406a49c61c6748f16f4e69dd48738653e50882f  ./app/p001.nbd
+3e8554436a52336c84117905b7b2383fe1aef01d613440d4cea70f035aaee28b  ./app/P001.nbd-SR
+054fbd3c3a31cea5c69c78c1455d19d2f3486e07428ea951f107d5dac3e58d25  ./app/RACREG32.DLL
+07e91d8ed149d5cd6d48403268a773c664367bce707a99e51220e477fddeeb42  ./app/Regicon.ocx
+03b3858e5766b07b919d176b541a105faf76e1a28ba01e3593cc319ad87dc3b6  ./app/Reg.nbd
+b4694750c1151663750e131ffd9b989a3b81818059b6d60dc279ecac966644e1  ./app/Runtimes/actcnc.exe
+8ae1ed38bc650db8b14291e1b7298ee7580b31e15f8a6a84f78f048a542742ff  ./app/Runtimes/CheckRuntimes.bat
+16ca09ad70561f413376ad72550ae5664c89c6a76c85c872ffe2cb1e7f49e2aa  ./app/Runtimes/MSAGENT.EXE
+b29f947446b61c80e8906be02b4793010aaaec5ab3c7538cc84cf0cb0b49631b  ./app/Runtimes/Readme.txt
+7b05a46c786c91492d154683259c229aa9456286f688da18d4016d91625bebcc  ./app/Runtimes/spchapi.EXE
+57858127f1a07233ccb4713bd29c860c9a7a201f2b8207ccfc91410478cce4b4  ./app/Runtimes/spchcpl.exe
+709936902951fb684d0a03a561fb7fd41c5e6f81ecd60d326809db66eb659331  ./app/Runtimes/tv_enua.exe
+abad946feed68057f15569c0df432790b0c19a21149c8f07ecfc99fac2311616  ./app/s1.nbd
+5a8749440d441766dba442097d5956cd7bfc0f3bb1fb46d431df341bba1a2778  ./app/sites.nbd
+11863d5b7fec50e3ca69f74066b68ed389a18b6990394f3ed21d6ea0e67262e5  ./app/Snd1.wav
+d59c9bc27494b2e68d5efdc1798dc5442f364bef46cfb1fcdf4b3b032358ac26  ./app/Snd2.wav
+aebda70076ae40f99896ee71d5a476444e91974a215663161b6b1d89faa3ab2c  ./app/speedup.ico
+7a0418b76d00665a71d13a30d838c3e086304bacd10d764650d2a5d2ec691008  ./app/ssa3d30.ocx
+8e52ef01139dc448d1efd33d1d9532f852a74d05ee87e8e93c2bb0286a864e13  ./app/SSCALA32.OCX
+5db33895923b7af9769ca08470d0462ed78eec432a4022ff0acc24fa2d4666e1  ./app/SSCALB32.OCX
+596f3235642c9c968650194065850ecb02c8c524d2bdcaf6341a01201e0d69be  ./app/sstabs2.ocx
+48bb226b418dae999d66731599996e042c5592d845ea11548a15ccd3a00fb5ab  ./app/SSubTmr6.dll
+b30e7a66488327c0cf090ae98eece036f326c7f5b2ffa9f9cac3bf7df3e7af47  ./app/t001.nbd
+2f3d5ac26d4345be684f81cae8aa51f116334394680e9e6ac6a6ec49f58f3bac  ./app/T001.nbd-SR
+87d531d27e9987f39934b0f093542790f25882c9e6e20ca554ca0405a16a4acf  ./app/t2.nbd
+94c638be958f83325f9b96303e050383881959f509bc6c4afacd890db3755672  ./app/t3.nbd
+a994e2ea053542543b647dc81d6e0aa7fc7585311b77f5fd76e13b1bd73a67cf  ./app/t3.nbd-SR
+465839938f2baec7d66dbc3f2352f6032825618a18c9c0f9333d13af6af39f71  ./app/Uninstall.exe
+f3d4425238b5f68b4d41ed5be271d2f4118a245baf808a62dc1a9e6e619b2f95  ./windows/msagent/chars/Bonzi.acs
+b8112187525051bfade06cb678390d52c79555c960202cc5bbf5901fbc0853c5  ./windows/msagent/chars/Peedy.acs

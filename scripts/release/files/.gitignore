@@ -1,0 +1,14 @@
+# never commit binaries or local working folders
+*.exe
+*.dll
+*.ocx
+*.zip
+*.dcr
+*.dir
+*.acs
+*.cab
+sample/
+extracted/
+references/
+ghidra/project/
+ghidra/input/

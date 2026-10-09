@@ -1,0 +1,878 @@
+property blnDone
+
+on exitFrame me
+  [  0] getprop 102 ............................. <blnDone>
+  [  3] jmpifz [ 16] ............................ if blnDone then / else
+  [  6] pushcons 0 .............................. <"IntroAnim">
+  [  8] pusharglistnoret 1 ...................... <"IntroAnim">
+  [ 10] extcall 94 .............................. go("IntroAnim")
+  [ 13] jmp [ 26]
+  [ 16] pusharglist 0 ........................... <>
+  [ 18] thebuiltin 98 ........................... <the frame>
+  [ 21] pusharglistnoret 1 ...................... <the frame>
+  [ 23] extcall 94 .............................. go(the frame)
+  [ 26] ret
+end
+
+on enterFrame me
+  [  0] pusharglistnoret 0 ...................... <>
+  [  2] localcall 2 ............................. QuitTheField()
+  [  4] pushint8 13 ............................. <13>
+  [  7] pusharglist 1 ........................... <13>
+  [  9] extcall 47 .............................. <sprite(13)>
+  [ 12] pushint8 1 .............................. <1>
+  [ 15] setobjprop 57 ........................... sprite(13).visible = 1
+  [ 18] ret
+end
+
+on QuitTheField
+  [  0] pushint8 215 ............................ <215>
+  [  3] setlocal 0 .............................. intCol1 = 215
+  [  5] pushint8 50 ............................. <50>
+  [  8] setlocal 8 .............................. intColSpacing = 50
+  [ 10] pushint8 1 .............................. <1>
+  [ 13] setprop 102 ............................. blnDone = 1
+  [ 16] pushint8 1 .............................. <1>
+  [ 19] setlocal 16 ............................. blnReadyToMarch = 1
+  [ 21] pushint8 21 ............................. <21>
+  [ 24] setlocal 24 ............................. IntX = 21
+  [ 26] getlocal 24 ............................. <IntX>
+  [ 28] pushint8 84 ............................. <84>
+  [ 31] lt ...................................... <IntX < 84>
+  [ 32] jmpifz [872] ............................ repeat while IntX < 84
+  [ 35] getlocal 24 ............................. <IntX>
+  [ 37] pusharglist 1 ........................... <IntX>
+  [ 39] extcall 47 .............................. <sprite(IntX)>
+  [ 42] getobjprop 57 ........................... <sprite(IntX).visible>
+  [ 45] jmpifz [861] ............................ if sprite(IntX).visible then
+  [ 48] getlocal 24 ............................. <IntX>
+  [ 50] pusharglist 1 ........................... <IntX>
+  [ 52] extcall 47 .............................. <sprite(IntX)>
+  [ 55] getobjprop 48 ........................... <sprite(IntX).member>
+  [ 58] getobjprop 148 .......................... <sprite(IntX).member.name>
+  [ 61] peek 0 .................................. case sprite(IntX).member.name of
+  [ 63] pushcons 8 .............................. <"black">
+  [ 65] nteq
+  [ 66] jmpifz [133] ............................ (case) "black", ...
+  [ 69] peek 0
+  [ 71] pushcons 16 ............................. <"blackrun1">
+  [ 73] nteq
+  [ 74] jmpifz [133] ............................ (case) ..., "blackrun1", ...
+  [ 77] peek 0
+  [ 79] pushcons 24 ............................. <"blackrun2">
+  [ 81] nteq
+  [ 82] jmpifz [133] ............................ (case) ..., "blackrun2", ...
+  [ 85] peek 0
+  [ 87] pushcons 32 ............................. <"blackking">
+  [ 89] nteq
+  [ 90] jmpifz [133] ............................ (case) ..., "blackking", ...
+  [ 93] peek 0
+  [ 95] pushcons 40 ............................. <"blackkingrun1">
+  [ 97] nteq
+  [ 98] jmpifz [133] ............................ (case) ..., "blackkingrun1", ...
+  [101] peek 0
+  [103] pushcons 48 ............................. <"blackkingrun2">
+  [105] nteq
+  [106] jmpifz [133] ............................ (case) ..., "blackkingrun2", ...
+  [109] peek 0
+  [111] pushcons 56 ............................. <"redkingup">
+  [113] nteq
+  [114] jmpifz [133] ............................ (case) ..., "redkingup", ...
+  [117] peek 0
+  [119] pushcons 64 ............................. <"redkinguprun1">
+  [121] nteq
+  [122] jmpifz [133] ............................ (case) ..., "redkinguprun1", ...
+  [125] peek 0
+  [127] pushcons 72 ............................. <"redkinguprun2">
+  [129] eq
+  [130] jmpifz [450] ............................ (case) ..., "redkinguprun2":
+  [133] getlocal 24 ............................. <IntX>
+  [135] pusharglist 1 ........................... <IntX>
+  [137] extcall 47 .............................. <sprite(IntX)>
+  [140] getobjprop 62 ........................... <sprite(IntX).locH>
+  [143] pushint8 265 ............................ <265>
+  [146] sub ..................................... <sprite(IntX).locH - 265>
+  [147] pushint8 100 ............................ <100>
+  [150] mod ..................................... <(sprite(IntX).locH - 265) mod 100>
+  [151] pushzero ................................ <0>
+  [152] nteq .................................... <((sprite(IntX).locH - 265) mod 100) <> 0>
+  [153] jmpifz [447] ............................ if ((sprite(IntX).locH - 265) mod 100) <> 0 then
+  [156] pushzero ................................ <0>
+  [157] setlocal 16 ............................. blnReadyToMarch = 0
+  [159] getlocal 24 ............................. <IntX>
+  [161] pusharglist 1 ........................... <IntX>
+  [163] extcall 47 .............................. <sprite(IntX)>
+  [166] getlocal 24 ............................. <IntX>
+  [168] pusharglist 1 ........................... <IntX>
+  [170] extcall 47 .............................. <sprite(IntX)>
+  [173] getobjprop 62 ........................... <sprite(IntX).locH>
+  [176] pushint8 1 .............................. <1>
+  [179] add ..................................... <sprite(IntX).locH + 1>
+  [180] setobjprop 62 ........................... sprite(IntX).locH = sprite(IntX).locH + 1
+  [183] getlocal 24 ............................. <IntX>
+  [185] pusharglist 1 ........................... <IntX>
+  [187] extcall 47 .............................. <sprite(IntX)>
+  [190] getobjprop 48 ........................... <sprite(IntX).member>
+  [193] getobjprop 148 .......................... <sprite(IntX).member.name>
+  [196] peek 0 .................................. case sprite(IntX).member.name of
+  [198] pushcons 80 ............................. <"black">
+  [200] eq
+  [201] jmpifz [224] ............................ (case) "black":
+  [204] getlocal 24 ............................. <IntX>
+  [206] pusharglist 1 ........................... <IntX>
+  [208] extcall 47 .............................. <sprite(IntX)>
+  [211] pushcons 88 ............................. <"blackrun1">
+  [213] pusharglist 1 ........................... <"blackrun1">
+  [215] extcall 49 .............................. <cast("blackrun1")>
+  [218] setobjprop 48 ........................... sprite(IntX).member = cast("blackrun1")
+  [221] jmp [445]
+  [224] peek 0
+  [226] pushcons 96 ............................. <"blackrun1">
+  [228] eq
+  [229] jmpifz [252] ............................ (case) "blackrun1":
+  [232] getlocal 24 ............................. <IntX>
+  [234] pusharglist 1 ........................... <IntX>
+  [236] extcall 47 .............................. <sprite(IntX)>
+  [239] pushcons 104 ............................ <"blackrun2">
+  [241] pusharglist 1 ........................... <"blackrun2">
+  [243] extcall 49 .............................. <cast("blackrun2")>
+  [246] setobjprop 48 ........................... sprite(IntX).member = cast("blackrun2")
+  [249] jmp [445]
+  [252] peek 0
+  [254] pushcons 112 ............................ <"blackrun2">
+  [256] eq
+  [257] jmpifz [280] ............................ (case) "blackrun2":
+  [260] getlocal 24 ............................. <IntX>
+  [262] pusharglist 1 ........................... <IntX>
+  [264] extcall 47 .............................. <sprite(IntX)>
+  [267] pushcons 120 ............................ <"black">
+  [269] pusharglist 1 ........................... <"black">
+  [271] extcall 49 .............................. <cast("black")>
+  [274] setobjprop 48 ........................... sprite(IntX).member = cast("black")
+  [277] jmp [445]
+  [280] peek 0
+  [282] pushcons 128 ............................ <"blackking">
+  [284] eq
+  [285] jmpifz [308] ............................ (case) "blackking":
+  [288] getlocal 24 ............................. <IntX>
+  [290] pusharglist 1 ........................... <IntX>
+  [292] extcall 47 .............................. <sprite(IntX)>
+  [295] pushcons 136 ............................ <"blackkingrun1">
+  [297] pusharglist 1 ........................... <"blackkingrun1">
+  [299] extcall 49 .............................. <cast("blackkingrun1")>
+  [302] setobjprop 48 ........................... sprite(IntX).member = cast("blackkingrun1")
+  [305] jmp [445]
+  [308] peek 0
+  [310] pushcons 144 ............................ <"blackkingrun1">
+  [312] eq
+  [313] jmpifz [336] ............................ (case) "blackkingrun1":
+  [316] getlocal 24 ............................. <IntX>
+  [318] pusharglist 1 ........................... <IntX>
+  [320] extcall 47 .............................. <sprite(IntX)>
+  [323] pushcons 152 ............................ <"blackkingrun2">
+  [325] pusharglist 1 ........................... <"blackkingrun2">
+  [327] extcall 49 .............................. <cast("blackkingrun2")>
+  [330] setobjprop 48 ........................... sprite(IntX).member = cast("blackkingrun2")
+  [333] jmp [445]
+  [336] peek 0
+  [338] pushcons 160 ............................ <"blackkingrun2">
+  [340] eq
+  [341] jmpifz [364] ............................ (case) "blackkingrun2":
+  [344] getlocal 24 ............................. <IntX>
+  [346] pusharglist 1 ........................... <IntX>
+  [348] extcall 47 .............................. <sprite(IntX)>
+  [351] pushcons 168 ............................ <"blackking">
+  [353] pusharglist 1 ........................... <"blackking">
+  [355] extcall 49 .............................. <cast("blackking")>
+  [358] setobjprop 48 ........................... sprite(IntX).member = cast("blackking")
+  [361] jmp [445]
+  [364] peek 0
+  [366] pushcons 176 ............................ <"redkingup">
+  [368] eq
+  [369] jmpifz [392] ............................ (case) "redkingup":
+  [372] getlocal 24 ............................. <IntX>
+  [374] pusharglist 1 ........................... <IntX>
+  [376] extcall 47 .............................. <sprite(IntX)>
+  [379] pushcons 184 ............................ <"redkinguprun1">
+  [381] pusharglist 1 ........................... <"redkinguprun1">
+  [383] extcall 49 .............................. <cast("redkinguprun1")>
+  [386] setobjprop 48 ........................... sprite(IntX).member = cast("redkinguprun1")
+  [389] jmp [445]
+  [392] peek 0
+  [394] pushcons 192 ............................ <"redkinguprun1">
+  [396] eq
+  [397] jmpifz [420] ............................ (case) "redkinguprun1":
+  [400] getlocal 24 ............................. <IntX>
+  [402] pusharglist 1 ........................... <IntX>
+  [404] extcall 47 .............................. <sprite(IntX)>
+  [407] pushcons 200 ............................ <"redkinguprun2">
+  [409] pusharglist 1 ........................... <"redkinguprun2">
+  [411] extcall 49 .............................. <cast("redkinguprun2")>
+  [414] setobjprop 48 ........................... sprite(IntX).member = cast("redkinguprun2")
+  [417] jmp [445]
+  [420] peek 0
+  [422] pushcons 208 ............................ <"redkinguprun2">
+  [424] eq
+  [425] jmpifz [445] ............................ (case) "redkinguprun2":
+  [428] getlocal 24 ............................. <IntX>
+  [430] pusharglist 1 ........................... <IntX>
+  [432] extcall 47 .............................. <sprite(IntX)>
+  [435] pushcons 216 ............................ <"redkingup">
+  [437] pusharglist 1 ........................... <"redkingup">
+  [439] extcall 49 .............................. <cast("redkingup")>
+  [442] setobjprop 48 ........................... sprite(IntX).member = cast("redkingup")
+  [445] pop 1 ................................... end case
+  [447] jmp [859]
+  [450] peek 0
+  [452] pushcons 224 ............................ <"red">
+  [454] nteq
+  [455] jmpifz [527] ............................ (case) "red", ...
+  [458] peek 0
+  [460] pushcons 232 ............................ <"redrun1">
+  [462] nteq
+  [463] jmpifz [527] ............................ (case) ..., "redrun1", ...
+  [466] peek 0
+  [468] pushcons 240 ............................ <"redrun2">
+  [470] nteq
+  [471] jmpifz [527] ............................ (case) ..., "redrun2", ...
+  [474] peek 0
+  [476] pushcons 248 ............................ <"redking">
+  [478] nteq
+  [479] jmpifz [527] ............................ (case) ..., "redking", ...
+  [482] peek 0
+  [484] pushcons 256 ............................ <"redkingrun1">
+  [487] nteq
+  [488] jmpifz [527] ............................ (case) ..., "redkingrun1", ...
+  [491] peek 0
+  [493] pushcons 264 ............................ <"redkingrun2">
+  [496] nteq
+  [497] jmpifz [527] ............................ (case) ..., "redkingrun2", ...
+  [500] peek 0
+  [502] pushcons 272 ............................ <"blackkingdown">
+  [505] nteq
+  [506] jmpifz [527] ............................ (case) ..., "blackkingdown", ...
+  [509] peek 0
+  [511] pushcons 280 ............................ <"blackkingdownrun1">
+  [514] nteq
+  [515] jmpifz [527] ............................ (case) ..., "blackkingdownrun1", ...
+  [518] peek 0
+  [520] pushcons 288 ............................ <"blackkingdownrun2">
+  [523] eq
+  [524] jmpifz [859] ............................ (case) ..., "blackkingdownrun2":
+  [527] getlocal 24 ............................. <IntX>
+  [529] pusharglist 1 ........................... <IntX>
+  [531] extcall 47 .............................. <sprite(IntX)>
+  [534] getobjprop 62 ........................... <sprite(IntX).locH>
+  [537] pushint8 215 ............................ <215>
+  [540] sub ..................................... <sprite(IntX).locH - 215>
+  [541] pushint8 100 ............................ <100>
+  [544] mod ..................................... <(sprite(IntX).locH - 215) mod 100>
+  [545] pushzero ................................ <0>
+  [546] nteq .................................... <((sprite(IntX).locH - 215) mod 100) <> 0>
+  [547] jmpifz [859] ............................ if ((sprite(IntX).locH - 215) mod 100) <> 0 then
+  [550] pushzero ................................ <0>
+  [551] setlocal 16 ............................. blnReadyToMarch = 0
+  [553] getlocal 24 ............................. <IntX>
+  [555] pusharglist 1 ........................... <IntX>
+  [557] extcall 47 .............................. <sprite(IntX)>
+  [560] getlocal 24 ............................. <IntX>
+  [562] pusharglist 1 ........................... <IntX>
+  [564] extcall 47 .............................. <sprite(IntX)>
+  [567] getobjprop 62 ........................... <sprite(IntX).locH>
+  [570] pushint8 1 .............................. <1>
+  [573] sub ..................................... <sprite(IntX).locH - 1>
+  [574] setobjprop 62 ........................... sprite(IntX).locH = sprite(IntX).locH - 1
+  [577] getlocal 24 ............................. <IntX>
+  [579] pusharglist 1 ........................... <IntX>
+  [581] extcall 47 .............................. <sprite(IntX)>
+  [584] getobjprop 48 ........................... <sprite(IntX).member>
+  [587] getobjprop 148 .......................... <sprite(IntX).member.name>
+  [590] peek 0 .................................. case sprite(IntX).member.name of
+  [592] pushcons 296 ............................ <"red">
+  [595] eq
+  [596] jmpifz [620] ............................ (case) "red":
+  [599] getlocal 24 ............................. <IntX>
+  [601] pusharglist 1 ........................... <IntX>
+  [603] extcall 47 .............................. <sprite(IntX)>
+  [606] pushcons 304 ............................ <"redrun1">
+  [609] pusharglist 1 ........................... <"redrun1">
+  [611] extcall 49 .............................. <cast("redrun1")>
+  [614] setobjprop 48 ........................... sprite(IntX).member = cast("redrun1")
+  [617] jmp [857]
+  [620] peek 0
+  [622] pushcons 312 ............................ <"redrun1">
+  [625] eq
+  [626] jmpifz [650] ............................ (case) "redrun1":
+  [629] getlocal 24 ............................. <IntX>
+  [631] pusharglist 1 ........................... <IntX>
+  [633] extcall 47 .............................. <sprite(IntX)>
+  [636] pushcons 320 ............................ <"redrun2">
+  [639] pusharglist 1 ........................... <"redrun2">
+  [641] extcall 49 .............................. <cast("redrun2")>
+  [644] setobjprop 48 ........................... sprite(IntX).member = cast("redrun2")
+  [647] jmp [857]
+  [650] peek 0
+  [652] pushcons 328 ............................ <"redrun2">
+  [655] eq
+  [656] jmpifz [680] ............................ (case) "redrun2":
+  [659] getlocal 24 ............................. <IntX>
+  [661] pusharglist 1 ........................... <IntX>
+  [663] extcall 47 .............................. <sprite(IntX)>
+  [666] pushcons 336 ............................ <"red">
+  [669] pusharglist 1 ........................... <"red">
+  [671] extcall 49 .............................. <cast("red")>
+  [674] setobjprop 48 ........................... sprite(IntX).member = cast("red")
+  [677] jmp [857]
+  [680] peek 0
+  [682] pushcons 344 ............................ <"redking">
+  [685] eq
+  [686] jmpifz [710] ............................ (case) "redking":
+  [689] getlocal 24 ............................. <IntX>
+  [691] pusharglist 1 ........................... <IntX>
+  [693] extcall 47 .............................. <sprite(IntX)>
+  [696] pushcons 352 ............................ <"redkingrun1">
+  [699] pusharglist 1 ........................... <"redkingrun1">
+  [701] extcall 49 .............................. <cast("redkingrun1")>
+  [704] setobjprop 48 ........................... sprite(IntX).member = cast("redkingrun1")
+  [707] jmp [857]
+  [710] peek 0
+  [712] pushcons 360 ............................ <"redkingrun1">
+  [715] eq
+  [716] jmpifz [740] ............................ (case) "redkingrun1":
+  [719] getlocal 24 ............................. <IntX>
+  [721] pusharglist 1 ........................... <IntX>
+  [723] extcall 47 .............................. <sprite(IntX)>
+  [726] pushcons 368 ............................ <"redkingrun2">
+  [729] pusharglist 1 ........................... <"redkingrun2">
+  [731] extcall 49 .............................. <cast("redkingrun2")>
+  [734] setobjprop 48 ........................... sprite(IntX).member = cast("redkingrun2")
+  [737] jmp [857]
+  [740] peek 0
+  [742] pushcons 376 ............................ <"redkingrun2">
+  [745] eq
+  [746] jmpifz [770] ............................ (case) "redkingrun2":
+  [749] getlocal 24 ............................. <IntX>
+  [751] pusharglist 1 ........................... <IntX>
+  [753] extcall 47 .............................. <sprite(IntX)>
+  [756] pushcons 384 ............................ <"redking">
+  [759] pusharglist 1 ........................... <"redking">
+  [761] extcall 49 .............................. <cast("redking")>
+  [764] setobjprop 48 ........................... sprite(IntX).member = cast("redking")
+  [767] jmp [857]
+  [770] peek 0
+  [772] pushcons 392 ............................ <"blackkingup">
+  [775] eq
+  [776] jmpifz [800] ............................ (case) "blackkingup":
+  [779] getlocal 24 ............................. <IntX>
+  [781] pusharglist 1 ........................... <IntX>
+  [783] extcall 47 .............................. <sprite(IntX)>
+  [786] pushcons 400 ............................ <"blackkinguprun1">
+  [789] pusharglist 1 ........................... <"blackkinguprun1">
+  [791] extcall 49 .............................. <cast("blackkinguprun1")>
+  [794] setobjprop 48 ........................... sprite(IntX).member = cast("blackkinguprun1")
+  [797] jmp [857]
+  [800] peek 0
+  [802] pushcons 408 ............................ <"blackkinguprun1">
+  [805] eq
+  [806] jmpifz [830] ............................ (case) "blackkinguprun1":
+  [809] getlocal 24 ............................. <IntX>
+  [811] pusharglist 1 ........................... <IntX>
+  [813] extcall 47 .............................. <sprite(IntX)>
+  [816] pushcons 416 ............................ <"blackkinguprun2">
+  [819] pusharglist 1 ........................... <"blackkinguprun2">
+  [821] extcall 49 .............................. <cast("blackkinguprun2")>
+  [824] setobjprop 48 ........................... sprite(IntX).member = cast("blackkinguprun2")
+  [827] jmp [857]
+  [830] peek 0
+  [832] pushcons 424 ............................ <"blackkinguprun2">
+  [835] eq
+  [836] jmpifz [857] ............................ (case) "blackkinguprun2":
+  [839] getlocal 24 ............................. <IntX>
+  [841] pusharglist 1 ........................... <IntX>
+  [843] extcall 47 .............................. <sprite(IntX)>
+  [846] pushcons 432 ............................ <"blackkingup">
+  [849] pusharglist 1 ........................... <"blackkingup">
+  [851] extcall 49 .............................. <cast("blackkingup")>
+  [854] setobjprop 48 ........................... sprite(IntX).member = cast("blackkingup")
+  [857] pop 1 ................................... end case
+  [859] pop 1 ................................... end case
+  [861] getlocal 24 ............................. <IntX>
+  [863] pushint8 1 .............................. <1>
+  [866] add ..................................... <IntX + 1>
+  [867] setlocal 24 ............................. IntX = IntX + 1
+  [869] endrepeat [ 26]
+  [872] pushint8 13 ............................. <13>
+  [875] pusharglist 1 ........................... <13>
+  [877] extcall 47 .............................. <sprite(13)>
+  [880] setlocal 32 ............................. RefSprite = sprite(13)
+  [882] getlocal 16 ............................. <blnReadyToMarch>
+  [884] jmpifz [952] ............................ if blnReadyToMarch then / else
+  [887] getlocal 32 ............................. <RefSprite>
+  [889] getlocal 32 ............................. <RefSprite>
+  [891] getobjprop 63 ........................... <RefSprite.locV>
+  [894] pushint8 4 .............................. <4>
+  [897] add ..................................... <RefSprite.locV + 4>
+  [898] setobjprop 63 ........................... RefSprite.locV = RefSprite.locV + 4
+  [901] getlocal 32 ............................. <RefSprite>
+  [903] getobjprop 48 ........................... <RefSprite.member>
+  [906] getobjprop 148 .......................... <RefSprite.member.name>
+  [909] peek 0 .................................. case RefSprite.member.name of
+  [911] pushcons 440 ............................ <"RefRun5">
+  [914] eq
+  [915] jmpifz [934] ............................ (case) "RefRun5":
+  [918] getlocal 32 ............................. <RefSprite>
+  [920] pushcons 448 ............................ <"RefRun6">
+  [923] pusharglist 1 ........................... <"RefRun6">
+  [925] extcall 49 .............................. <cast("RefRun6")>
+  [928] setobjprop 48 ........................... RefSprite.member = cast("RefRun6")
+  [931] jmp [947] ............................... (case) otherwise:
+  [934] getlocal 32 ............................. <RefSprite>
+  [936] pushcons 456 ............................ <"RefRun5">
+  [939] pusharglist 1 ........................... <"RefRun5">
+  [941] extcall 49 .............................. <cast("RefRun5")>
+  [944] setobjprop 48 ........................... RefSprite.member = cast("RefRun5")
+  [947] pop 1 ................................... end case
+  [949] jmp [1100]
+  [952] getlocal 32 ............................. <RefSprite>
+  [954] getobjprop 48 ........................... <RefSprite.member>
+  [957] getobjprop 148 .......................... <RefSprite.member.name>
+  [960] peek 0 .................................. case RefSprite.member.name of
+  [962] pushcons 464 ............................ <"RefRun1">
+  [965] eq
+  [966] jmpifz [985] ............................ (case) "RefRun1":
+  [969] getlocal 32 ............................. <RefSprite>
+  [971] pushcons 472 ............................ <"RefRun2">
+  [974] pusharglist 1 ........................... <"RefRun2">
+  [976] extcall 49 .............................. <cast("RefRun2")>
+  [979] setobjprop 48 ........................... RefSprite.member = cast("RefRun2")
+  [982] jmp [1098]
+  [985] peek 0
+  [987] pushcons 480 ............................ <"RefRun2">
+  [990] eq
+  [991] jmpifz [1010] ........................... (case) "RefRun2":
+  [994] getlocal 32 ............................. <RefSprite>
+  [996] pushcons 488 ............................ <"RefRun3">
+  [999] pusharglist 1 ........................... <"RefRun3">
+  [1001] extcall 49 ............................. <cast("RefRun3")>
+  [1004] setobjprop 48 .......................... RefSprite.member = cast("RefRun3")
+  [1007] jmp [1098]
+  [1010] peek 0
+  [1012] pushcons 496 ........................... <"RefRun3">
+  [1015] eq
+  [1016] jmpifz [1035] .......................... (case) "RefRun3":
+  [1019] getlocal 32 ............................ <RefSprite>
+  [1021] pushcons 504 ........................... <"RefRun4">
+  [1024] pusharglist 1 .......................... <"RefRun4">
+  [1026] extcall 49 ............................. <cast("RefRun4")>
+  [1029] setobjprop 48 .......................... RefSprite.member = cast("RefRun4")
+  [1032] jmp [1098]
+  [1035] peek 0
+  [1037] pushcons 512 ........................... <"RefRun4">
+  [1040] eq
+  [1041] jmpifz [1060] .......................... (case) "RefRun4":
+  [1044] getlocal 32 ............................ <RefSprite>
+  [1046] pushcons 520 ........................... <"RefRun5">
+  [1049] pusharglist 1 .......................... <"RefRun5">
+  [1051] extcall 49 ............................. <cast("RefRun5")>
+  [1054] setobjprop 48 .......................... RefSprite.member = cast("RefRun5")
+  [1057] jmp [1098]
+  [1060] peek 0
+  [1062] pushcons 528 ........................... <"RefRun5">
+  [1065] eq
+  [1066] jmpifz [1085] .......................... (case) "RefRun5":
+  [1069] getlocal 32 ............................ <RefSprite>
+  [1071] pushcons 536 ........................... <"RefRun5">
+  [1074] pusharglist 1 .......................... <"RefRun5">
+  [1076] extcall 49 ............................. <cast("RefRun5")>
+  [1079] setobjprop 48 .......................... RefSprite.member = cast("RefRun5")
+  [1082] jmp [1098] ............................. (case) otherwise:
+  [1085] getlocal 32 ............................ <RefSprite>
+  [1087] pushcons 544 ........................... <"RefRun1">
+  [1090] pusharglist 1 .......................... <"RefRun1">
+  [1092] extcall 49 ............................. <cast("RefRun1")>
+  [1095] setobjprop 48 .......................... RefSprite.member = cast("RefRun1")
+  [1098] pop 1 .................................. end case
+  [1100] getlocal 16 ............................ <blnReadyToMarch>
+  [1102] jmpifz [2020] .......................... if blnReadyToMarch then / else
+  [1105] pushint8 21 ............................ <21>
+  [1108] setlocal 24 ............................ IntX = 21
+  [1110] getlocal 24 ............................ <IntX>
+  [1112] pushint8 84 ............................ <84>
+  [1115] lt ..................................... <IntX < 84>
+  [1116] jmpifz [2017] .......................... repeat while IntX < 84
+  [1119] getlocal 24 ............................ <IntX>
+  [1121] pusharglist 1 .......................... <IntX>
+  [1123] extcall 47 ............................. <sprite(IntX)>
+  [1126] getobjprop 57 .......................... <sprite(IntX).visible>
+  [1129] jmpifz [2006] .......................... if sprite(IntX).visible then
+  [1132] getlocal 24 ............................ <IntX>
+  [1134] pusharglist 1 .......................... <IntX>
+  [1136] extcall 47 ............................. <sprite(IntX)>
+  [1139] getobjprop 48 .......................... <sprite(IntX).member>
+  [1142] getobjprop 148 ......................... <sprite(IntX).member.name>
+  [1145] peek 0 ................................. case sprite(IntX).member.name of
+  [1147] pushcons 552 ........................... <"black">
+  [1150] nteq
+  [1151] jmpifz [1226] .......................... (case) "black", ...
+  [1154] peek 0
+  [1156] pushcons 560 ........................... <"blackrun1">
+  [1159] nteq
+  [1160] jmpifz [1226] .......................... (case) ..., "blackrun1", ...
+  [1163] peek 0
+  [1165] pushcons 568 ........................... <"blackrun2">
+  [1168] nteq
+  [1169] jmpifz [1226] .......................... (case) ..., "blackrun2", ...
+  [1172] peek 0
+  [1174] pushcons 576 ........................... <"blackking">
+  [1177] nteq
+  [1178] jmpifz [1226] .......................... (case) ..., "blackking", ...
+  [1181] peek 0
+  [1183] pushcons 584 ........................... <"blackkingrun1">
+  [1186] nteq
+  [1187] jmpifz [1226] .......................... (case) ..., "blackkingrun1", ...
+  [1190] peek 0
+  [1192] pushcons 592 ........................... <"blackkingrun2">
+  [1195] nteq
+  [1196] jmpifz [1226] .......................... (case) ..., "blackkingrun2", ...
+  [1199] peek 0
+  [1201] pushcons 600 ........................... <"redkingup">
+  [1204] nteq
+  [1205] jmpifz [1226] .......................... (case) ..., "redkingup", ...
+  [1208] peek 0
+  [1210] pushcons 608 ........................... <"redkinguprun1">
+  [1213] nteq
+  [1214] jmpifz [1226] .......................... (case) ..., "redkinguprun1", ...
+  [1217] peek 0
+  [1219] pushcons 616 ........................... <"redkinguprun2">
+  [1222] eq
+  [1223] jmpifz [1582] .......................... (case) ..., "redkinguprun2":
+  [1226] getlocal 24 ............................ <IntX>
+  [1228] pusharglist 1 .......................... <IntX>
+  [1230] extcall 47 ............................. <sprite(IntX)>
+  [1233] getobjprop 63 .......................... <sprite(IntX).locV>
+  [1236] getlocal 24 ............................ <IntX>
+  [1238] pusharglist 1 .......................... <IntX>
+  [1240] extcall 47 ............................. <sprite(IntX)>
+  [1243] getobjprop 63 .......................... <sprite(IntX).locV>
+  [1246] add .................................... <sprite(IntX).locV + sprite(IntX).locV>
+  [1247] pushint8 100 ........................... <100>
+  [1250] inv .................................... <-100>
+  [1251] gt ..................................... <(sprite(IntX).locV + sprite(IntX).locV) > -100>
+  [1252] jmpifz [1568] .......................... if (sprite(IntX).locV + sprite(IntX).locV) > -100 then / else
+  [1255] pushzero ............................... <0>
+  [1256] setprop 102 ............................ blnDone = 0
+  [1259] getlocal 24 ............................ <IntX>
+  [1261] pusharglist 1 .......................... <IntX>
+  [1263] extcall 47 ............................. <sprite(IntX)>
+  [1266] getlocal 24 ............................ <IntX>
+  [1268] pusharglist 1 .......................... <IntX>
+  [1270] extcall 47 ............................. <sprite(IntX)>
+  [1273] getobjprop 63 .......................... <sprite(IntX).locV>
+  [1276] pushint8 4 ............................. <4>
+  [1279] sub .................................... <sprite(IntX).locV - 4>
+  [1280] setobjprop 63 .......................... sprite(IntX).locV = sprite(IntX).locV - 4
+  [1283] getlocal 24 ............................ <IntX>
+  [1285] pusharglist 1 .......................... <IntX>
+  [1287] extcall 47 ............................. <sprite(IntX)>
+  [1290] getobjprop 48 .......................... <sprite(IntX).member>
+  [1293] getobjprop 148 ......................... <sprite(IntX).member.name>
+  [1296] peek 0 ................................. case sprite(IntX).member.name of
+  [1298] pushcons 624 ........................... <"black">
+  [1301] eq
+  [1302] jmpifz [1326] .......................... (case) "black":
+  [1305] getlocal 24 ............................ <IntX>
+  [1307] pusharglist 1 .......................... <IntX>
+  [1309] extcall 47 ............................. <sprite(IntX)>
+  [1312] pushcons 632 ........................... <"blackrun1">
+  [1315] pusharglist 1 .......................... <"blackrun1">
+  [1317] extcall 49 ............................. <cast("blackrun1")>
+  [1320] setobjprop 48 .......................... sprite(IntX).member = cast("blackrun1")
+  [1323] jmp [1563]
+  [1326] peek 0
+  [1328] pushcons 640 ........................... <"blackrun1">
+  [1331] eq
+  [1332] jmpifz [1356] .......................... (case) "blackrun1":
+  [1335] getlocal 24 ............................ <IntX>
+  [1337] pusharglist 1 .......................... <IntX>
+  [1339] extcall 47 ............................. <sprite(IntX)>
+  [1342] pushcons 648 ........................... <"blackrun2">
+  [1345] pusharglist 1 .......................... <"blackrun2">
+  [1347] extcall 49 ............................. <cast("blackrun2")>
+  [1350] setobjprop 48 .......................... sprite(IntX).member = cast("blackrun2")
+  [1353] jmp [1563]
+  [1356] peek 0
+  [1358] pushcons 656 ........................... <"blackrun2">
+  [1361] eq
+  [1362] jmpifz [1386] .......................... (case) "blackrun2":
+  [1365] getlocal 24 ............................ <IntX>
+  [1367] pusharglist 1 .......................... <IntX>
+  [1369] extcall 47 ............................. <sprite(IntX)>
+  [1372] pushcons 664 ........................... <"black">
+  [1375] pusharglist 1 .......................... <"black">
+  [1377] extcall 49 ............................. <cast("black")>
+  [1380] setobjprop 48 .......................... sprite(IntX).member = cast("black")
+  [1383] jmp [1563]
+  [1386] peek 0
+  [1388] pushcons 672 ........................... <"blackking">
+  [1391] eq
+  [1392] jmpifz [1416] .......................... (case) "blackking":
+  [1395] getlocal 24 ............................ <IntX>
+  [1397] pusharglist 1 .......................... <IntX>
+  [1399] extcall 47 ............................. <sprite(IntX)>
+  [1402] pushcons 680 ........................... <"blackkingrun1">
+  [1405] pusharglist 1 .......................... <"blackkingrun1">
+  [1407] extcall 49 ............................. <cast("blackkingrun1")>
+  [1410] setobjprop 48 .......................... sprite(IntX).member = cast("blackkingrun1")
+  [1413] jmp [1563]
+  [1416] peek 0
+  [1418] pushcons 688 ........................... <"blackkingrun1">
+  [1421] eq
+  [1422] jmpifz [1446] .......................... (case) "blackkingrun1":
+  [1425] getlocal 24 ............................ <IntX>
+  [1427] pusharglist 1 .......................... <IntX>
+  [1429] extcall 47 ............................. <sprite(IntX)>
+  [1432] pushcons 696 ........................... <"blackkingrun2">
+  [1435] pusharglist 1 .......................... <"blackkingrun2">
+  [1437] extcall 49 ............................. <cast("blackkingrun2")>
+  [1440] setobjprop 48 .......................... sprite(IntX).member = cast("blackkingrun2")
+  [1443] jmp [1563]
+  [1446] peek 0
+  [1448] pushcons 704 ........................... <"blackkingrun2">
+  [1451] eq
+  [1452] jmpifz [1476] .......................... (case) "blackkingrun2":
+  [1455] getlocal 24 ............................ <IntX>
+  [1457] pusharglist 1 .......................... <IntX>
+  [1459] extcall 47 ............................. <sprite(IntX)>
+  [1462] pushcons 712 ........................... <"blackking">
+  [1465] pusharglist 1 .......................... <"blackking">
+  [1467] extcall 49 ............................. <cast("blackking")>
+  [1470] setobjprop 48 .......................... sprite(IntX).member = cast("blackking")
+  [1473] jmp [1563]
+  [1476] peek 0
+  [1478] pushcons 720 ........................... <"redkingup">
+  [1481] eq
+  [1482] jmpifz [1506] .......................... (case) "redkingup":
+  [1485] getlocal 24 ............................ <IntX>
+  [1487] pusharglist 1 .......................... <IntX>
+  [1489] extcall 47 ............................. <sprite(IntX)>
+  [1492] pushcons 728 ........................... <"redkinguprun1">
+  [1495] pusharglist 1 .......................... <"redkinguprun1">
+  [1497] extcall 49 ............................. <cast("redkinguprun1")>
+  [1500] setobjprop 48 .......................... sprite(IntX).member = cast("redkinguprun1")
+  [1503] jmp [1563]
+  [1506] peek 0
+  [1508] pushcons 736 ........................... <"redkinguprun1">
+  [1511] eq
+  [1512] jmpifz [1536] .......................... (case) "redkinguprun1":
+  [1515] getlocal 24 ............................ <IntX>
+  [1517] pusharglist 1 .......................... <IntX>
+  [1519] extcall 47 ............................. <sprite(IntX)>
+  [1522] pushcons 744 ........................... <"redkinguprun2">
+  [1525] pusharglist 1 .......................... <"redkinguprun2">
+  [1527] extcall 49 ............................. <cast("redkinguprun2")>
+  [1530] setobjprop 48 .......................... sprite(IntX).member = cast("redkinguprun2")
+  [1533] jmp [1563]
+  [1536] peek 0
+  [1538] pushcons 752 ........................... <"redkinguprun2">
+  [1541] eq
+  [1542] jmpifz [1563] .......................... (case) "redkinguprun2":
+  [1545] getlocal 24 ............................ <IntX>
+  [1547] pusharglist 1 .......................... <IntX>
+  [1549] extcall 47 ............................. <sprite(IntX)>
+  [1552] pushcons 760 ........................... <"redkingup">
+  [1555] pusharglist 1 .......................... <"redkingup">
+  [1557] extcall 49 ............................. <cast("redkingup")>
+  [1560] setobjprop 48 .......................... sprite(IntX).member = cast("redkingup")
+  [1563] pop 1 .................................. end case
+  [1565] jmp [1579]
+  [1568] getlocal 24 ............................ <IntX>
+  [1570] pusharglist 1 .......................... <IntX>
+  [1572] extcall 47 ............................. <sprite(IntX)>
+  [1575] pushzero ............................... <0>
+  [1576] setobjprop 57 .......................... sprite(IntX).visible = 0
+  [1579] jmp [2004]
+  [1582] peek 0
+  [1584] pushcons 768 ........................... <"red">
+  [1587] nteq
+  [1588] jmpifz [1663] .......................... (case) "red", ...
+  [1591] peek 0
+  [1593] pushcons 776 ........................... <"redrun1">
+  [1596] nteq
+  [1597] jmpifz [1663] .......................... (case) ..., "redrun1", ...
+  [1600] peek 0
+  [1602] pushcons 784 ........................... <"redrun2">
+  [1605] nteq
+  [1606] jmpifz [1663] .......................... (case) ..., "redrun2", ...
+  [1609] peek 0
+  [1611] pushcons 792 ........................... <"redking">
+  [1614] nteq
+  [1615] jmpifz [1663] .......................... (case) ..., "redking", ...
+  [1618] peek 0
+  [1620] pushcons 800 ........................... <"redkingrun1">
+  [1623] nteq
+  [1624] jmpifz [1663] .......................... (case) ..., "redkingrun1", ...
+  [1627] peek 0
+  [1629] pushcons 808 ........................... <"redkingrun2">
+  [1632] nteq
+  [1633] jmpifz [1663] .......................... (case) ..., "redkingrun2", ...
+  [1636] peek 0
+  [1638] pushcons 816 ........................... <"blackkingdown">
+  [1641] nteq
+  [1642] jmpifz [1663] .......................... (case) ..., "blackkingdown", ...
+  [1645] peek 0
+  [1647] pushcons 824 ........................... <"blackkingdownrun1">
+  [1650] nteq
+  [1651] jmpifz [1663] .......................... (case) ..., "blackkingdownrun1", ...
+  [1654] peek 0
+  [1656] pushcons 832 ........................... <"blackkingdownrun2">
+  [1659] eq
+  [1660] jmpifz [2004] .......................... (case) ..., "blackkingdownrun2":
+  [1663] getlocal 24 ............................ <IntX>
+  [1665] pusharglist 1 .......................... <IntX>
+  [1667] extcall 47 ............................. <sprite(IntX)>
+  [1670] getobjprop 63 .......................... <sprite(IntX).locV>
+  [1673] pushint8 525 ........................... <525>
+  [1676] lt ..................................... <sprite(IntX).locV < 525>
+  [1677] jmpifz [1993] .......................... if sprite(IntX).locV < 525 then / else
+  [1680] pushzero ............................... <0>
+  [1681] setprop 102 ............................ blnDone = 0
+  [1684] getlocal 24 ............................ <IntX>
+  [1686] pusharglist 1 .......................... <IntX>
+  [1688] extcall 47 ............................. <sprite(IntX)>
+  [1691] getlocal 24 ............................ <IntX>
+  [1693] pusharglist 1 .......................... <IntX>
+  [1695] extcall 47 ............................. <sprite(IntX)>
+  [1698] getobjprop 63 .......................... <sprite(IntX).locV>
+  [1701] pushint8 4 ............................. <4>
+  [1704] add .................................... <sprite(IntX).locV + 4>
+  [1705] setobjprop 63 .......................... sprite(IntX).locV = sprite(IntX).locV + 4
+  [1708] getlocal 24 ............................ <IntX>
+  [1710] pusharglist 1 .......................... <IntX>
+  [1712] extcall 47 ............................. <sprite(IntX)>
+  [1715] getobjprop 48 .......................... <sprite(IntX).member>
+  [1718] getobjprop 148 ......................... <sprite(IntX).member.name>
+  [1721] peek 0 ................................. case sprite(IntX).member.name of
+  [1723] pushcons 840 ........................... <"red">
+  [1726] eq
+  [1727] jmpifz [1751] .......................... (case) "red":
+  [1730] getlocal 24 ............................ <IntX>
+  [1732] pusharglist 1 .......................... <IntX>
+  [1734] extcall 47 ............................. <sprite(IntX)>
+  [1737] pushcons 848 ........................... <"redrun1">
+  [1740] pusharglist 1 .......................... <"redrun1">
+  [1742] extcall 49 ............................. <cast("redrun1")>
+  [1745] setobjprop 48 .......................... sprite(IntX).member = cast("redrun1")
+  [1748] jmp [1988]
+  [1751] peek 0
+  [1753] pushcons 856 ........................... <"redrun1">
+  [1756] eq
+  [1757] jmpifz [1781] .......................... (case) "redrun1":
+  [1760] getlocal 24 ............................ <IntX>
+  [1762] pusharglist 1 .......................... <IntX>
+  [1764] extcall 47 ............................. <sprite(IntX)>
+  [1767] pushcons 864 ........................... <"redrun2">
+  [1770] pusharglist 1 .......................... <"redrun2">
+  [1772] extcall 49 ............................. <cast("redrun2")>
+  [1775] setobjprop 48 .......................... sprite(IntX).member = cast("redrun2")
+  [1778] jmp [1988]
+  [1781] peek 0
+  [1783] pushcons 872 ........................... <"redrun2">
+  [1786] eq
+  [1787] jmpifz [1811] .......................... (case) "redrun2":
+  [1790] getlocal 24 ............................ <IntX>
+  [1792] pusharglist 1 .......................... <IntX>
+  [1794] extcall 47 ............................. <sprite(IntX)>
+  [1797] pushcons 880 ........................... <"red">
+  [1800] pusharglist 1 .......................... <"red">
+  [1802] extcall 49 ............................. <cast("red")>
+  [1805] setobjprop 48 .......................... sprite(IntX).member = cast("red")
+  [1808] jmp [1988]
+  [1811] peek 0
+  [1813] pushcons 888 ........................... <"redking">
+  [1816] eq
+  [1817] jmpifz [1841] .......................... (case) "redking":
+  [1820] getlocal 24 ............................ <IntX>
+  [1822] pusharglist 1 .......................... <IntX>
+  [1824] extcall 47 ............................. <sprite(IntX)>
+  [1827] pushcons 896 ........................... <"redkingrun1">
+  [1830] pusharglist 1 .......................... <"redkingrun1">
+  [1832] extcall 49 ............................. <cast("redkingrun1")>
+  [1835] setobjprop 48 .......................... sprite(IntX).member = cast("redkingrun1")
+  [1838] jmp [1988]
+  [1841] peek 0
+  [1843] pushcons 904 ........................... <"redkingrun1">
+  [1846] eq
+  [1847] jmpifz [1871] .......................... (case) "redkingrun1":
+  [1850] getlocal 24 ............................ <IntX>
+  [1852] pusharglist 1 .......................... <IntX>
+  [1854] extcall 47 ............................. <sprite(IntX)>
+  [1857] pushcons 912 ........................... <"redkingrun2">
+  [1860] pusharglist 1 .......................... <"redkingrun2">
+  [1862] extcall 49 ............................. <cast("redkingrun2")>
+  [1865] setobjprop 48 .......................... sprite(IntX).member = cast("redkingrun2")
+  [1868] jmp [1988]
+  [1871] peek 0
+  [1873] pushcons 920 ........................... <"redkingrun2">
+  [1876] eq
+  [1877] jmpifz [1901] .......................... (case) "redkingrun2":
+  [1880] getlocal 24 ............................ <IntX>
+  [1882] pusharglist 1 .......................... <IntX>
+  [1884] extcall 47 ............................. <sprite(IntX)>
+  [1887] pushcons 928 ........................... <"redking">
+  [1890] pusharglist 1 .......................... <"redking">
+  [1892] extcall 49 ............................. <cast("redking")>
+  [1895] setobjprop 48 .......................... sprite(IntX).member = cast("redking")
+  [1898] jmp [1988]
+  [1901] peek 0
+  [1903] pushcons 936 ........................... <"blackkingup">
+  [1906] eq
+  [1907] jmpifz [1931] .......................... (case) "blackkingup":
+  [1910] getlocal 24 ............................ <IntX>
+  [1912] pusharglist 1 .......................... <IntX>
+  [1914] extcall 47 ............................. <sprite(IntX)>
+  [1917] pushcons 944 ........................... <"blackkinguprun1">
+  [1920] pusharglist 1 .......................... <"blackkinguprun1">
+  [1922] extcall 49 ............................. <cast("blackkinguprun1")>
+  [1925] setobjprop 48 .......................... sprite(IntX).member = cast("blackkinguprun1")
+  [1928] jmp [1988]
+  [1931] peek 0
+  [1933] pushcons 952 ........................... <"blackkinguprun1">
+  [1936] eq
+  [1937] jmpifz [1961] .......................... (case) "blackkinguprun1":
+  [1940] getlocal 24 ............................ <IntX>
+  [1942] pusharglist 1 .......................... <IntX>
+  [1944] extcall 47 ............................. <sprite(IntX)>
+  [1947] pushcons 960 ........................... <"blackkinguprun2">
+  [1950] pusharglist 1 .......................... <"blackkinguprun2">
+  [1952] extcall 49 ............................. <cast("blackkinguprun2")>
+  [1955] setobjprop 48 .......................... sprite(IntX).member = cast("blackkinguprun2")
+  [1958] jmp [1988]
+  [1961] peek 0
+  [1963] pushcons 968 ........................... <"blackkinguprun2">
+  [1966] eq
+  [1967] jmpifz [1988] .......................... (case) "blackkinguprun2":
+  [1970] getlocal 24 ............................ <IntX>
+  [1972] pusharglist 1 .......................... <IntX>
+  [1974] extcall 47 ............................. <sprite(IntX)>
+  [1977] pushcons 976 ........................... <"blackkingup">
+  [1980] pusharglist 1 .......................... <"blackkingup">
+  [1982] extcall 49 ............................. <cast("blackkingup")>
+  [1985] setobjprop 48 .......................... sprite(IntX).member = cast("blackkingup")
+  [1988] pop 1 .................................. end case
+  [1990] jmp [2004]
+  [1993] getlocal 24 ............................ <IntX>
+  [1995] pusharglist 1 .......................... <IntX>
+  [1997] extcall 47 ............................. <sprite(IntX)>
+  [2000] pushzero ............................... <0>
+  [2001] setobjprop 57 .......................... sprite(IntX).visible = 0
+  [2004] pop 1 .................................. end case
+  [2006] getlocal 24 ............................ <IntX>
+  [2008] pushint8 1 ............................. <1>
+  [2011] add .................................... <IntX + 1>
+  [2012] setlocal 24 ............................ IntX = IntX + 1
+  [2014] endrepeat [1110]
+  [2017] jmp [2024]
+  [2020] pushzero ............................... <0>
+  [2021] setprop 102 ............................ blnDone = 0
+  [2024] ret
+end

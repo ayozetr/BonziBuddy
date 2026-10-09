@@ -1,0 +1,10 @@
+on mouseEnter
+  [  0] pushint8 8 .............................. <8>
+  [  3] pusharglist 1 ........................... <8>
+  [  5] extcall 4 ............................... <sprite(8)>
+  [  7] pushcons 0 .............................. <"end_glow">
+  [  9] pusharglist 1 ........................... <"end_glow">
+  [ 11] extcall 16 .............................. <cast("end_glow")>
+  [ 13] setobjprop 17 ........................... sprite(8).member = cast("end_glow")
+  [ 15] ret
+end

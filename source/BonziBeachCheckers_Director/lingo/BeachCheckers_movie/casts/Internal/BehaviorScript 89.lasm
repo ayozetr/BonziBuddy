@@ -1,0 +1,6 @@
+on exitFrame me
+  [  0] pushcons 0 .............................. <"IntroAnimEnd">
+  [  2] pusharglistnoret 1 ...................... <"IntroAnimEnd">
+  [  4] extcall 94 .............................. go("IntroAnimEnd")
+  [  7] ret
+end

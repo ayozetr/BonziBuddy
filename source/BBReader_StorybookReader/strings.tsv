@@ -1,0 +1,661 @@
+address	type	used_by_functions	string
+004001b8	char[8]		.text
+004001e0	char[8]		.data
+00400208	char[8]		.rsrc
+00400240	TerminatedCString		MSVBVM60.DLL
+004029b4	string		BBReader
+004029bd	string		Bonzi Buddy Storybook Reader
+004029db	string		BonziBuddyStorybookReader
+0040421c	string		ReadyState
+00404233	string		SHDocVwCtl.WebBrowser
+00404249	string		WebBrowser
+00404394	string		AgentCtl.dll
+004043a1	string		AgentObjectsCtl.Agent
+004043b7	string		Agent
+00404559	string		MSComctlLib.ProgressBar
+00404571	string		ProgressBar
+004046a9	string		MSComctlLib.ImageList
+004046bf	string		ImageList
+0040486c	string		Caption
+004048a6	string		Threed.SSPanel
+004048b5	string		SSPanel
+00404a6c	string		Caption
+00404a74	string		Value
+00404aac	string		Threed.SSRibbon
+00404abc	string		SSRibbon
+00404bb8	string		Regicon.ocx
+00404bc4	string		RegistryControl.RegiCon
+00404bdc	string		RegiCon
+00404d09	string		MSComDlg.CommonDialog
+00404d1f	string		CommonDialog
+00408dbf	string		 frmReaderOptions
+00408dd4	string		modGraphics
+00408de0	string		modPlayer
+00408dec	string		modTextCrypt
+00408dfc	string		frmPrintOutput
+00408e0c	string		frmPrinterSetup
+00408e1c	string		frmReader
+00408e28	string		frmPrinterSetupBATAN
+00408e40	string		frmSplash
+00408e4c	string		frmPrinterSetupBATTC
+00408e64	string		BonziBuddyStorybookReader
+00408e84	unicode	FUN_004e8c80	Bonzi
+00408e94	unicode	FUN_004e8c80	Bonzi.acs
+00408eac	unicode	FUN_004f5990	HTTP://www.bonzi.com/bonzibuddy/home.asp
+00408f14	unicode	FUN_004dadd0	Header
+00408f28	unicode	FUN_004f0cb0,FUN_004f1320	BONZIBUDDY\Add-ons\StorybookReader
+00408f8a	unicode		 Storybook Reader
+00408fb4	unicode	FUN_004ebe20	Background, Close, Cover, GoTo, Menu, Minimize, Next, Pause, Play, Previous
+00409050	unicode	FUN_004e5b10,FUN_004e6470,FUN_004e6a80,FUN_004e70d0,FUN_004e77a0,FUN_004e8710,FUN_004ed000	Over
+00409060	unicode		Pressed
+004090c0	string		fraGlobalConfig
+004090e8	string	00409134	C:\Program Files\Microsoft Visual Studio\VB98\VB6.OLB
+0040915c	string		optGlobalConfig
+00409184	string		fraCustomConfig
+00409194	string		optCustomConfig
+004091a4	string		optGlobalReadAll
+004091b8	string		optGlobalRead1
+004091c8	string		optGlobalReadNone
+004091ec	string		cboCustomBack
+004091fc	string		cboCustomNext
+0040920c	string		cboCustomOpen
+0040921c	string		cboCustomPlay
+0040922c	string		cboCustomSkip
+0040923c	string		cmdPrint
+00409260	string		cmdAdvancedOptions
+0040928c	string		Label1
+00409294	string		cmdCancel
+004092c4	string		FormatBookTitle
+004092d4	string		GetBookArrayIndex
+00409318	string	00409b2c,0040a6dc	user32
+00409324	string		SetWindowLongA
+0040936c	string		SetWindowPos
+004093b4	string	004093d4	winmm.dll
+004093c4	string		sndPlaySoundA
+0040940c	string		SetCapture
+00409418	string		tmrPrintTimer
+00409428	string		cmdPrevious
+0040946c	string		ReleaseCapture
+0040950c	string		cmdOptions
+00409528	string	00409560	C:\WINNT\system32\ssa3d30.oca
+00409548	string	00409564	Threed
+00409586	string		nsAgent1
+0040959f	string		EC:\WINNT\msagent\AgentCtl.oca
+004095c0	string	004095f8	AgentObjectsCtl
+0040961c	string		m_clsStoryReader
+00409640	string	0040969c	C:\Source\VB\BonziBuddy\Distribution\Free Version\BonziBDY.EXE
+00409680	string	004096a0	BonziBUDDY
+004096b4	string		cmdPlay
+004096e4	string	00409720	C:\WINNT\System32\shdocvw.oca
+00409704	string	00409724	SHDocVwCtl
+00409748	string		picPageCenter
+00409758	string		picPageRight
+00409768	string		picPageLeft
+00409784	string		imgBackground
+00409794	string		cmdClose
+004097a0	string		tmrInitTimer
+004097d8	string	00409810	C:\WINNT\System32\shdocvw.dll
+004097f8	string	00409814	SHDocVw
+00409828	string		cmdGoToPage
+00409843	string		tsspanelTitleBar
+00409854	string		cmdMinimize
+00409860	string		tmrBookStartTimer
+00409874	string		cmdNext
+00409880	string		LockWindowUpdate
+004098c8	string	00408b94,00408b98	UseGlobalSettings
+004098dc	string	00408b9c,00408ba0	ActionGlobal
+004098ec	string	00408ba4,00408ba8	ActionOpen
+004098f8	string	00408bac,00408bb0	ActionBack
+00409904	string	00408bb4,00408bb8	ActionSkip
+00409910	string	00408bbc,00408bc0	ActionPlay
+0040991c	string	00408bc4,00408bc8	ActionNext
+00409928	string	00408bcc,00408bd0	BookPath
+00409934	string	00408bd4,00408bd8	BookTitle
+00409940	string	00408bdc	StartBook
+0040994c	string		IncrementSplashProgress
+00409964	string		GetSkin
+0040996c	string		ResetOriginalSkin
+00409980	string		InitReader
+0040998c	string	00408ca8	m_clsStoryReader_StoryReaderNewBook
+004099b0	string	00408cac	m_clsStoryReader_StoryReaderShutDown
+004099d8	string	00408cb0	m_clsStoryReader_StoryReaderStop
+004099fc	string	00408cb4	m_MIE_OnQuit
+00409a0c	string	00408cd0	LoadOptions
+00409a18	string	00408cd4	SaveOptions
+00409a24	string	00408cd8	SetDefaultSettings
+00409a38	string	00408ce4	InitBookStartCascade
+00409a50	string	00408ce8	frmReaderMaximize
+00409a64	string	00408cec	DisplayPage
+00409a70	string	00408cf0	CenterDisplays
+00409a80	string		ShowPrinterForm
+00409b18	string		SetForegroundWindow
+00409bb4	unicode	FUN_004d8240	Clear
+00409bc4	unicode	FUN_004d8240	Read Entire Book
+00409be8	unicode	FUN_004d8240	AddItem
+00409bfc	unicode	FUN_004d8240	Read One Page
+00409c1c	unicode	FUN_004d8240	Don't Read
+00409c64	unicode	FUN_004d84f0	The 
+00409c98	string		__vbaGenerateBoundsError
+00409cb4	string		__vbaLbound
+00409cc0	string		__vbaUbound
+00409ccc	string		__vbaErrorOverflow
+00409ce0	string		__vbaStrCat
+00409cec	string		__vbaLenBstr
+00409cfc	string		__vbaCastObj
+00409d0c	string		__vbaStrCopy
+00409d1c	string		__vbaFreeStr
+00409d2c	string		__vbaStrCmp
+00409d38	string		__vbaStrMove
+00409d48	string		__vbaNextEachCollObj
+00409d6c	string		__vbaLateMemCall
+00409d80	string		__vbaCheckType
+00409d90	string		__vbaForEachCollObj
+00409da4	string		__vbaOnError
+00409dc0	string		__vbaFreeObj
+00409dd0	string		__vbaObjSetAddref
+00409dec	string		__vbaFreeVar
+00409dfc	string		__vbaFreeObjList
+00409e10	string		__vbaHresultCheckObj
+00409e28	string		__vbaNew2
+00409e44	string		__vbaLateIdCallLd
+00409e58	string		__vbaCastObjVar
+00409e68	string		__vbaObjSet
+00409e94	unicode	FUN_004d8ce0	Enabled
+00409ea4	unicode	FUN_004d8ce0	Parent
+00409eb4	unicode	FUN_004d8ce0	Controls
+00409ec8	unicode	FUN_004d8ce0	Container
+00409f0c	string		__vbaFreeVarList
+00409f20	string		__vbaVarLateMemCallLd
+00409f44	string		__vbaLateMemCallLd
+00409f58	string		__vbaUnkVar
+00409f64	string		__vbaLateMemSt
+00409fe4	unicode	004f6cfb	Surprised
+00409ffc	unicode	004f6e55,004f6eb9	Don't worry!  You can download the latest version of Internet Explorer from \Ctx="Email"\HTTP://www.microsoft.com/windows/ie/default.htm.
+0040a110	string		optPagesCurrent
+0040a128	unicode	004f6d74,004f6dd8	It seems that you do not have Microsoft's Internet Explorer version 4.01 or higher installed.  You'll need to download and install the latest version of this browser from Microsoft's Web site before we can browse or search the web together.
+0040a30c	string		lblProgress
+0040a320	unicode		Please connect to the internet and download and install the latest version of Microsoft's Internet Explorer from the site HTTP://www.microsoft.com/windows/ie/default.htm.
+0040a478	string		__vbaExitProc
+0040a488	string		__vbaVarDup
+0040a494	string		__vbaSetSystemError
+0040a4a8	string		__vbaNew
+0040a4b4	string		__vbaVarAdd
+0040a4c0	string		__vbaVarTstLt
+0040a4d0	string		__vbaVarMove
+0040a510	unicode	FUN_004dadd0	.temp
+0040a528	unicode	004db3b4	Error Reading File:  
+0040a554	string		__vbaResume
+0040a560	string		__vbaStrI4
+0040a56c	string		__vbaNameFile
+0040a598	string		__vbaFileClose
+0040a5a8	string		__vbaPrintFile
+0040a5b8	string		__vbaLineInputStr
+0040a5cc	string		__vbaFileOpen
+0040a5dc	string		__vbaFreeStrList
+0040a600	string		__vbaVarVargNofree
+0040a614	string		__vbaStrVarVal
+0040a624	string		__vbaMidStmtBstr
+0040a678	string		picPrint
+0040a684	string		picBackground
+0040a694	string		lblText
+0040a69c	string		lblPageNumber
+0040a6ac	string		imgGraphic
+0040a6b8	string		lblTitle
+0040a6c8	string		SendMessageA
+0040a710	string	00408b40	PrintMe
+0040a718	string	00408b44	InitForPrinting
+0040a737	string		FC:\WINNT\system32\STDOLE2.TLB
+0040a758	string	0040a774	stdole
+0040a798	string	00408b48	InitForPrintingCB
+0040a7ac	string	00408b4c	InitForPrintingFlashCard
+0040a814	unicode	FUN_004dbb00	<sp=
+0040a834	unicode	FUN_004dbb00	map=
+0040a85c	unicode	FUN_004dbb00	THE END
+0040a880	unicode	FUN_004dec50,FUN_004e0040	 Treasure Chest
+0040a8a0	string		__vbaStrI2
+0040a8ac	string		__vbaBoolVarNull
+0040a8c0	string		__vbaInStr
+0040a8cc	string		__vbaVarSub
+0040a8d8	string		__vbaInStrVar
+0040a8e8	string		__vbaVarTstGt
+0040a8f8	string		txtNumberOfCopies
+0040a918	string		__vbaLateIdCall
+0040a928	string		__vbaPrintObj
+0040a938	string		__vbaLateIdSt
+0040a998	string		cmdPrinterProperties
+0040a9b0	string		optPagesAll
+0040a9bc	string		cboPageLow
+0040a9c8	string		cboPageHigh
+0040a9d4	string		optPagesRange
+0040a9e4	string		fraPrinter
+0040a9f0	string		fraPageRange
+0040aa00	string		fraCopies
+0040aa0c	string		cboPrinters
+0040aa18	string		fraProgress
+0040aa24	string		DisplayModal
+0040aa7c	unicode	FUN_004e2990,FUN_004f8690,FUN_004fd160	Please enter Number of Copies
+0040aabc	unicode	FUN_004e2990,FUN_004f8690,FUN_004fd160	Please enter Number of Copies > 0
+0040ab04	unicode	FUN_004e2990,FUN_004f8690,FUN_004f9ca0,FUN_004fd160	Printing 
+0040ab38	string		__vbaStrR8
+0040ab48	string		__vbaAryUnlock
+0040ab58	string		__vbaAryLock
+0040ab74	string		__vbaExitEachColl
+0040ab88	string		__vbaStrVarMove
+0040aba4	string		__vbaAryCopy
+0040abb8	unicode	FUN_004e50e0	book
+0040abf8	unicode	FUN_004e5da0	Enter desired page number (0-
+0040ac44	unicode	FUN_004e5da0	That page doesn't exist.
+0040ac7c	unicode	FUN_004e7a30,FUN_004f1740	ReadLookUp
+0040acb0	unicode	FUN_004e89a0	BONZI and the Treasure Chest
+0040ad2c	string		optPageSetColoringBook
+0040ad44	string		optPageSetTreasureChest
+0040ad5c	string		optPageSetNormal
+0040ad70	string		fraPageSet
+0040adb0	unicode	FUN_004e89a0	Bonzi and the Alpha-net!
+0040ae24	string		optPageSetFlashCards
+0040ae50	unicode	FUN_004eba20,FUN_004f30e0,FUN_004f49e0,FUN_004fa740,FUN_004ffe90	.gif
+0040aeec	string		prgLoading
+0040af08	string	0040af44	C:\WINNT\system32\MSCOMCTL.oca
+0040af28	string	0040af48	MSComctlLib
+0040af5c	string	00408d54,00408d58	ProgressMax
+0040af68	string	00408d5c,00408d60	ProgressMin
+0040af74	string	00408d64,00408d68	ProgressValue
+0040af94	unicode	FUN_004e8c80	BonziBuddy.clsStoryReader
+0040b004	unicode	FUN_004ed000	Start Reading
+0040b024	unicode	FUN_004ed000	Stop Reading
+0040b044	unicode	FUN_004ee130	\chord.wav
+0040b060	unicode	FUN_004ee270	[BookStart]
+0040b07c	unicode	FUN_004ee270	[BookHeaderStart]
+0040b0a4	unicode	FUN_004ee270	[Title=]
+0040b0bc	unicode	FUN_004ee270	[#Pages=]
+0040b0d4	unicode	FUN_004ee270	[BookHeaderEnd]
+0040b0f8	unicode	FUN_004ee270	[Page
+0040b108	unicode	FUN_004ee270	[BookEnd]
+0040b120	unicode	004eeb91	error
+0040b15c	unicode	FUN_004f0cb0,FUN_004f1320	Options
+0040b170	unicode	FUN_004f0cb0,FUN_004f1320	UseGlobalSettings
+0040b198	unicode	FUN_004f0cb0,FUN_004f1320	ActionBack
+0040b1b4	unicode	FUN_004f0cb0,FUN_004f1320	ActionGlobal
+0040b1d4	unicode	FUN_004f0cb0,FUN_004f1320	ActionNext
+0040b1f0	unicode	FUN_004f0cb0,FUN_004f1320	ActionOpen
+0040b20c	unicode	FUN_004f0cb0,FUN_004f1320	ActionPlay
+0040b228	unicode	FUN_004f0cb0,FUN_004f1320	ActionSkip
+0040b244	unicode	FUN_004f1740	ReadLookUpContinued
+0040b270	unicode	FUN_004f1740	ReadLookUpReturn
+0040b298	unicode	FUN_004f30e0,FUN_004f49e0	Page
+0040b2a8	unicode	FUN_004f30e0	.htm
+0040b2b8	unicode	FUN_004f30e0,FUN_004f49e0,FUN_004fa740,FUN_004ffe90	.jpg
+0040b2c8	unicode	FUN_004f30e0,FUN_004f49e0,FUN_004fa740,FUN_004ffe90	.bmp
+0040b2d8	unicode	FUN_004f30e0	_1.gif
+0040b2ec	unicode	FUN_004f30e0	_2.gif
+0040b300	unicode	FUN_004f5990	Determining connection state, one moment...
+0040b35c	unicode	004f6f68	Please connect to the Internet and download and install the latest version of Microsoft's Internet Explorer from the site HTTP://www.microsoft.com/windows/ie/default.htm.
+0040b4c0	string		__vbaStrBool
+0040b4dc	string		__vbaBoolStr
+0040b4ec	string		__vbaErase
+0040b504	string		__vbaVarTstGe
+0040b514	string		__vbaVarMul
+0040b520	string		__vbaRedimPreserve
+0040b534	string		__vbaRedim
+0040b540	string		__vbaStrToAnsi
+0040b550	string		__vbaEnd
+0040b55c	string		__vbaAryDestruct
+0040b570	string		__vbaAryVar
+0040b580	string		__vbaPowerR8
+0040b590	string		__vbaLenVar
+0040b59c	string		__vbaVerifyVarObj
+0040b5b0	string		__vbaLateIdStAd
+0040b5c0	string		__vbaBoolVar
+0040b5f4	unicode	FUN_004fd160	Please enter the name to appear on the Treasure Chest.
+0040b668	unicode	FUN_004fd160	sp001.gif
+0040b680	unicode	FUN_004fd160	Printing 1 of 1
+0040b6a4	unicode	FUN_004fd160	TreasureBox image missing.
+0040b74c	string		frmPrinterSetup
+0040b76b	string		 StoryBook - Print Options
+0040b7bf	string		fraProgress
+0040b7cf	string		Printing Progress
+0040b7f6	string		lblProgress
+0040b806	string		lblProgress
+0040b82a	string		fraCopies
+0040b838	string		Copies
+0040b854	string		txtNumberOfCopies
+0040b883	string		Label1
+0040b88e	string		Number of copies
+0040b8b5	string		fraPageRange
+0040b8c6	string		Page Range
+0040b8e6	string		cboPageHigh
+0040b90b	string		cboPageLow
+0040b92f	string		optPagesRange
+0040b95b	string		optPagesAll
+0040b984	string		optPagesCurrent
+0040b998	string		Current page
+0040b9e0	string		fraPrinter
+0040b9ef	string		Printer
+0040ba0c	string		cboPrinters
+0040ba31	string		cmdPrinterProperties
+0040ba4a	string		Printer &Options
+0040ba72	string		CommonDialog1
+0040ba83	string		MSComDlg.CommonDialog
+0040bb02	string		cmdCancel
+0040bb10	string		&Cancel
+0040bb39	string		&Print
+0040bbb8	string		frmPrinterSetupBATAN
+0040bbdc	string		 StoryBook - Print Options
+0040bc30	string		fraPageSet
+0040bc3f	string		Page Set
+0040bc5d	string		optPageSetFlashCards
+0040bc76	string		Alphabet Flash Cards
+0040bca0	string		optPageSetNormal
+0040bcb5	string		Normal
+0040bcd4	string		fraProgress
+0040bce4	string		Printing Progress
+0040bd0b	string		lblProgress
+0040bd1b	string		lblProgress
+0040bd49	string		&Print
+0040bd67	string		cmdCancel
+0040bd75	string		&Cancel
+0040bd94	string		fraPrinter
+0040bda3	string		Printer
+0040bdc0	string		cmdPrinterProperties
+0040bdd9	string		Printer &Options
+0040be01	string		cboPrinters
+0040be26	string		CommonDialog1
+0040be37	string		MSComDlg.CommonDialog
+0040beb6	string		fraPageRange
+0040bec7	string		Page Range
+0040bee7	string		optPagesCurrent
+0040befb	string		Current page
+0040bf1f	string		optPagesAll
+0040bf48	string		optPagesRange
+0040bf74	string		cboPageLow
+0040bf98	string		cboPageHigh
+0040bfe1	string		fraCopies
+0040bfef	string		Copies
+0040c00b	string		txtNumberOfCopies
+0040c03a	string		Label1
+0040c045	string		Number of copies
+0040c0cc	string		frmPrinterSetupBATTC
+0040c0f0	string		 StoryBook - Print Options
+0040c144	string		fraPageSet
+0040c153	string		Page Set
+0040c171	string		optPageSetTreasureChest
+0040c18d	string		Treasure Chest
+0040c1b1	string		optPageSetNormal
+0040c1c6	string		Normal
+0040c1e4	string		optPageSetColoringBook
+0040c1ff	string		Coloring Book
+0040c223	string		fraProgress
+0040c233	string		Printing Progress
+0040c25a	string		lblProgress
+0040c26a	string		lblProgress
+0040c298	string		&Print
+0040c2b6	string		cmdCancel
+0040c2c4	string		&Cancel
+0040c2e3	string		fraPrinter
+0040c2f2	string		Printer
+0040c30f	string		cmdPrinterProperties
+0040c328	string		Printer &Options
+0040c350	string		cboPrinters
+0040c375	string		CommonDialog1
+0040c386	string		MSComDlg.CommonDialog
+0040c405	string		fraPageRange
+0040c416	string		Page Range
+0040c436	string		optPagesCurrent
+0040c44a	string		Current page
+0040c46e	string		optPagesAll
+0040c497	string		optPagesRange
+0040c4c3	string		cboPageLow
+0040c4e7	string		cboPageHigh
+0040c530	string		fraCopies
+0040c53e	string		Copies
+0040c55a	string		txtNumberOfCopies
+0040c589	string		Label1
+0040c594	string		Number of copies
+0040c61c	string		frmReaderOptions
+0040c63c	string		 StoryBook - Control Panel
+0040c690	string		cmdPrint
+0040c69d	string		&Print
+0040c6b9	string		optCustomConfig
+0040c6cd	string		Configure each button separately.
+0040c704	string		optGlobalConfig
+0040c718	string		Use same options for all buttons.
+0040c751	string		fraGlobalConfig
+0040c777	string		optGlobalReadAll
+0040c78c	string		Read Entire Book From Current Page (Recommended for ages 2 and up.)
+0040c7e5	string		optGlobalRead1
+0040c7f8	string		Read Current Page Only (Recommended for ages 4 and up.)
+0040c847	string		optGlobalReadNone
+0040c85d	string		Never Read Pages (Recommended for ages 5 and up.)
+0040c8a5	string		fraCustomConfig
+0040c8cb	string		cboCustomNext
+0040c8f8	string		cboCustomPlay
+0040c925	string		cboCustomSkip
+0040c952	string		cboCustomBack
+0040c97f	string		cboCustomOpen
+0040c9b7	string		When Clicking Next:
+0040c9ed	string		When Clicking Read:
+0040ca23	string		When Clicking Skip:
+0040ca59	string		When Clicking Back:
+0040ca84	string		Label1
+0040ca8f	string		When Opening a Book:
+0040cabc	string		cmdAdvancedOptions
+0040cad3	string		&Advanced
+0040caf2	string		RegiCon1
+0040cafe	string		RegistryControl.RegiCon
+0040cb7a	string		cmdCancel
+0040cb88	string		&Cancel
+0040cc2c	string		frmSplash
+0042d093	string		=@?`edionekk_fdYa`HPO
+0043babf	string		prgLoading
+0043bacd	string		MSComctlLib.ProgressBar
+0043bbb4	string		frmReader
+0043bc01	string		tmrPrintTimer
+0043bc25	string		cmdPrint
+0043bc32	string		&Print
+0043bc50	string		picPageCenter
+004459b6	string		picPageRight
+0044ea3a	string		picPageLeft
+0045879e	string		tmrBookStartTimer
+004587c4	string		tmrInitTimer
+004587f7	string		SHDocVwCtl.WebBrowser
+004588c7	string		imlButtons
+004588d5	string		MSComctlLib.ImageList
+00458953	string		imlButtonsOriginal
+00458969	string		MSComctlLib.ImageList
+00481844	string		sspanelTitleBar
+00481857	string		Threed.SSPanel
+00482ff5	string		cmdOptions
+00483003	string		Threed.SSRibbon
+00483079	string		Control Panel
+00483090	string		cmdClose
+0048309c	string		Threed.SSRibbon
+00483112	string		Close
+00483121	string		cmdMinimize
+00483130	string		Threed.SSRibbon
+004831a6	string		Minimize
+004831b8	string		cmdGoToPage
+004831c7	string		Threed.SSRibbon
+0048323d	string		Skip To a Page
+00483255	string		cmdPlay
+00483260	string		Threed.SSRibbon
+004832dc	string		cmdPrevious
+004832eb	string		Threed.SSRibbon
+00483361	string		Go Back One Page
+0048337b	string		cmdNext
+00483386	string		Threed.SSRibbon
+004833fc	string		Go To the Next Page
+00483419	string		Agent1
+00483423	string		AgentObjectsCtl.Agent
+00483461	string		imgBackground
+004834e0	string		frmPrintOutput
+0048352b	string		picBackground
+0048355b	string		lblTitle
+00483568	string		lblTitle
+0048359b	string		lblPageNumber
+004835ad	string		lblPageNumber
+004835e5	string		imgGraphic
+004d5f2c	string		lblText
+004d5f38	string		lblText
+004d5f6d	string		picPrint
+004d6de4	string	004d604c,004d6060,004d6088,004d60a0	strTitle
+004d6e5c	string	004d5f98	blnNewOption
+004d6e6c	string	004d5f9c,004d5fd0,004d5fd4,004d5fe0	udtNewOption
+004d6e7c	string	004d5fcc	strNewValue
+004d6e88	string		strPath
+004d6e90	string	004d5fe4	strBookPath
+004d6e9c	string	004d5fdc	blnCB
+004d6eb0	string	004d6018,004d6020,004d6040,004d6054,004d607c,004d608c	picobjPicture
+004d6ec0	string	004d6044,004d6058,004d6080,004d6090	strText
+004d6ec8	string	004d6094	blnFirstPage
+004d6ed8	string	004d6098	blnLastPage
+004d6ee4	string	004d609c	intPageNumber
+004d6ef4	string	004d601c,004d6024	strName
+004d6f14	string	004d603c,004d6050,004d6078	frmCaller
+004d6f20	string	004d6048,004d605c,004d6084	intCurrentPage
+004d6f3c	string		intNewMax
+004d6f48	string		intNewMin
+004d6f54	string	004d5fa0	intNewValue
+0050108c	TerminatedCString		MSVBVM60.DLL
+0050109c	TerminatedCString		EVENT_SINK_GetIDsOfNames
+005010b8	TerminatedCString		__vbaVarTstGt
+005010c8	TerminatedCString		__vbaVarSub
+005010d6	TerminatedCString		__vbaStrI2
+005010e4	TerminatedCString		_CIcos
+005010ee	TerminatedCString		_adj_fptan
+005010fc	TerminatedCString		__vbaStrI4
+0050110a	TerminatedCString		__vbaVarMove
+0050111a	TerminatedCString		__vbaVarVargNofree
+00501130	TerminatedCString		__vbaFreeVar
+00501140	TerminatedCString		__vbaStrVarMove
+00501152	TerminatedCString		__vbaLateIdCall
+00501164	TerminatedCString		__vbaLineInputStr
+00501178	TerminatedCString		__vbaLenBstr
+00501188	TerminatedCString		__vbaEnd
+00501194	TerminatedCString		__vbaFreeVarList
+005011a8	TerminatedCString		_adj_fdiv_m64
+005011b8	TerminatedCString		EVENT_SINK_Invoke
+005011cc	TerminatedCString		__vbaFreeObjList
+005011e0	TerminatedCString		_adj_fprem1
+005011ee	TerminatedCString		__vbaResume
+005011fc	TerminatedCString		__vbaStrCat
+0050120a	TerminatedCString		__vbaSetSystemError
+00501220	TerminatedCString		__vbaNameFile
+00501230	TerminatedCString		__vbaHresultCheckObj
+00501248	TerminatedCString		__vbaLenVar
+00501256	TerminatedCString		_adj_fdiv_m32
+00501266	TerminatedCString		__vbaAryVar
+00501274	TerminatedCString		Zombie_GetTypeInfo
+0050128a	TerminatedCString		__vbaAryDestruct
+0050129e	TerminatedCString		__vbaLateMemSt
+005012b0	TerminatedCString		__vbaBoolStr
+005012c0	TerminatedCString		__vbaStrBool
+005012d0	TerminatedCString		__vbaExitProc
+005012e0	TerminatedCString		__vbaForEachCollObj
+005012f6	TerminatedCString		__vbaObjSet
+00501304	TerminatedCString		__vbaOnError
+00501314	TerminatedCString		_adj_fdiv_m16i
+00501326	TerminatedCString		__vbaObjSetAddref
+0050133a	TerminatedCString		_adj_fdivr_m16i
+0050134c	TerminatedCString		__vbaBoolVar
+0050135c	TerminatedCString		__vbaBoolVarNull
+00501370	TerminatedCString		__vbaFpR8
+0050137c	TerminatedCString		__vbaVarTstLt
+0050138c	TerminatedCString		_CIsin
+00501396	TerminatedCString		__vbaErase
+005013a4	TerminatedCString		__vbaNextEachCollObj
+005013bc	TerminatedCString		__vbaChkstk
+005013ca	TerminatedCString		__vbaFileClose
+005013dc	TerminatedCString		EVENT_SINK_AddRef
+005013f0	TerminatedCString		__vbaGenerateBoundsError
+0050140c	TerminatedCString		__vbaExitEachColl
+00501420	TerminatedCString		__vbaStrCmp
+0050142e	TerminatedCString		__vbaPrintObj
+0050143e	TerminatedCString		__vbaObjVar
+0050144c	TerminatedCString		__vbaI2I4
+00501458	TerminatedCString		DllFunctionCall
+0050146a	TerminatedCString		__vbaCastObjVar
+0050147c	TerminatedCString		__vbaRedimPreserve
+00501492	TerminatedCString		__vbaLbound
+005014a0	TerminatedCString		_adj_fpatan
+005014ae	TerminatedCString		__vbaR4Var
+005014bc	TerminatedCString		__vbaLateIdCallLd
+005014d0	TerminatedCString		Zombie_GetTypeInfoCount
+005014ea	TerminatedCString		__vbaRedim
+005014f8	TerminatedCString		__vbaStrR8
+00501506	TerminatedCString		EVENT_SINK_Release
+0050151c	TerminatedCString		__vbaNew
+00501528	TerminatedCString		_CIsqrt
+00501532	TerminatedCString		__vbaObjIs
+00501540	TerminatedCString		EVENT_SINK_QueryInterface
+0050155c	TerminatedCString		__vbaVarMul
+0050156a	TerminatedCString		__vbaExceptHandler
+00501580	TerminatedCString		__vbaPrintFile
+00501592	TerminatedCString		_adj_fprem
+005015a0	TerminatedCString		_adj_fdivr_m64
+005015b2	TerminatedCString		__vbaLateIdStAd
+005015c4	TerminatedCString		__vbaI2Str
+005015d2	TerminatedCString		__vbaFPException
+005015e6	TerminatedCString		__vbaInStrVar
+005015f6	TerminatedCString		__vbaStrVarVal
+00501608	TerminatedCString		__vbaUbound
+00501616	TerminatedCString		__vbaCheckType
+00501628	TerminatedCString		__vbaI2Var
+00501636	TerminatedCString		_CIlog
+00501640	TerminatedCString		__vbaErrorOverflow
+00501656	TerminatedCString		__vbaFileOpen
+00501666	TerminatedCString		__vbaR8Str
+00501674	TerminatedCString		__vbaInStr
+00501682	TerminatedCString		__vbaNew2
+0050168e	TerminatedCString		_adj_fdiv_m32i
+005016a0	TerminatedCString		_adj_fdivr_m32i
+005016b2	TerminatedCString		__vbaStrCopy
+005016c2	TerminatedCString		__vbaI4Str
+005016d0	TerminatedCString		__vbaFreeStrList
+005016e4	TerminatedCString		_adj_fdivr_m32
+005016f6	TerminatedCString		__vbaPowerR8
+00501706	TerminatedCString		_adj_fdiv_r
+00501714	TerminatedCString		__vbaI4Var
+00501722	TerminatedCString		__vbaAryLock
+00501732	TerminatedCString		__vbaVarAdd
+00501740	TerminatedCString		__vbaLateMemCall
+00501754	TerminatedCString		__vbaStrToAnsi
+00501766	TerminatedCString		__vbaVarDup
+00501774	TerminatedCString		__vbaVerifyVarObj
+00501788	TerminatedCString		__vbaFpI2
+00501794	TerminatedCString		__vbaVarTstGe
+005017a4	TerminatedCString		__vbaFpI4
+005017b0	TerminatedCString		__vbaUnkVar
+005017be	TerminatedCString		__vbaVarLateMemCallLd
+005017d6	TerminatedCString		__vbaLateMemCallLd
+005017ec	TerminatedCString		_CIatan
+005017f6	TerminatedCString		__vbaAryCopy
+00501806	TerminatedCString		__vbaCastObj
+00501816	TerminatedCString		__vbaStrMove
+00501826	TerminatedCString		__vbaR8IntI4
+00501836	TerminatedCString		_allmul
+00501840	TerminatedCString		__vbaLateIdSt
+00501850	TerminatedCString		_CItan
+0050185a	TerminatedCString		__vbaAryUnlock
+0050186c	TerminatedCString		_CIexp
+00501876	TerminatedCString		__vbaMidStmtBstr
+0050188a	TerminatedCString		__vbaFreeObj
+0050189a	TerminatedCString		__vbaFreeStr
+00506156	unicode		VS_VERSION_INFO
+005061b2	TerminatedUnicode		VarFileInfo
+005061d2	TerminatedUnicode		Translation
+005061f6	TerminatedUnicode		StringFileInfo
+0050621a	TerminatedUnicode		040904B0
+00506232	TerminatedUnicode		CompanyName
+0050624c	TerminatedUnicode		BONZI.COM Software
+0050627a	TerminatedUnicode		LegalCopyright
+00506298	TerminatedUnicode		1999
+005062aa	TerminatedUnicode		ProductName
+005062c4	TerminatedUnicode		Bonzi Buddy Storybook Reader
+00506306	TerminatedUnicode		FileVersion
+00506320	TerminatedUnicode		1.00.0004
+0050633a	TerminatedUnicode		ProductVersion
+00506358	TerminatedUnicode		1.00.0004
+00506372	TerminatedUnicode		InternalName
+0050638c	TerminatedUnicode		BBReader
+005063a6	TerminatedUnicode		OriginalFilename
+005063c8	TerminatedUnicode		BBReader.exe

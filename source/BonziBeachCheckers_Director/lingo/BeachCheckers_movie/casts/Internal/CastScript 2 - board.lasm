@@ -1,0 +1,130 @@
+global intMoveStart, intMoveEnd
+
+on beginSprite
+  [  0] pushzero ................................ <0>
+  [  1] setglobal 83 ............................ intMoveStart = 0
+  [  4] ret
+end
+
+on mouseUp
+  [  0] pushcons 0 .............................. <"board clicked">
+  [  2] pusharglistnoret 1 ...................... <"board clicked">
+  [  4] extcall 52 .............................. put "board clicked"
+  [  7] pusharglist 0 ........................... <>
+  [  9] thebuiltin 84 ........................... <the mouseH>
+  [ 12] pushint8 190 ............................ <190>
+  [ 15] sub ..................................... <the mouseH - 190>
+  [ 16] pushint8 50 ............................. <50>
+  [ 19] div ..................................... <(the mouseH - 190) / 50>
+  [ 20] setlocal 0 .............................. IntX = (the mouseH - 190) / 50
+  [ 22] pusharglist 0 ........................... <>
+  [ 24] thebuiltin 85 ........................... <the mouseV>
+  [ 27] pushint8 34 ............................. <34>
+  [ 30] sub ..................................... <the mouseV - 34>
+  [ 31] pushint8 50 ............................. <50>
+  [ 34] div ..................................... <(the mouseV - 34) / 50>
+  [ 35] setlocal 8 .............................. IntY = (the mouseV - 34) / 50
+  [ 37] getlocal 0 .............................. <IntX>
+  [ 39] pushint8 8 .............................. <8>
+  [ 42] getlocal 8 .............................. <IntY>
+  [ 44] mul ..................................... <8 * IntY>
+  [ 45] add ..................................... <IntX + (8 * IntY)>
+  [ 46] pushint8 1 .............................. <1>
+  [ 49] add ..................................... <IntX + (8 * IntY) + 1>
+  [ 50] setlocal 16 ............................. IntCoord = IntX + (8 * IntY) + 1
+  [ 52] getlocal 16 ............................. <IntCoord>
+  [ 54] pushzero ................................ <0>
+  [ 55] lt ...................................... <IntCoord < 0>
+  [ 56] getlocal 16 ............................. <IntCoord>
+  [ 58] pushint8 64 ............................. <64>
+  [ 61] gt ...................................... <IntCoord > 64>
+  [ 62] or ...................................... <(IntCoord < 0) or (IntCoord > 64)>
+  [ 63] getlocal 8 .............................. <IntY>
+  [ 65] pushint8 2 .............................. <2>
+  [ 68] mod ..................................... <IntY mod 2>
+  [ 69] getlocal 16 ............................. <IntCoord>
+  [ 71] pushint8 2 .............................. <2>
+  [ 74] mod ..................................... <IntCoord mod 2>
+  [ 75] nteq .................................... <(IntY mod 2) <> (IntCoord mod 2)>
+  [ 76] or ...................................... <(IntCoord < 0) or (IntCoord > 64) or ((IntY mod 2) <> (IntCoord mod 2))>
+  [ 77] jmpifz [108] ............................ if (IntCoord < 0) or (IntCoord > 64) or ((IntY mod 2) <> (IntCoord mod 2)) then / else
+  [ 80] pushcons 8 .............................. <"Click:  ">
+  [ 82] getlocal 16 ............................. <IntCoord>
+  [ 84] joinstr ................................. <"Click:  " & IntCoord>
+  [ 85] pushcons 16 ............................. <" (">
+  [ 87] joinstr ................................. <"Click:  " & IntCoord & " (">
+  [ 88] getlocal 0 .............................. <IntX>
+  [ 90] joinstr ................................. <"Click:  " & IntCoord & " (" & IntX>
+  [ 91] pushcons 24 ............................. <", ">
+  [ 93] joinstr ................................. <"Click:  " & IntCoord & " (" & IntX & ", ">
+  [ 94] getlocal 8 .............................. <IntY>
+  [ 96] joinstr ................................. <"Click:  " & IntCoord & " (" & IntX & ", " & IntY>
+  [ 97] pushcons 32 ............................. <") - Coord Rejected">
+  [ 99] joinstr ................................. <"Click:  " & IntCoord & " (" & IntX & ", " & IntY & ") - Coord Rejected">
+  [100] pusharglistnoret 1 ...................... <"Click:  " & IntCoord & " (" & IntX & ", " & IntY & ") - Coord Rejected">
+  [102] extcall 52 .............................. put "Click:  " & IntCoord & " (" & IntX & ", " & IntY & ") - Coord Rejected"
+  [105] jmp [229]
+  [108] getglobal 83 ............................ <intMoveStart>
+  [111] pushzero ................................ <0>
+  [112] eq ...................................... <intMoveStart = 0>
+  [113] getlocal 16 ............................. <IntCoord>
+  [115] pushint8 20 ............................. <20>
+  [118] add ..................................... <IntCoord + 20>
+  [119] pusharglist 1 ........................... <IntCoord + 20>
+  [121] extcall 47 .............................. <sprite(IntCoord + 20)>
+  [124] getobjprop 57 ........................... <sprite(IntCoord + 20).visible>
+  [127] pushint8 1 .............................. <1>
+  [130] eq ...................................... <sprite(IntCoord + 20).visible = 1>
+  [131] or ...................................... <(intMoveStart = 0) or (sprite(IntCoord + 20).visible = 1)>
+  [132] jmpifz [168] ............................ if (intMoveStart = 0) or (sprite(IntCoord + 20).visible = 1) then / else
+  [135] pushcons 40 ............................. <"Click:  ">
+  [137] getlocal 16 ............................. <IntCoord>
+  [139] joinstr ................................. <"Click:  " & IntCoord>
+  [140] pushcons 48 ............................. <" (">
+  [142] joinstr ................................. <"Click:  " & IntCoord & " (">
+  [143] getlocal 0 .............................. <IntX>
+  [145] joinstr ................................. <"Click:  " & IntCoord & " (" & IntX>
+  [146] pushcons 56 ............................. <", ">
+  [148] joinstr ................................. <"Click:  " & IntCoord & " (" & IntX & ", ">
+  [149] getlocal 8 .............................. <IntY>
+  [151] joinstr ................................. <"Click:  " & IntCoord & " (" & IntX & ", " & IntY>
+  [152] pushcons 64 ............................. <") - Setting First Coord">
+  [154] joinstr ................................. <"Click:  " & IntCoord & " (" & IntX & ", " & IntY & ") - Setting First Coord">
+  [155] pusharglistnoret 1 ...................... <"Click:  " & IntCoord & " (" & IntX & ", " & IntY & ") - Setting First Coord">
+  [157] extcall 52 .............................. put "Click:  " & IntCoord & " (" & IntX & ", " & IntY & ") - Setting First Coord"
+  [160] getlocal 16 ............................. <IntCoord>
+  [162] setglobal 83 ............................ intMoveStart = IntCoord
+  [165] jmp [229]
+  [168] pushcons 72 ............................. <"Click:  ">
+  [170] getlocal 16 ............................. <IntCoord>
+  [172] joinstr ................................. <"Click:  " & IntCoord>
+  [173] pushcons 80 ............................. <" (">
+  [175] joinstr ................................. <"Click:  " & IntCoord & " (">
+  [176] getlocal 0 .............................. <IntX>
+  [178] joinstr ................................. <"Click:  " & IntCoord & " (" & IntX>
+  [179] pushcons 88 ............................. <", ">
+  [181] joinstr ................................. <"Click:  " & IntCoord & " (" & IntX & ", ">
+  [182] getlocal 8 .............................. <IntY>
+  [184] joinstr ................................. <"Click:  " & IntCoord & " (" & IntX & ", " & IntY>
+  [185] pushcons 96 ............................. <") - Setting Second Coord and submitting">
+  [187] joinstr ................................. <"Click:  " & IntCoord & " (" & IntX & ", " & IntY & ") - Setting Second Coord and submitting">
+  [188] pusharglistnoret 1 ...................... <"Click:  " & IntCoord & " (" & IntX & ", " & IntY & ") - Setting Second Coord and submitting">
+  [190] extcall 52 .............................. put "Click:  " & IntCoord & " (" & IntX & ", " & IntY & ") - Setting Second Coord and submitting"
+  [193] getlocal 16 ............................. <IntCoord>
+  [195] setglobal 86 ............................ intMoveEnd = IntCoord
+  [198] getglobal 83 ............................ <intMoveStart>
+  [201] pushcons 104 ............................ <",">
+  [203] joinstr ................................. <intMoveStart & ",">
+  [204] getglobal 86 ............................ <intMoveEnd>
+  [207] joinstr ................................. <intMoveStart & "," & intMoveEnd>
+  [208] setlocal 24 ............................. strMoveSerial = intMoveStart & "," & intMoveEnd
+  [210] pushint8 2 .............................. <2>
+  [213] pusharglist 1 ........................... <2>
+  [215] extcall 47 .............................. <sprite(2)>
+  [218] getlocal 24 ............................. <strMoveSerial>
+  [220] pusharglistnoret 2 ...................... <sprite(2), strMoveSerial>
+  [222] extcall 87 .............................. SubmitMove(sprite(2), strMoveSerial)
+  [225] pushzero ................................ <0>
+  [226] setglobal 83 ............................ intMoveStart = 0
+  [229] ret
+end

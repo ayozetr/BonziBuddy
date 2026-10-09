@@ -1,0 +1,138 @@
+address	type	used_by_functions	string
+110001c0	char[8]		.text
+110001e8	char[8]		.data
+11000210	char[8]		.rsrc
+11000238	char[8]		.reloc
+11000270	TerminatedCString		MSVBVM60.DLL
+110013c8	string		BonziCTBHelper
+11001428	string		clsBonziCTBHelper
+11001561	string		BonziCTBHelper
+11001571	string		BonziCTBHelper
+11001bdc	string		BonziCTBHelper
+11001bec	string		clsBonziCTBHelper
+11001c00	string		frmTimer
+11001c0c	string		modGlobal
+11001c68	string		Class
+11001c80	string	11001cbc	C:\WINNT\system32\msvbvm60.dll\3
+11001ca4	string	11001cc0	VBRUN
+11001cd4	string	11001bb8,11001bbc	TestMode
+11001ce0	string	11001bc0,11001bc4	TestReturnValue
+11001cf0	string	11001bc8	ComparePrice
+11001d00	string	11001bcc	UserResponse
+11001d30	unicode	FUN_11002700	Product Name:  
+11001d60	unicode	FUN_11002700	URL:  
+11001dd4	string		tmrUserResponse
+11001df4	string	11001e40	C:\Program Files\Microsoft Visual Studio\VB98\VB6.OLB
+11001e58	string		tmrPriceCompare
+11001ec8	unicode	110030c7	clsBonziCTBHelper.ComparePrice
+11001f14	string		__vbaFreeStr
+11001f24	string		__vbaFreeObjList
+11001f38	string		__vbaStrI4
+11001f44	string		__vbaVarDup
+11001f50	string		__vbaFreeObj
+11001f64	unicode	FUN_11002aa0	TRUE
+11001f78	string		__vbaNew2
+11001f84	string		__vbaObjSet
+11001f90	string		__vbaFreeVarList
+11001fa4	string		__vbaFreeStrList
+11001fb8	string		__vbaStrMove
+11001fc8	string		__vbaStrCat
+11001fd4	string		__vbaHresultCheckObj
+11001fec	string		__vbaStrCopy
+11001ffc	string		__vbaAptOffset
+11002010	unicode	FUN_11002aa0	BonziBUDDY
+11002038	unicode	FUN_11002aa0	Started
+1100204c	unicode	FUN_11002aa0	FALSE
+1100205c	unicode	FUN_11002aa0	Disabled
+11002074	unicode	FUN_11002aa0	C:\Program Files\BonziBUDDY\BonziBDY.exe /CTB
+11002110	string		__vbaExitProc
+11002120	string		__vbaResume
+1100212c	string		__vbaObjSetAddref
+11002148	string		__vbaVarTstGt
+11002158	string		__vbaDateVar
+11002168	string		__vbaFreeVar
+11002178	string		__vbaStrCmp
+11002184	string		__vbaOnError
+110021f8	string		frmTimer
+1100223c	string		tmrUserResponse
+11002267	string		tmrPriceCompare
+110024c0	string	1100228c	blnNewTestMode
+110024d0	string		blnNewTestReturnValue
+110024e8	string	110022c0	strURL
+110024f0	string	110022c4	strProductName
+11002500	string		blnUserSaidYes
+11003598	TerminatedCString		MSVBVM60.DLL
+110035a8	TerminatedCString		__vbaVarTstGt
+110035b8	TerminatedCString		_CIcos
+110035c2	TerminatedCString		_adj_fptan
+110035d0	TerminatedCString		__vbaStrI4
+110035de	TerminatedCString		__vbaFreeVar
+110035ee	TerminatedCString		__vbaAptOffset
+11003600	TerminatedCString		__vbaFreeVarList
+11003614	TerminatedCString		_adj_fdiv_m64
+11003624	TerminatedCString		__vbaFreeObjList
+11003638	TerminatedCString		_adj_fprem1
+11003646	TerminatedCString		__vbaResume
+11003654	TerminatedCString		__vbaStrCat
+11003662	TerminatedCString		__vbaHresultCheckObj
+1100367a	TerminatedCString		_adj_fdiv_m32
+1100368a	TerminatedCString		__vbaExitProc
+1100369a	TerminatedCString		__vbaOnError
+110036aa	TerminatedCString		__vbaObjSet
+110036b8	TerminatedCString		_adj_fdiv_m16i
+110036ca	TerminatedCString		__vbaObjSetAddref
+110036de	TerminatedCString		_adj_fdivr_m16i
+110036f0	TerminatedCString		_CIsin
+110036fa	TerminatedCString		__vbaChkstk
+11003708	TerminatedCString		EVENT_SINK_AddRef
+1100371c	TerminatedCString		__vbaStrCmp
+1100372a	TerminatedCString		_adj_fpatan
+11003738	TerminatedCString		EVENT_SINK_Release
+1100374e	TerminatedCString		_CIsqrt
+11003758	TerminatedCString		EVENT_SINK_QueryInterface
+11003774	TerminatedCString		__vbaExceptHandler
+1100378a	TerminatedCString		_adj_fprem
+11003798	TerminatedCString		_adj_fdivr_m64
+110037aa	TerminatedCString		__vbaFPException
+110037be	TerminatedCString		__vbaDateVar
+110037ce	TerminatedCString		_CIlog
+110037d8	TerminatedCString		__vbaNew2
+110037e4	TerminatedCString		_adj_fdiv_m32i
+110037f6	TerminatedCString		_adj_fdivr_m32i
+11003808	TerminatedCString		__vbaStrCopy
+11003818	TerminatedCString		__vbaFreeStrList
+1100382c	TerminatedCString		_adj_fdivr_m32
+1100383e	TerminatedCString		_adj_fdiv_r
+1100384c	TerminatedCString		__vbaVarDup
+1100385a	TerminatedCString		_CIatan
+11003864	TerminatedCString		__vbaStrMove
+11003874	TerminatedCString		_allmul
+1100387e	TerminatedCString		_CItan
+11003888	TerminatedCString		_CIexp
+11003892	TerminatedCString		__vbaFreeObj
+110038a2	TerminatedCString		__vbaFreeStr
+11003900	TerminatedCString	110038bc	BonziCTB.dll
+1100390d	TerminatedCString	110038e8	DllCanUnloadNow
+1100391d	TerminatedCString	110038ec	DllGetClassObject
+1100392f	TerminatedCString	110038f0	DllRegisterServer
+11003941	TerminatedCString	110038f4	DllUnregisterServer
+110050ea	unicode		TYPELIB
+110050fa	unicode		_IID_CLSBONZICTBHELPER
+11005136	unicode		VS_VERSION_INFO
+11005192	TerminatedUnicode		VarFileInfo
+110051b2	TerminatedUnicode		Translation
+110051d6	TerminatedUnicode		StringFileInfo
+110051fa	TerminatedUnicode		040904B0
+11005212	TerminatedUnicode		CompanyName
+1100522c	TerminatedUnicode		BONZI Software
+11005252	TerminatedUnicode		ProductName
+1100526c	TerminatedUnicode		BonziCTBHelper
+11005292	TerminatedUnicode		FileVersion
+110052ac	TerminatedUnicode		1.00
+110052be	TerminatedUnicode		ProductVersion
+110052dc	TerminatedUnicode		1.00
+110052ee	TerminatedUnicode		InternalName
+11005308	TerminatedUnicode		BonziCTB
+11005322	TerminatedUnicode		OriginalFilename
+11005344	TerminatedUnicode		BonziCTB.dll
+11005366	TerminatedUnicode		OLESelfRegister

@@ -1,0 +1,4 @@
+binary	address	object	name	evidence
+BonziBDY_4.EXE	00733200	modTaps	GetTapData	log string "GetTapData" used by the function (reports/ghidra_dumps)
+BonziBDY_4.EXE	00712f30	modMail	SaveBonziMailSettings	error-log string "SaveBonziMailSettings" at 0x71316f, inside 0x712f30-0x713300
+BonziBDY_4.EXE	0071ba50	modTextCrypt	EncryptText	log strings "EncryptText" + "entering"/"exiting"

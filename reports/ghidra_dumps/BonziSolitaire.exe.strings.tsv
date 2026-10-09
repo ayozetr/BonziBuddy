@@ -1,0 +1,493 @@
+address	type	used_by_functions	string
+004001b0	char[8]		.text
+004001d8	char[8]		.data
+00400200	char[8]		.rsrc
+00400238	TerminatedCString		MSVBVM60.DLL
+00401b7c	string		Bonzi's Solitaire
+00401b8e	string		Bonzi's Solitaire
+00401ba1	string		BonziSolitaire
+0040213d	string		MSComctlLib.StatusBar
+00402153	string		StatusBar
+00402285	string		MSComctlLib.ImageList
+0040229b	string		ImageList
+004023e8	string		AgentCtl.dll
+004023f5	string		AgentObjectsCtl.Agent
+0040240b	string		Agent
+004038b4	string		frmMain
+004038bc	string	004037c0	modMain
+004038c4	string		frmSplash
+004038d0	string		BonziSolitaire
+004038e4	unicode	FUN_00719600	Bonzi
+004038f4	unicode	FUN_00719600	Bonzi.acs
+0040390c	unicode	FUN_00711410,FUN_00719600,FUN_00721e30,FUN_00721ff0,FUN_007256b0	BonziBUDDY
+00403974	string		mnuOptionsSoundsPlaysounds
+004039a0	string	004039ec	C:\Program Files\Microsoft Visual Studio\VB98\VB6.OLB
+00403a14	string		imgLoad
+00403a34	string		mnuFileUndo
+00403a40	string		mnuOptionsRulesDrawOne
+00403a58	string		mnuOptionsRulesDrawThree
+00403a74	string		mnuTopFile
+00403a80	string		mnuTopOptions
+00403a90	string		mnuTopHelp
+00403a9c	string		mnuFileNewgame
+00403aac	string		mnuThemesBeach
+00403acc	string		objAgent
+00403ae8	string	00403b28	C:\WINNT\msagent\AgentCtl.oca
+00403b08	string	00403b2c	AgentObjectsCtl
+00403b40	string		mnuOptionsLanguageEnglish
+00403b5c	string		mnuOptionsLanguage
+00403b70	string		mnuOptionsLanguageNorwegian
+00403b8c	string		mnuOptionsLayout
+00403ba0	string		mnuOptionsLayoutFront
+00403bcc	string		mnuOptionsLayoutFrontFront
+00403be8	string		mnuOptionsLayoutBack
+00403c10	string		Status
+00403c28	string	00403c64	C:\WINNT\system32\MSCOMCTL.oca
+00403c48	string	00403c68	MSComctlLib
+00403c7c	string		mnuLanguage_Sep01
+00403c90	string		mnuHelp_Sep01
+00403ca0	string		mnuOptionsSounds
+00403cb4	string		mnuDebugResetsettings
+00403ccc	string		mnuDebug_Sep02
+00403cdc	string		mnuOptionsSounds_Sep01
+00403cf4	string		mnuOptionsLayout_Sep01
+00403d0c	string		mnuDebugNoshuffle
+00403d30	string		tmrUpdateTime
+00403d40	string		mnuOptionsRulesDraw
+00403d54	string		mnuOptions_Sep01
+00403d68	string		mnuDebugDisabledebug
+00403d80	string		mnuHelpAbout
+00403d90	string		mnuFile_Sep01
+00403da0	string		mnuFileExit
+00403dac	string		mnuThemesRuins
+00403dbc	string		mnuOptionsSoundsDefsnd
+00403dd4	string		mnuDebug_Sep01
+00403de4	string		mnuOptionsBonziHelp
+00403df8	string		mnuDebugWin
+00403e04	string		mnuOptionsLayoutBackBack
+00403e20	string		mnuHelpHelp
+00403e2c	string		tmrShutDown
+00403e38	string		mnuOptionsLayoutBgBg
+00403e50	string		mnuTopDebug
+00403e5c	string		mnuOptionsLayoutBg
+00403e70	string		mnuOptionsLanguageGerman
+00403e8c	string		mnuOptionsRules
+00403e9c	string		mnuOptionsSoundsDefsndSnd
+00403eb8	string		mnuOptionsSoundsGoalsndSnd
+00403ed4	string		mnuOptionsSoundsGoalsnd
+00403eec	string		mnuThemesJungle
+00403efc	string		mnuThemes
+00403f08	string		TriggerClick
+00403fa4	string	00403fbc,00404008,00404058,00404314,004043b4,004043f8,00404440	gdi32
+00403fb0	string		DeleteDC
+00403ff4	string		CreateCompatibleDC
+00404040	string		CreateCompatibleBitmap
+0040409c	string	004044e4	winmm.dll
+0040411b	string		BonziBuddy
+0040434c	string	0040436c	kernel32
+0040435c	string		GetTickCount
+004043a4	string		SelectObject
+004043ec	string		GetObjectA
+00404430	string		DeleteObject
+00404478	string	0040449c	advapi32.dll
+0040448c	string		GetUserNameA
+004044d4	string		sndPlaySoundA
+00404694	unicode	FUN_0070f1a0	enter debug mode
+004046c0	unicode	FUN_0070f1a0	exit debug mode
+004046fc	unicode	FUN_0070f8a0,FUN_007106e0,FUN_0071ca50,FUN_00722600	BG\BG
+0040470c	unicode	FUN_0070f8a0,FUN_007106e0,FUN_0071ca50,FUN_00722600	.BMP
+0040471c	unicode	FUN_0070fa80,FUN_0071ca50	BG\BG1.BMP
+00404798	unicode	FUN_00710a20,FUN_00710bc0,FUN_0071ca50,FUN_007223d0	.wav
+004047c0	unicode	FUN_00711410,FUN_00719600	ShutDown
+004047d8	unicode	FUN_00711410,FUN_00719600,FUN_007256b0	FALSE
+00404840	string		__vbaSetSystemError
+004048c0	string		__vbaLateIdCallLd
+004048d4	string		__vbaCastObjVar
+004048e4	string		__vbaLenBstr
+004048f4	string		__vbaObjSetAddref
+00404914	string		__vbaBoolStr
+00404924	string		__vbaOnError
+00404934	string		__vbaFreeObjList
+00404948	string		__vbaRecDestruct
+0040495c	string		__vbaAryDestruct
+00404970	string		__vbaFreeVar
+00404980	string		__vbaUbound
+00404998	string		__vbaRedim
+004049b0	string		__vbaFreeStrList
+004049c4	string		__vbaErrorOverflow
+004049d8	string		__vbaFreeVarList
+004049ec	string		__vbaFreeStr
+004049fc	string		__vbaVarCat
+00404a08	string		__vbaStrVarMove
+00404a18	string		__vbaNew2
+00404a24	string		__vbaEnd
+00404a48	string		__vbaGenerateBoundsError
+00404a64	string		__vbaInStr
+00404a70	string		__vbaStrCat
+00404a7c	string		__vbaStrMove
+00404a8c	string		__vbaStrCopy
+00404a9c	string		__vbaFreeObj
+00404aac	string		__vbaCastObj
+00404abc	string		__vbaObjSet
+00404ac8	string		__vbaHresultCheckObj
+00404b04	unicode	FUN_00712890	Lexx Kabal - Laget av R.Ling
+00404b44	unicode	FUN_00712890	&Fil
+00404b54	unicode	FUN_00712890	&Valg
+00404b78	unicode	FUN_00712890	&Nytt Spill
+00404ba8	unicode	FUN_00712890	Avslutt
+00404bcc	unicode	FUN_00712890	Engelsk (English)
+00404bf4	unicode	FUN_00712890	Tysk (German)
+00404c14	unicode	FUN_00712890	Norsk (Norwegian)
+00404c3c	unicode	FUN_00712890	Utseende
+00404c54	unicode	FUN_00712890	Kort-Forside
+00404c74	unicode	FUN_00712890	Forside 
+00404c8c	unicode	FUN_00712890	Kort-Bakside
+00404cac	unicode	FUN_00712890	Bakside 
+00404cc4	unicode	FUN_00712890	Bakgrunn
+00404cdc	unicode	FUN_00712890	Bakgrunn 
+00404cf4	unicode	FUN_00712890	&Lyder
+00404d28	unicode	FUN_00712890	Lyd 
+00404d58	unicode	FUN_00712890	Spill Av Lyder
+00404d90	unicode	FUN_00712890	Trekk..
+00404da4	unicode	FUN_00712890	Ett Kort
+00404dbc	unicode	FUN_00712890	Tre Kort
+00404dd4	unicode	FUN_00712890	Vis &790
+00404dec	unicode	FUN_00712890	&Om Lexx Kabal..
+00404e28	unicode	FUN_00712890	Nytt Spill?
+00404e44	unicode	FUN_00712890	Dette vil avslutte gjeldende spill. Vil du fortsette?
+00404eb4	unicode	FUN_00712890	Bonzi's Solitaire
+00404edc	unicode	FUN_00712890	&File
+00404eec	unicode	FUN_00712890	&Options
+00404f04	unicode	FUN_00712890	&Help
+00404f14	unicode	FUN_00712890	&New Game
+00404f2c	unicode	FUN_00712890	&Undo
+00404f3c	unicode	FUN_00712890	E&xit
+00404f68	unicode	FUN_00712890	English
+00404f90	unicode	FUN_00712890	Norwegian
+00404fa8	unicode	FUN_00712890	Layout
+00404fd8	unicode	FUN_00712890	Front 
+00405004	unicode	FUN_00712890	Back 
+00405014	unicode	FUN_00712890	Background
+00405030	unicode	FUN_00712890	Background 
+0040504c	unicode	FUN_00712890	&Sounds
+00405060	unicode	FUN_00712890	Ordinary Move
+00405080	unicode	FUN_00712890	Sound 
+004050b4	unicode	FUN_00712890	Play &Sounds
+004050d4	unicode	FUN_00712890	&Draw...
+004050ec	unicode	FUN_00712890	Draw..
+00405100	unicode	FUN_00712890	One Card
+00405118	unicode	FUN_00712890	Three Cards
+00405134	unicode	FUN_00712890	Show &790
+0040514c	unicode	FUN_00712890	&About Lexx Solitaire..
+00405180	unicode	FUN_00712890	Index
+00405190	unicode	FUN_00712890	Start New Game?
+004051b4	unicode	FUN_00712890	This will end the current game. Do you wish to continue?
+0040522c	unicode	FUN_00712890	Lexx Patience - von R.Ling
+00405268	unicode	FUN_00712890	&Datei
+004052a4	unicode	FUN_00712890	&Neues Spiel
+004052c4	unicode	FUN_00712890	&Bereuen
+00405308	unicode	FUN_00712890	Englisch (English)
+00405334	unicode	FUN_00712890	Deutsch (German)
+0040535c	unicode	FUN_00712890	Norwegisch (Norwegian)
+004053a4	unicode	FUN_00712890	Karten-Vorderseite
+004053d0	unicode	FUN_00712890	Vorderseite 
+00405434	unicode	FUN_00712890	Hintergrund
+00405450	unicode	FUN_00712890	Hintergrund 
+00405470	unicode	FUN_00712890	&Laute
+00405484	unicode	FUN_00719600	\intro2.wav
+004054c8	unicode	FUN_00712890	Laut 
+004054d8	unicode	FUN_00712890	Ziel - Ziehen
+004054f8	unicode	FUN_00712890	Spiel Laute Aus
+00405548	unicode	FUN_00712890	Ein Karte
+00405560	unicode	FUN_00712890	Drei Karten
+004055a0	unicode		ber Lexx Patience..
+004055cc	unicode	FUN_00712890	Inhalt
+004055e0	unicode	FUN_00712890	Starten Neues Spiel?
+0040562c	unicode	FUN_00719600	UserInfo
+00405644	unicode	FUN_00719600	Name
+004056b0	unicode		en. Willst du fortsetzen?
+00405750	unicode	FUN_00718810,FUN_00718ed0	Error: Unable to load 
+004057e4	string		tmrEffect
+004058e8	unicode	FUN_00719600	Do you want to ignore these errors and proceed?
+0040594c	unicode	FUN_00719600	Error(s) Reported At Startup:
+004059a4	unicode	FUN_00719600	$Default$
+00405a18	unicode	FUN_0071ca50	Snd1.wav
+00405a30	unicode	FUN_0071ca50	Intro2.wav
+00405aa4	unicode	FUN_0071f6e0	You win!
+00405ac8	unicode	FUN_0071f6e0	Do you want to start a new game?
+00405b10	unicode	FUN_0071f6e0	New Game?
+00405b44	unicode	FUN_00721e30,FUN_00721ff0	Variation
+00405b5c	unicode	FUN_00721e30,FUN_00721ff0	Theme
+00405b6c	unicode	FUN_00721e30,FUN_00721ff0	Audio
+00405b98	unicode	FUN_00721ff0,FUN_007256b0	TRUE
+00405bf8	unicode	FUN_00723630	 goal.
+00405c0c	unicode		No Error
+00405c2c	unicode	FUN_00723630	You have to flip over the card before putting it in the goal.
+00405cac	unicode	FUN_00723630	You can only place aces into empty goal cells.
+00405d10	unicode	FUN_00723630	You can only place kings into empty columns.
+00405d70	unicode	FUN_00723e10	three
+00405d84	unicode	FUN_00723630	You can only move a card of the same suit into the goal cells.
+00405e08	unicode	FUN_00723630	You can only place cards into the goals in order of increasing value.
+00405e98	unicode	FUN_00723630	The top card in this column must be face up before you put other cards on it.
+00405f38	unicode	FUN_00723e10	four
+00405f48	unicode	FUN_00723e10	five
+00405f64	unicode	FUN_00723630	You can only move a card of opposing color into the columns.
+00405fe4	unicode	FUN_00723630	You can only move a card into this column which has a value that is one less than the current top card.
+004060b8	unicode	FUN_00723630	Unknown Error
+004060d8	unicode	FUN_00723a60	empty
+004060e8	unicode	FUN_00723a60	column 
+0040613c	unicode	FUN_00723e10	seven
+0040614c	unicode	FUN_00723e10	eight
+0040615c	unicode	FUN_00723e10	nine
+00406178	unicode	FUN_00723e10	jack
+00406188	unicode	FUN_00723e10	queen
+00406198	unicode	FUN_00723e10	king
+004061c0	unicode	FUN_00723fd0	hearts
+004061d4	unicode	FUN_00723fd0	clubs
+004061e4	unicode	FUN_00723fd0	spades
+004061f8	unicode	FUN_00724e50	Beach
+00406208	unicode	FUN_00724e50	Jungle
+0040621c	unicode	FUN_00724e50	Ruins
+0040624c	unicode	FUN_00724ef0	Composite
+00406264	unicode	FUN_007256b0	HeardIntro
+00406458	unicode	FUN_007256b0	Let's try a game now!
+00406488	unicode	FUN_007256b0	Let's play solitaire!
+004064c0	string		__vbaFileClose
+004064d0	string		__vbaGet4
+004064dc	string		__vbaFileOpen
+00406510	string		__vbaStrBool
+00406520	string		__vbaStrI2
+0040652c	string		__vbaStrUI1
+00406554	string		__vbaRecAssign
+00406564	string		__vbaFPInt
+00406570	string		__vbaLateIdSt
+00406580	string		__vbaVarMove
+00406590	string		__vbaStrToUnicode
+004065a4	string		__vbaStrToAnsi
+004065b4	string		__vbaVarDup
+004065c0	string		__vbaErase
+004065cc	string		__vbaAryConstruct2
+004065e0	string		__vbaStrVarVal
+004065f0	string		__vbaCopyBytes
+0040660c	string		__vbaAryUnlock
+0040661c	string		__vbaAryLock
+00406638	string		__vbaStrCmp
+004066a8	string		frmSplash
+004066eb	string		tmrEffect
+00406770	string		frmMain
+0040677c	string		Bonzi's Solitaire
+00407089	string		tmrShutDown
+004070b9	string		MSComctlLib.ImageList
+0042e192	string		imlCardFace
+0042e1a1	string		MSComctlLib.ImageList
+004344ea	string		imlCardRank
+004344f9	string		MSComctlLib.ImageList
+0043c052	string		imlCardSuit
+0043c061	string		MSComctlLib.ImageList
+0043eb6a	string		imlBackground
+0043eb7b	string		MSComctlLib.ImageList
+0051533a	string		$;6L\cPadPbiVilYio
+00531983	string		KkxPchPbiNadObiYlsaw}
+00532103	string		GlzRbiRdkM`gNahSio_u{
+00533003	string		In|P`gN`gNahPbiRelWms
+00533783	string		Jo}RbiOahNahObiQdkUho
+00534683	string		GlzN`gL^eK]dM_fObiRel
+0061ec46	string		`p}\iwZesZcpYboYcmU_iS^fQ\dU_iV`jYdlMW^WahU^gNWaBHSELUQXaWbjU_iNWdQZgT]gBIRIOVGJRCJMIRVBKOEMTGMTFLSFLS=CH>ENGNWJQZKR[GMXFLWFKTBGPENXHQZELUDKTFNUHOXHQZ
+0065c35f	string		DGLIIOEFJEFJGHLBFG@DEFJKFHI?BFDGLFGKBILISZ>LR E5
+006c9e74	string		Status
+006c9e7e	string		MSComctlLib.StatusBar
+006c9f17	unicode		Panel 2
+006c9f40	string		tmrUpdateTime
+006c9f69	string		imgLoad
+006c9f9e	string		imlCardBack
+006c9fad	string		MSComctlLib.ImageList
+006e7484	string		imlCardFront
+006e7494	string		MSComctlLib.ImageList
+0070e56d	string		objAgent
+0070e579	string		AgentObjectsCtl.Agent
+0070e5b8	string		mnuTopFile
+0070e5c7	string		&File
+0070e5d8	string		mnuFileNewgame
+0070e5eb	string		&New Game
+0070e601	string		mnuFileUndo
+0070e623	string		mnuFile_Sep01
+0070e642	string		mnuFileExit
+0070e662	string		mnuTopOptions
+0070e674	string		&Options
+0070e688	string		mnuThemes
+0070e696	string		&Themes
+0070e6a9	string		mnuThemesBeach
+0070e6cc	string		mnuThemesJungle
+0070e6e0	string		&Jungle
+0070e6f1	string		mnuThemesRuins
+0070e715	string		mnuOptionsBonziHelp
+0070e72d	string		In-Game &Help
+0070e744	string		mnuOptionsLayout
+0070e75b	string		&Layout
+0070e76e	string		mnuOptionsLayoutBg
+0070e785	string		&Background
+0070e79e	string		mnuOptionsLayoutBgBg
+0070e7ba	string		Background 1
+0070e7d1	string		mnuOptionsLayout_Sep01
+0070e7fb	string		mnuOptionsLayoutFront
+0070e815	string		&Card Front
+0070e82e	string		mnuOptionsLayoutFrontFront
+0070e850	string		Front 1
+0070e862	string		mnuOptionsLayoutBack
+0070e87b	string		&Card Back
+0070e893	string		mnuOptionsLayoutBackBack
+0070e8c5	string		mnuOptions_Sep01
+0070e8e9	string		mnuOptionsLanguage
+0070e902	string		&Language
+0070e917	string		mnuOptionsLanguageEnglish
+0070e935	string		&English
+0070e947	string		mnuOptionsLanguageNorwegian
+0070e967	string		&Norwegian
+0070e97b	string		mnuOptionsLanguageGerman
+0070e998	string		&German
+0070e9aa	string		mnuOptionsSounds
+0070e9c1	string		&Sounds
+0070e9d4	string		mnuOptionsSoundsDefsnd
+0070e9ef	string		Ordinary Move
+0070ea0a	string		mnuOptionsSoundsDefsndSnd
+0070ea2b	string		Sound 1
+0070ea3d	string		mnuOptionsSoundsGoalsnd
+0070ea59	string		Move To Goal
+0070ea73	string		mnuOptionsSoundsGoalsndSnd
+0070ea95	string		Sound 1
+0070eaa7	string		mnuOptionsSounds_Sep01
+0070ead2	string		mnuOptionsSoundsPlaysounds
+0070eaf1	string		&Play Sounds
+0070eb07	string		mnuLanguage_Sep01
+0070eb2c	string		mnuOptionsRules
+0070eb54	string		mnuOptionsRulesDraw
+0070eb7e	string		mnuOptionsRulesDrawOne
+0070eb99	string		Draw &One Card
+0070ebb1	string		mnuOptionsRulesDrawThree
+0070ebce	string		Draw &Three Cards
+0070ebeb	string		mnuTopDebug
+0070ec0f	string		mnuDebugWin
+0070ec1f	string		Win Game
+0070ec31	string		mnuDebug_Sep01
+0070ec51	string		mnuDebugNoshuffle
+0070ec67	string		No Shuffle Game
+0070ec80	string		mnuDebugResetsettings
+0070ec9a	string		Reset Settings
+0070ecb2	string		mnuDebug_Sep02
+0070ecd2	string		mnuDebugDisabledebug
+0070eceb	string		Disable Debugging
+0070ed07	string		mnuTopHelp
+0070ed29	string		mnuHelpHelp
+0070ed49	string		mnuHelp_Sep01
+0070ed68	string		mnuHelpAbout
+0070ed79	string		About..
+0070ee70	string		Bonzi's Solitaire
+007261b4	TerminatedCString		MSVBVM60.DLL
+007261c4	TerminatedCString		__vbaStrI2
+007261d2	TerminatedCString		_CIcos
+007261dc	TerminatedCString		_adj_fptan
+007261ea	TerminatedCString		__vbaVarMove
+007261fa	TerminatedCString		__vbaFreeVar
+0072620a	TerminatedCString		__vbaStrVarMove
+0072621c	TerminatedCString		__vbaLenBstr
+0072622c	TerminatedCString		__vbaEnd
+00726238	TerminatedCString		__vbaFreeVarList
+0072624c	TerminatedCString		_adj_fdiv_m64
+0072625c	TerminatedCString		__vbaFreeObjList
+00726270	TerminatedCString		_adj_fprem1
+0072627e	TerminatedCString		__vbaCopyBytes
+00726290	TerminatedCString		__vbaStrCat
+0072629e	TerminatedCString		__vbaSetSystemError
+007262b4	TerminatedCString		__vbaRecDestruct
+007262c8	TerminatedCString		__vbaHresultCheckObj
+007262e0	TerminatedCString		_adj_fdiv_m32
+007262f0	TerminatedCString		__vbaAryDestruct
+00726304	TerminatedCString		__vbaStrBool
+00726314	TerminatedCString		__vbaBoolStr
+00726324	TerminatedCString		__vbaI4Abs
+00726332	TerminatedCString		__vbaObjSet
+00726340	TerminatedCString		__vbaOnError
+00726350	TerminatedCString		_adj_fdiv_m16i
+00726362	TerminatedCString		__vbaObjSetAddref
+00726376	TerminatedCString		_adj_fdivr_m16i
+00726388	TerminatedCString		__vbaFpR4
+00726394	TerminatedCString		__vbaFpR8
+007263a0	TerminatedCString		_CIsin
+007263aa	TerminatedCString		__vbaErase
+007263b8	TerminatedCString		__vbaChkstk
+007263c6	TerminatedCString		__vbaFileClose
+007263d8	TerminatedCString		EVENT_SINK_AddRef
+007263ec	TerminatedCString		__vbaGenerateBoundsError
+00726408	TerminatedCString		__vbaStrCmp
+00726416	TerminatedCString		__vbaAryConstruct2
+0072642c	TerminatedCString		__vbaGet4
+00726438	TerminatedCString		__vbaI2I4
+00726444	TerminatedCString		DllFunctionCall
+00726456	TerminatedCString		__vbaCastObjVar
+00726468	TerminatedCString		_adj_fpatan
+00726476	TerminatedCString		__vbaLateIdCallLd
+0072648a	TerminatedCString		__vbaRedim
+00726498	TerminatedCString		EVENT_SINK_Release
+007264ae	TerminatedCString		__vbaUI1I2
+007264bc	TerminatedCString		_CIsqrt
+007264c6	TerminatedCString		EVENT_SINK_QueryInterface
+007264e2	TerminatedCString		__vbaStrUI1
+007264f0	TerminatedCString		__vbaUI1I4
+007264fe	TerminatedCString		__vbaExceptHandler
+00726514	TerminatedCString		__vbaStrToUnicode
+00726528	TerminatedCString		_adj_fprem
+00726536	TerminatedCString		_adj_fdivr_m64
+00726548	TerminatedCString		__vbaI2Str
+00726556	TerminatedCString		__vbaFPException
+0072656a	TerminatedCString		__vbaStrVarVal
+0072657c	TerminatedCString		__vbaUbound
+0072658a	TerminatedCString		__vbaVarCat
+00726598	TerminatedCString		_CIlog
+007265a2	TerminatedCString		__vbaErrorOverflow
+007265b8	TerminatedCString		__vbaFileOpen
+007265c8	TerminatedCString		__vbaR8Str
+007265d6	TerminatedCString		__vbaInStr
+007265e4	TerminatedCString		__vbaNew2
+007265f0	TerminatedCString		_adj_fdiv_m32i
+00726602	TerminatedCString		_adj_fdivr_m32i
+00726614	TerminatedCString		__vbaStrCopy
+00726624	TerminatedCString		__vbaI4Str
+00726632	TerminatedCString		__vbaFreeStrList
+00726646	TerminatedCString		_adj_fdivr_m32
+00726658	TerminatedCString		_adj_fdiv_r
+00726666	TerminatedCString		__vbaAryLock
+00726676	TerminatedCString		__vbaVarDup
+00726684	TerminatedCString		__vbaStrToAnsi
+00726696	TerminatedCString		__vbaFpI2
+007266a2	TerminatedCString		__vbaFpI4
+007266ae	TerminatedCString		_CIatan
+007266b8	TerminatedCString		__vbaUI1Str
+007266c6	TerminatedCString		__vbaCastObj
+007266d6	TerminatedCString		__vbaStrMove
+007266e6	TerminatedCString		_allmul
+007266f0	TerminatedCString		__vbaLateIdSt
+00726700	TerminatedCString		__vbaFpCSngR4
+00726710	TerminatedCString		_CItan
+0072671a	TerminatedCString		__vbaAryUnlock
+0072672c	TerminatedCString		__vbaFPInt
+0072673a	TerminatedCString		_CIexp
+00726744	TerminatedCString		__vbaRecAssign
+00726756	TerminatedCString		__vbaFreeObj
+00726766	TerminatedCString		__vbaFreeStr
+007290f6	unicode		VS_VERSION_INFO
+00729152	TerminatedUnicode		VarFileInfo
+00729172	TerminatedUnicode		Translation
+00729196	TerminatedUnicode		StringFileInfo
+007291ba	TerminatedUnicode		040904B0
+007291d2	TerminatedUnicode		CompanyName
+007291ec	TerminatedUnicode		BONZI Software
+00729212	TerminatedUnicode		ProductName
+0072922c	TerminatedUnicode		Bonzi's Solitaire
+00729256	TerminatedUnicode		FileVersion
+00729270	TerminatedUnicode		1.00
+00729282	TerminatedUnicode		ProductVersion
+007292a0	TerminatedUnicode		1.00
+007292b2	TerminatedUnicode		InternalName
+007292cc	TerminatedUnicode		Bonzi's Solitaire
+007292f6	TerminatedUnicode		OriginalFilename
+00729318	TerminatedUnicode		Bonzi's Solitaire.exe

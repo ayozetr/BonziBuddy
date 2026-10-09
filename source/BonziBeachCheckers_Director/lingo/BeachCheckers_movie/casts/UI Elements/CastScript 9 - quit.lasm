@@ -1,0 +1,10 @@
+on mouseEnter me
+  [  0] pushint8 12 ............................. <12>
+  [  3] pusharglist 1 ........................... <12>
+  [  5] extcall 4 ............................... <sprite(12)>
+  [  7] pushcons 0 .............................. <"quit_glow">
+  [  9] pusharglist 1 ........................... <"quit_glow">
+  [ 11] extcall 16 .............................. <cast("quit_glow")>
+  [ 13] setobjprop 17 ........................... sprite(12).member = cast("quit_glow")
+  [ 15] ret
+end

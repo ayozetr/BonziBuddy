@@ -1,0 +1,349 @@
+address	type	used_by_functions	string
+110001c0	char[8]		.text
+110001e8	char[8]		.data
+11000210	char[8]		.rsrc
+11000238	char[8]		.reloc
+11000270	TerminatedCString		MSVBVM60.DLL
+11001c52	string		lientHBonziCHECKERS
+11001c66	string		20BonziCHECKERS
+11001cc0	string		aleHeighBonziCHECKERSControl
+11001e58	string		BonziCheckers
+11001e66	string		BonziCheckers
+11001e75	string		BonziCHECKERS
+11001fc4	string		AgentCtl.dll
+11001fd1	string		AgentObjectsCtl.Agent
+11001fe7	string		Agent
+11002018	unicode		*\AC:\James\Source\VB\BonziBuddy\BonziCheckers\BonziCheckers.vbp
+110033a8	string		BonziCHECKERSControl
+110033c0	string		frmMain
+110033c8	string		modMain
+110033d0	string		BonziCHECKERS
+110033e4	unicode	FUN_11006c50,FUN_110075b0,FUN_1100b9a0	Bonzi
+110033f4	unicode	FUN_110075b0	Bonzi.acs
+11003480	string	110034cc	C:\Program Files\Microsoft Visual Studio\VB98\VB6.OLB
+110034f4	string		objAgent
+11003513	string		?C:\WINNT\msagent\AgentCtl.oca
+11003534	string	11003558	AgentObjectsCtl
+1100357c	string		UserControl
+11003588	string		Label1
+110035a0	string		tmrShutDown
+110035ac	string	11003290	GetMoveablePieces
+110035c0	string	11003294	GetOptions
+110035cc	string	11003298	SetOptions
+110035d8	string	1100329c	SubmitMove
+110035e4	string	110032a0	StartGame
+110035f0	string	110032a4	StopGame
+110035fc	string	110032a8	ShutDownGame
+1100360c	string	110032c0	BonziSpeak_Hint
+1100361c	string	110032c4	BonziSpeak_GameOver
+11003630	string	110032c8	BonziSpeak_Thinking
+11003644	string	110032cc	BonziSpeak_AgressiveMove
+11003660	string	110032d0	BonziSpeak_GameStart
+11003678	string	110032d4	BonziSpeak_GameIntro
+11003690	string		DisplayBoard
+110036a0	string		DisplayWalk
+110036ac	string		DisplayCapture
+110036bc	string		RequestMove
+110036c8	string		CurrentPlayerChanged
+110036e0	string		InitiateShutDown
+1100376c	string		chkIterativeDeepening
+1100379c	string		cmdStop
+110037ac	string		cmdReset
+110037b8	string		cmdTestMoves
+110037c8	string		cmdSetDepth
+110037e4	string		txtBoard
+110037f0	string		cmdTimeLimit
+11003800	string		cmdSetRandom
+11003810	string		chkAlphaBeta
+110038a0	string	110032d8	SetWaitingOnPlayer
+110038b4	string	110032dc	SetSettings
+110038c0	string		HandleIncomingMove
+110038d4	string		cmdReset_Click
+110038e4	string		cmdStop_Click
+110038f4	string		cmdTestMoves_Click
+11003908	string		PassControlRef
+11003980	unicode	FUN_11006c50,FUN_11014960	Player
+11003994	unicode	FUN_11007020	NoPlayer
+110039dc	unicode	FUN_11007420,FUN_110075b0,FUN_11007900	BonziBUDDY
+110039f8	unicode	FUN_11007420,FUN_110075b0,FUN_11007900,FUN_1100adf0	BonziCHECKERS
+11003a18	unicode	FUN_11007420,FUN_110075b0,FUN_11007900	ShutDown
+11003a30	unicode	FUN_11007420,FUN_110075b0	FALSE
+11003a40	unicode	FUN_11007420,FUN_11007900	TRUE
+11003a50	unicode	FUN_110075b0,FUN_1100adf0	BONZIBUDDY
+11003a6c	unicode	FUN_110075b0	UserInfo
+11003a84	unicode	FUN_110075b0	Name
+11003adc	unicode	FUN_11007980,FUN_11007b60,FUN_11009cb0,FUN_1100adf0	Explain3
+11003af4	unicode	FUN_11007b60	Wow 
+11003b04	unicode	FUN_11007b60	Suprised
+11003b1c	unicode	FUN_11007b60	! That was a great game! How about another round!
+11003b84	unicode	FUN_11007980	! Those little guys wiggling their legs are the only crabs that can make a move!
+11003c2c	unicode	FUN_11007b60,FUN_11009cb0,FUN_1100aab0	GetAttention2
+11003c4c	unicode	FUN_11007b60,FUN_1100adf0	Explain
+11003c60	unicode	FUN_11007b60	Woo Weeee! I won! You really gave me a run for my money on that one 
+11003cf0	unicode	FUN_11007b60	! Let's try it again!
+11003d20	unicode	FUN_11007b60,FUN_11009cb0,FUN_1100adf0	PleasedHard
+11003d3c	unicode	FUN_11007b60,FUN_11009cb0	GetAttention
+11003d5c	unicode	FUN_11007b60	! I can't believe that I won! That was a very close game! You are definately getting better! Click on the 'End Game' rock now and let's try it again!
+11003e8c	unicode	FUN_11007b60,FUN_11009cb0,FUN_1100aab0	Alert
+11003ea8	unicode	FUN_11007b60	! I'm feeling pretty hot at this game today! How about another round?
+11003f40	unicode	FUN_11007b60	! I'm amazed at your playing abilities, you seem to be getting better with every move! That one was very close!
+11004024	unicode	FUN_11007b60,FUN_11009cb0	Surprised
+1100403c	unicode	FUN_11007b60	Wow Weeeee 
+11004058	unicode	FUN_11007b60	! I can't believe that I actually won! That was a great game! Let's try it again!
+11004100	unicode	FUN_11007b60,FUN_11009cb0,FUN_1100adf0	Congratulate
+11004120	unicode	FUN_11007b60	! That one was really close! I feel like I may have gotten lucky on that one!
+110041c0	unicode	FUN_11007b60	! That one was really close! You amaze me with how fast you're picking this game up! Let's give it another go!
+110042a4	unicode	FUN_11007b60	Woo Weeee! You Win 
+110042d0	unicode	FUN_11009cb0	Wink
+110042ec	unicode	FUN_11009cb0	You got me 
+11004308	unicode	FUN_11007b60	! I can't believe that you won! That was a very close game! You are definately getting better! Click on the 'End Game' rock now and let's try it again!
+1100443c	unicode	FUN_11007b60	! That one was really close! You are on hot on the track of becoming a master checkers player!
+11004500	unicode	FUN_11007b60	! I can't believe that you actually won! I thought I had you for a while there! That was a great game! Let's try it again!
+110045fc	unicode	FUN_11007b60	! You are on fire today! How about another round?
+11004664	unicode	FUN_110099c0	Think
+11004674	unicode	FUN_110099c0	Idle1_15
+1100468c	unicode	FUN_110099c0	Idle1_10
+110046a4	unicode	FUN_11009cb0	BlowKiss
+110046bc	unicode	FUN_11009cb0	Giggle
+110046d0	unicode	FUN_11009cb0	Greet
+110046e0	unicode	FUN_11009cb0	Great move 
+11004704	unicode	FUN_11009cb0	Write
+11004714	unicode	FUN_11009cb0	Don't mind me 
+11004738	unicode	FUN_11009cb0	, I'm just taking notes on your fancy playing abilties!
+110047ac	unicode	FUN_11009cb0	Great move my friend!
+110047dc	unicode	FUN_11009cb0	Wow! Nice move!
+11004800	unicode	FUN_1100aab0	Let the games begin!
+11004830	unicode	FUN_1100aab0	Let's play!
+1100484c	unicode	FUN_1100adf0	HeardIntro
+11004878	unicode	FUN_1100adf0	Welcome to Bonzi's Beach Checkers!
+110048c4	unicode	FUN_1100adf0	I've built in an 'Options' rock for you to easily change your experience level. I'm sure you and I are going to get better with time!
+110049d4	unicode	FUN_1100adf0	Explain2
+110049e8	string		__vbaStrCmp
+110049f8	unicode	FUN_1100adf0	Before we begin, let me tell you how to get the crabs to move for you. \pau=1000\First click on their little backs, and then click on the space or square you would like them to take over. \pau=1000\If the move is valid, they will move to that space! That's it, just click on their backs and then click on the space you would like to have them move to!
+11004cbc	unicode	FUN_1100adf0	If you ever get stuck and are not sure which crab can make a move, simply click on the 'Hint' rock. It will appear once our game is started.
+11004ddc	unicode	FUN_1100adf0	Also, you can turn on and off the audio for our game by clicking on that little Conch shell.
+11004e98	string		__vbaOnError
+11004eb0	unicode	FUN_1100adf0	In an effort to keep the game clean, we have a referee. He will indicate who gets to go next!
+11004f70	unicode	FUN_1100adf0	Remember, in the game of checkers, if you have a jump, you have to take it!
+11005008	string		__vbaLateIdSt
+11005024	unicode	FUN_1100adf0	So, let the games begin! Go ahead and click on the 'Start Game' rock now and off we go!!!
+110050e4	string		__vbaFreeObjList
+110050f8	string		__vbaLateIdCallLd
+1100510c	string		__vbaCastObjVar
+1100511c	string		__vbaObjSet
+11005128	string		__vbaFreeObj
+11005138	string		__vbaObjSetAddref
+1100514c	string		__vbaFreeVarList
+11005160	string		__vbaVarTstEq
+11005170	string		__vbaVarMove
+11005180	string		__vbaLenBstr
+11005190	string		__vbaFreeVar
+110051a0	string		__vbaStrVarMove
+110051b0	string		__vbaStrCat
+110051bc	string		__vbaStrCopy
+110051d0	string		__vbaFreeStr
+110051e0	string		__vbaHresultCheckObj
+110051f8	string		__vbaNew2
+11005204	string		__vbaStrMove
+11005214	string		__vbaAptOffset
+11005224	string		__vbaRaiseEvent
+11005238	unicode	FUN_11013330	Black to move.
+11005258	string		__vbaFailedFriend
+11005298	unicode		Only 1 move available, short-circuiting iterative deepening.
+11005320	unicode		Calculated to depth 
+11005360	unicode		 seconds.
+11005380	unicode		only one move found at depth 
+110053c4	unicode	FUN_11013330	White to move.
+110053f4	unicode	FUN_11013330	#1234567890#
+1100545c	unicode	FUN_11013330	############
+1100547c	unicode	FUN_11013330	MaxDepth:
+11005494	unicode	FUN_11013330	 Randomness:
+110054b4	unicode	FUN_11013330	 Iterative Deepening:
+110054fc	unicode	FUN_11013330	 TimeLimit(s):
+11005520	unicode	FUN_11013330	 Apha-Beta Pruning: 
+11005560	unicode	FUN_11014470	Depth?
+11005574	unicode	FUN_110146b0	Randomness?
+110055a0	unicode		Examined 
+110055b8	unicode		 moves.  Chosen move valued at:  
+11005600	unicode	FUN_11015190	Time Limit (seconds)?
+11005688	string		__vbaAryDestruct
+1100569c	string		__vbaAryVar
+110056a8	string		__vbaAryCopy
+110056b8	string		__vbaLbound
+110056c4	string		__vbaAryConstruct2
+110056d8	string		__vbaRedimPreserve
+11005708	string		__vbaLenVar
+11005714	string		__vbaVarTstNe
+11005724	string		__vbaRedim
+11005730	string		__vbaVarDup
+1100573c	string		__vbaStrI4
+11005748	string		__vbaVarCat
+11005754	string		__vbaStrVarVal
+11005764	string		__vbaStrI2
+1100577c	string		__vbaFreeStrList
+11005790	string		__vbaVarCmpGe
+110057a0	string		__vbaVarAnd
+110057ac	string		__vbaBoolVarNull
+110057c0	string		__vbaAryUnlock
+110057d0	string		__vbaAryLock
+110057ec	string		__vbaVarTstLt
+11005808	string		__vbaUbound
+11005820	string		__vbaErrorOverflow
+1100584c	string		__vbaCopyBytes
+1100585c	string		__vbaGenerateBoundsError
+11005878	string		__vbaRecDestruct
+1100588c	string		__vbaRecAssign
+11005900	string		BonziCHECKERSControl
+11005935	string		tmrShutDown
+1100595c	string		objAgent
+11005968	string		AgentObjectsCtl.Agent
+110059b1	string		Bonzi CHECKERS
+110059f5	string		Label1
+11005a00	string		Bonzi CHECKERS
+11005aa4	string		frmMain
+11005ab0	string		Bonzi CHECKERS Control Panel (prototype)
+11005b4d	string		cmdTimeLimit
+11005b5e	string		Time Limit
+11005b7e	string		chkAlphaBeta
+11005b8f	string		Use Alph-Beta Pruning
+11005bbc	string		chkIterativeDeepening
+11005bd6	string		Use Iterative Deepening
+11005c05	string		cmdSetRandom
+11005c16	string		Randomness
+11005c36	string		cmdSetDepth
+11005c46	string		Depth
+11005c61	string		cmdStop
+11005c87	string		cmdReset
+11005c94	string		Reset
+11005caf	string		cmdTestMoves
+11005cc0	string		Next Move
+11005cdf	string		txtBoard
+11006428	string		BonziCHECKERS
+11006468	string	11005d34	strOptions
+11006474	string	11005d3c,11005d40,11005d4c	strMoveSerial
+11006484	string	11005d54	blnShowControls
+11006494	string	11005d58	blnMakeMove
+110064a0	string	11005d2c	blnBonziWins
+110064b0	string	11005d48	blnBonziAgressive
+110064c4	string	11005d44	strBoard
+110064d0	string	11005d5c,11005d74	intStart
+110064dc	string	11005d60,11005d78	intEnd
+110064e4	string	11005d64,11005d80	blnPromote
+110064f0	string	11005d7c	intCapture
+110064fc	string	11005d30	strNewPlayer
+1100653c	string		blnWaiting
+11006548	string		udtDifficulty
+11006558	string	11005d18	objLink
+1101ea0c	TerminatedCString		MSVBVM60.DLL
+1101ea1c	TerminatedCString		__vbaStrI2
+1101ea2a	TerminatedCString		_CIcos
+1101ea34	TerminatedCString		_adj_fptan
+1101ea42	TerminatedCString		__vbaStrI4
+1101ea50	TerminatedCString		__vbaVarMove
+1101ea60	TerminatedCString		__vbaFreeVar
+1101ea70	TerminatedCString		__vbaAptOffset
+1101ea82	TerminatedCString		__vbaStrVarMove
+1101ea94	TerminatedCString		__vbaLenBstr
+1101eaa4	TerminatedCString		__vbaFreeVarList
+1101eab8	TerminatedCString		_adj_fdiv_m64
+1101eac8	TerminatedCString		__vbaRaiseEvent
+1101eada	TerminatedCString		__vbaFreeObjList
+1101eaee	TerminatedCString		_adj_fprem1
+1101eafc	TerminatedCString		__vbaI2Abs
+1101eb0a	TerminatedCString		__vbaCopyBytes
+1101eb1c	TerminatedCString		__vbaStrCat
+1101eb2a	TerminatedCString		__vbaRecDestruct
+1101eb3e	TerminatedCString		__vbaHresultCheckObj
+1101eb56	TerminatedCString		__vbaLenVar
+1101eb64	TerminatedCString		_adj_fdiv_m32
+1101eb74	TerminatedCString		__vbaAryVar
+1101eb82	TerminatedCString		__vbaVarCmpGe
+1101eb92	TerminatedCString		__vbaAryDestruct
+1101eba6	TerminatedCString		__vbaObjSet
+1101ebb4	TerminatedCString		__vbaOnError
+1101ebc4	TerminatedCString		_adj_fdiv_m16i
+1101ebd6	TerminatedCString		__vbaObjSetAddref
+1101ebea	TerminatedCString		_adj_fdivr_m16i
+1101ebfc	TerminatedCString		__vbaVarTstLt
+1101ec0c	TerminatedCString		__vbaBoolVarNull
+1101ec20	TerminatedCString		_CIsin
+1101ec2a	TerminatedCString		__vbaChkstk
+1101ec38	TerminatedCString		EVENT_SINK_AddRef
+1101ec4c	TerminatedCString		__vbaGenerateBoundsError
+1101ec68	TerminatedCString		__vbaStrCmp
+1101ec76	TerminatedCString		__vbaAryConstruct2
+1101ec8c	TerminatedCString		__vbaVarTstEq
+1101ec9c	TerminatedCString		__vbaI2I4
+1101eca8	TerminatedCString		__vbaCastObjVar
+1101ecba	TerminatedCString		__vbaRedimPreserve
+1101ecd0	TerminatedCString		__vbaLbound
+1101ecde	TerminatedCString		_adj_fpatan
+1101ecec	TerminatedCString		__vbaLateIdCallLd
+1101ed00	TerminatedCString		__vbaRedim
+1101ed0e	TerminatedCString		EVENT_SINK_Release
+1101ed24	TerminatedCString		_CIsqrt
+1101ed2e	TerminatedCString		__vbaVarAnd
+1101ed3c	TerminatedCString		EVENT_SINK_QueryInterface
+1101ed58	TerminatedCString		__vbaExceptHandler
+1101ed6e	TerminatedCString		_adj_fprem
+1101ed7c	TerminatedCString		_adj_fdivr_m64
+1101ed8e	TerminatedCString		__vbaI2Str
+1101ed9c	TerminatedCString		__vbaFailedFriend
+1101edb0	TerminatedCString		__vbaFPException
+1101edc4	TerminatedCString		__vbaUbound
+1101edd2	TerminatedCString		__vbaStrVarVal
+1101ede4	TerminatedCString		__vbaVarCat
+1101edf2	TerminatedCString		__vbaI2Var
+1101ee00	TerminatedCString		_CIlog
+1101ee0a	TerminatedCString		__vbaErrorOverflow
+1101ee20	TerminatedCString		__vbaNew2
+1101ee2c	TerminatedCString		_adj_fdiv_m32i
+1101ee3e	TerminatedCString		_adj_fdivr_m32i
+1101ee50	TerminatedCString		__vbaStrCopy
+1101ee60	TerminatedCString		__vbaI4Str
+1101ee6e	TerminatedCString		__vbaFreeStrList
+1101ee82	TerminatedCString		_adj_fdivr_m32
+1101ee94	TerminatedCString		__vbaR8Var
+1101eea2	TerminatedCString		_adj_fdiv_r
+1101eeb0	TerminatedCString		__vbaVarTstNe
+1101eec0	TerminatedCString		__vbaI4Var
+1101eece	TerminatedCString		__vbaAryLock
+1101eede	TerminatedCString		__vbaVarDup
+1101eeec	TerminatedCString		__vbaFpI2
+1101eef8	TerminatedCString		_CIatan
+1101ef02	TerminatedCString		__vbaAryCopy
+1101ef12	TerminatedCString		__vbaStrMove
+1101ef22	TerminatedCString		_allmul
+1101ef2c	TerminatedCString		__vbaLateIdSt
+1101ef3c	TerminatedCString		_CItan
+1101ef46	TerminatedCString		__vbaAryUnlock
+1101ef58	TerminatedCString		_CIexp
+1101ef62	TerminatedCString		__vbaRecAssign
+1101ef74	TerminatedCString		__vbaFreeStr
+1101ef84	TerminatedCString		__vbaFreeObj
+1101eff0	TerminatedCString	1101efac	BonziCheckers.ocx
+1101f002	TerminatedCString	1101efd8	DllCanUnloadNow
+1101f012	TerminatedCString	1101efdc	DllGetClassObject
+1101f024	TerminatedCString	1101efe0	DllRegisterServer
+1101f036	TerminatedCString	1101efe4	DllUnregisterServer
+1102217a	unicode		TYPELIB
+1102218a	unicode		_IID_BONZICHECKERSCONTROL
+110221be	unicode		_SRCIID_BONZICHECKERSCONTROL
+11022206	unicode		VS_VERSION_INFO
+11022262	TerminatedUnicode		VarFileInfo
+11022282	TerminatedUnicode		Translation
+110222a6	TerminatedUnicode		StringFileInfo
+110222ca	TerminatedUnicode		040904B0
+110222e2	TerminatedUnicode		CompanyName
+110222fc	TerminatedUnicode		BONZI Software
+11022322	TerminatedUnicode		ProductName
+1102233c	TerminatedUnicode		BonziCheckers
+1102235e	TerminatedUnicode		FileVersion
+11022378	TerminatedUnicode		1.00
+1102238a	TerminatedUnicode		ProductVersion
+110223a8	TerminatedUnicode		1.00
+110223ba	TerminatedUnicode		InternalName
+110223d4	TerminatedUnicode		BonziCheckers
+110223f6	TerminatedUnicode		OriginalFilename
+11022418	TerminatedUnicode		BonziCheckers.ocx
+11022442	TerminatedUnicode		OLESelfRegister

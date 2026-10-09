@@ -1,0 +1,107 @@
+on mouseLeave
+  [  0] pushint8 106 ............................ <106>
+  [  3] pusharglist 1 ........................... <106>
+  [  5] extcall 4 ............................... <sprite(106)>
+  [  7] pushcons 0 .............................. <"ok">
+  [  9] pusharglist 1 ........................... <"ok">
+  [ 11] extcall 16 .............................. <cast("ok")>
+  [ 13] setobjprop 17 ........................... sprite(106).member = cast("ok")
+  [ 15] ret
+end
+
+on mouseUp
+  [  0] pushcons 8 .............................. <"woodButton">
+  [  2] pusharglistnoret 1 ...................... <"woodButton">
+  [  4] extcall 2 ............................... puppetSound("woodButton")
+  [  6] pushint8 104 ............................ <104>
+  [  9] setlocal 0 .............................. IntX = 104
+  [ 11] getlocal 0 .............................. <IntX>
+  [ 13] pushint8 111 ............................ <111>
+  [ 16] lteq .................................... <IntX <= 111>
+  [ 17] jmpifz [ 39] ............................ repeat while IntX <= 111
+  [ 20] getlocal 0 .............................. <IntX>
+  [ 22] pusharglist 1 ........................... <IntX>
+  [ 24] extcall 4 ............................... <sprite(IntX)>
+  [ 26] pushzero ................................ <0>
+  [ 27] setobjprop 23 ........................... sprite(IntX).visible = 0
+  [ 29] getlocal 0 .............................. <IntX>
+  [ 31] pushint8 1 .............................. <1>
+  [ 34] add ..................................... <IntX + 1>
+  [ 35] setlocal 0 .............................. IntX = IntX + 1
+  [ 37] endrepeat [ 11]
+  [ 39] pushint8 111 ............................ <111>
+  [ 42] pusharglist 1 ........................... <111>
+  [ 44] extcall 4 ............................... <sprite(111)>
+  [ 46] getobjprop 17 ........................... <sprite(111).member>
+  [ 48] pushcons 16 ............................. <"EasyCenter">
+  [ 50] pusharglist 1 ........................... <"EasyCenter">
+  [ 52] extcall 16 .............................. <cast("EasyCenter")>
+  [ 54] eq ...................................... <sprite(111).member = cast("EasyCenter")>
+  [ 55] jmpifz [ 65] ............................ if sprite(111).member = cast("EasyCenter") then / else
+  [ 58] pushcons 24 ............................. <"e">
+  [ 60] setlocal 8 .............................. strDiff = "e"
+  [ 62] jmp [121]
+  [ 65] pushint8 111 ............................ <111>
+  [ 68] pusharglist 1 ........................... <111>
+  [ 70] extcall 4 ............................... <sprite(111)>
+  [ 72] getobjprop 17 ........................... <sprite(111).member>
+  [ 74] pushcons 32 ............................. <"MediumCenter">
+  [ 76] pusharglist 1 ........................... <"MediumCenter">
+  [ 78] extcall 16 .............................. <cast("MediumCenter")>
+  [ 80] eq ...................................... <sprite(111).member = cast("MediumCenter")>
+  [ 81] jmpifz [ 91] ............................ if sprite(111).member = cast("MediumCenter") then / else
+  [ 84] pushcons 40 ............................. <"m">
+  [ 86] setlocal 8 .............................. strDiff = "m"
+  [ 88] jmp [121]
+  [ 91] pushint8 111 ............................ <111>
+  [ 94] pusharglist 1 ........................... <111>
+  [ 96] extcall 4 ............................... <sprite(111)>
+  [ 98] getobjprop 17 ........................... <sprite(111).member>
+  [100] pushcons 48 ............................. <"HardCenter">
+  [102] pusharglist 1 ........................... <"HardCenter">
+  [104] extcall 16 .............................. <cast("HardCenter")>
+  [106] eq ...................................... <sprite(111).member = cast("HardCenter")>
+  [107] jmpifz [117] ............................ if sprite(111).member = cast("HardCenter") then / else
+  [110] pushcons 56 ............................. <"h">
+  [112] setlocal 8 .............................. strDiff = "h"
+  [114] jmp [121]
+  [117] pushcons 64 ............................. <"e">
+  [119] setlocal 8 .............................. strDiff = "e"
+  [121] pushint8 109 ............................ <109>
+  [124] pusharglist 1 ........................... <109>
+  [126] extcall 4 ............................... <sprite(109)>
+  [128] getobjprop 17 ........................... <sprite(109).member>
+  [130] pushcons 72 ............................. <"Green_crab_glow">
+  [132] pusharglist 1 ........................... <"Green_crab_glow">
+  [134] extcall 16 .............................. <cast("Green_crab_glow")>
+  [136] eq ...................................... <sprite(109).member = cast("Green_crab_glow")>
+  [137] jmpifz [147] ............................ if sprite(109).member = cast("Green_crab_glow") then / else
+  [140] pushcons 80 ............................. <"p">
+  [142] setlocal 16 ............................. strFirst = "p"
+  [144] jmp [177]
+  [147] pushint8 110 ............................ <110>
+  [150] pusharglist 1 ........................... <110>
+  [152] extcall 4 ............................... <sprite(110)>
+  [154] getobjprop 17 ........................... <sprite(110).member>
+  [156] pushcons 88 ............................. <"Purple_crab_glow">
+  [158] pusharglist 1 ........................... <"Purple_crab_glow">
+  [160] extcall 16 .............................. <cast("Purple_crab_glow")>
+  [162] eq ...................................... <sprite(110).member = cast("Purple_crab_glow")>
+  [163] jmpifz [173] ............................ if sprite(110).member = cast("Purple_crab_glow") then / else
+  [166] pushcons 96 ............................. <"b">
+  [168] setlocal 16 ............................. strFirst = "b"
+  [170] jmp [177]
+  [173] pushcons 104 ............................ <"p">
+  [175] setlocal 16 ............................. strFirst = "p"
+  [177] getlocal 8 .............................. <strDiff>
+  [179] getlocal 16 ............................. <strFirst>
+  [181] joinstr ................................. <strDiff & strFirst>
+  [182] setlocal 24 ............................. strOptions = strDiff & strFirst
+  [184] pushint8 2 .............................. <2>
+  [187] pusharglist 1 ........................... <2>
+  [189] extcall 4 ............................... <sprite(2)>
+  [191] getlocal 24 ............................. <strOptions>
+  [193] pusharglistnoret 2 ...................... <sprite(2), strOptions>
+  [195] extcall 39 .............................. SetOptions(sprite(2), strOptions)
+  [198] ret
+end

@@ -1,0 +1,4 @@
+// frmAgent::Public_5 @ 00678650
+   00434505  UNCONDITIONAL_CALL  (no function)
+// frmAgent::Public_65 @ 006792a0
+   00434512  UNCONDITIONAL_CALL  (no function)

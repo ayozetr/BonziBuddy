@@ -1,0 +1,1950 @@
+address	type	used_by_functions	string
+004001b0	char[8]		.text
+004001d8	char[8]		.data
+00400200	char[8]		.rsrc
+00400238	TerminatedCString		MSVBVM60.DLL
+00407324	string		BonziBUDDY
+0040732f	string		Files
+00407384	string		clsStoryReader
+004073fc	string		clsBBPlayer
+0040760d	string		BonziBUDDY
+00407619	string		BonziBUDDY
+0040796a	unicode		L*\AD:\Program Files\DevStudio\Projects\Peedy\Peedy.vbp
+0040ea00	string		AGENTCTL.DLL
+0040ea0d	string		AgentObjectsCtl.Agent
+0040ea23	string		Agent
+0040eb70	string		ReadyState
+0040eb87	string		SHDocVwCtl.WebBrowser
+0040eb9d	string		WebBrowser
+0040ecf0	string		MSINET.OCX
+0040ecfb	string		InetCtlsObjects.Inet
+0040eec0	string		ForeColor
+0040eeca	string		DateValue
+0040eed4	string		Enabled
+0040ef02	string		SSCALA32.OCX
+0040ef0f	string		SSCalendarWidgets_A.SSMonth
+0040ef2b	string		SSMonth
+0040f118	string		Enabled
+0040f120	string		ForeColor
+0040f12a	string		DateValue
+0040f134	string		BackColor
+0040f164	string		SSCALA32.OCX
+0040f171	string		SSCalendarWidgets_A.SSDateCombo
+0040f191	string		SSDateCombo
+0040f350	string		BackColor
+0040f35a	string		Enabled
+0040f362	string		ForeColor
+0040f392	string		SSCALB32.OCX
+0040f39f	string		SSCalendarWidgets_B.SSDay
+0040f580	string		Enabled
+0040f588	string		HotTracking
+0040f594	string		MultiSelect
+0040f5a0	string		Separators
+0040f600	string		MSComctlLib.TabStrip
+0040f615	string		TabStrip
+0040f7d5	string		MSComctlLib.StatusBar
+0040f7eb	string		StatusBar
+0040f995	string		MSComctlLib.ProgressBar
+0040f9ad	string		ProgressBar
+0040fae5	string		MSComctlLib.ImageList
+0040fafb	string		ImageList
+0040fc8a	string		MSComctlLib.ImageCombo
+0040fca1	string		ImageCombo
+0040fdf8	string		MSWINSCK.OCX
+0040fe05	string		MSWinsockLib.Winsock
+0040fe1a	string		Winsock
+0040ff14	string		REGICON.OCX
+0040ff20	string		RegistryControl.RegiCon
+0040ff38	string		RegiCon
+0041274c	string		frmAppointment
+0041275c	string		frmCalendar
+00412768	string		frmInput
+00412774	string		frmRegistration
+00412784	string		frmSpeak
+00412790	string		clsBBPlayer
+0041279c	string		modGenericCommands
+004127b0	string		frmBonziBUDDYWallet
+004127c4	string		frmWalletAdd
+004127d4	string		frmAboutWallet
+004127e4	string		frmPassword
+004127f0	string		frmProgress
+004127fc	string		modTextCrypt
+0041280c	string		frmConnectionType
+00412820	string		frmMailSetup
+00412830	string		modParentalControl
+00412844	string		frmAbout
+00412850	string		clsStoryReader
+00412860	string		modAgent
+0041286c	string		frmAgent
+00412878	string		BonziBUDDY
+00412888	unicode	FUN_00449830	11:30
+00412898	unicode	FUN_0045da00	(Browse | Go | Visit) [to] [your] [my] (home | web) [web] [site]
+00412920	unicode	FUN_0045da00	[Let's] [I want to] Browse [the web | the internet]
+0041298c	unicode	FUN_0045da00	(Search | Find) [(for | the web | the internet)]
+004129f4	unicode	FUN_0045da00	(Hello | Hi | Hey) [there] [Peedy] [Dude] [my man] [buddy]
+00412a70	unicode	FUN_00449830	11:00
+00412a84	unicode	FUN_0045da00	(Exit | Goodbye | Leave | See you Later | Go away  | Bugger off) [Peedy]
+00412b1c	unicode	FUN_0045da00	Read [(it | web page | page | selection | text | document)]
+00412b98	unicode	FUN_0045da00	(Open | Show) (Advance | Advanced) [Character] Options
+00412c0c	unicode	FUN_0045da00	(No | Nope) [thank you] [thanks] [Peedy]
+00412c60	string		mnuPopup
+00412c70	unicode		(Close | Hide | Done | Finished) (Advance | Advanced) [Character] Options
+00412d08	unicode	FUN_0045da00	(Bonzi Buddy) [Commands]
+00412d40	unicode	FUN_0045da00	(Sing [to] [me] [a] [Song])
+00412d7c	unicode	FUN_0045da00	(Yes | Yep | Yeah | Sure | Do it | Make it so) [thank you] [thanks] [Peedy]
+00412e18	unicode	FUN_004afa00	Prod001.nbd
+00412e34	unicode	FUN_00467fa0,FUN_0046e3c0	Receipt.htm
+00412e50	unicode	FUN_0045da00	([Show | me | the | a | my | your]) (appointment | schedule | calendar | remind me | reminder) [appointment | date | reminder]
+00412f54	unicode	FUN_0045da00	[Let's] (Speak | Talk) [something] [to] [with] [me]
+00412fc0	unicode	FUN_0045da00	[Change] [I want to change] [Call me] [my] (name | salutation)
+00413044	unicode	FUN_0045da00	[Tell me about] [How do I use] [Show me] (Speech Recognition | Voice Recognition) [Help]
+004130fc	unicode	FUN_0045da00	[Tell] [me] [Let's hear] [How about] ([a | another]) Joke [please] [Peedy]
+00413198	unicode	FUN_004adcc0	HTTP://bonzi.snap.com/search/directory/results/1,61,bonzi-0,00.html?keyword=
+00413238	unicode	FUN_0045da00	[Peedy] (What's | What is | What) (new | going on | up | going down | happening | are are you up to) [with you] [these days] [today] [Peedy]
+00413358	unicode	FUN_0045da00	[Peedy] (How are you | How ya | How's it) [doing] [feeling] [going] [today] [Peedy]
+00413404	unicode	FUN_0046f8c0,FUN_00470170,FUN_00473ec0,FUN_004740c0	bb32.dll
+00413428	unicode	FUN_0045da00	(I'm | Things are) ([doing | feeling | going]) [very] [just] [somewhat] (well | fine | OK | good | wonderful | nice | great) [myself] [Peedy] ([thanks | thank you]) [very much] [for] [the concern] [asking] [Peedy]
+004135d8	unicode	FUN_004acf20	T001.nbd
+004135f0	unicode	FUN_00457450,FUN_0045b310,FUN_00466030	Reg.nbd
+00413618	unicode	FUN_0045da00	(I'm | Things are) [not] ([doing | feeling | going]) [very] [just] [somewhat] (not good | not well | bad | awful | horrible | poorly | troubled | sad | not nice | not too good | no very well) [myself] [Peedy] [but] ([thanks | thank you]) [very much] [for] [the concern] [asking] [Peedy]
+0041385c	unicode	FUN_0045da00	([I want to | Let's | Please | I need to | I would like to | Can I | Let me]) (Registration | Register) [me]
+0041393c	unicode	FUN_0045da00	[show] [me] [the] [my] [bonzi buddy] (Wallet) [please] [Peedy]
+004139c0	unicode	FUN_0045da00	([What is the] | [Tell me the]) (Time | What time is it) [Peedy]
+00413a48	unicode	FUN_0045da00	([I want to | Let's | Please | I need to | I would like to | Can I | Let me]) (Tell a friend | Tell my friend) [about] ([you | me | bonzi buddy | this | Peedy]) [please] [Peedy]
+00413bb0	unicode	FUN_0045da00	[Peedy] [please] (Stop Listening) [please] [Peedy]
+00413c1c	unicode	FUN_004acf20	P001.nbd
+00413c34	unicode	FUN_0045da00	([What is the] | [Tell me the]) (Date | What is the date | What is today's date | What's today's date | What's the date) [Peedy]
+00413d3c	unicode	FUN_0045da00	[Peedy] ([Check for] | [Look for]) ([a] | [an]) [bonzi buddy] (update) [me] [please] [Peedy]
+00413dfc	unicode	00482af5,FUN_00457450,FUN_00466030,FUN_00475f90,FUN_00476570,FUN_004769c0,FUN_00477960,FUN_0047dbe0,FUN_0047e6d0,FUN_00482390,FUN_004830f0,FUN_00485c90,FUN_00485f50,FUN_00486e30,FUN_004887e0,FUN_0048a3f0,FUN_0048b4e0,FUN_0048cbf0,FUN_0049ca80,FUN_0049dca0,FUN_0049e1c0,FUN_0049f4d0,FUN_004a08f0,FUN_004a10d0,FUN_004a1a20,FUN_004a38e0,FUN_004a88f0,FUN_004a91e0,FUN_004afcb0,FUN_004b1260,FUN_004b1a20,FUN_004b22c0,FUN_004b4850,FUN_004b6ea0,FUN_004b8ce0,FUN_004b90a0,FUN_004b9220,FUN_004b9410,FUN_004ba390,FUN_004bb370,FUN_004bdb90	BONZIBUDDY
+00413e14	string		mnuSpeak
+00413e24	unicode	FUN_0045da00	[Peedy] ([I need] | [Please] | [Can I get some] | [Show me] | [Will you]) [online] (Help | Help me | How do I) [please] [Peedy]
+00413f28	unicode	FUN_0045da00	[Peedy] ([Tell me] | [Let's hear]) [some] [a piece of] (Trivia) [please] [Peedy]
+00413fd0	unicode	FUN_004830f0	Peedy.acs
+00413fe8	unicode	FUN_004830f0,FUN_0048b4e0	Peedy
+00414010	unicode		[Peedy] (Don't bother | Do not disturb | Leave me alone | Quit bothering | Stop bothering | Stop interupting | Quit interupting | Relax | Take a break | Chill out | Kick back) [me] [so much] [please] [Peedy]
+004141b4	unicode	FUN_0045da00	I didn't understand your request.
+00414204	unicode	FUN_0047e140	I didn't understand your request. | Can you please repeat that? | I'm not sure what you meant by that. | I don't understand. | What did you mean by that? | What is that you're saying? | Why do you say such things? | What are you mumbling about now? | You expect me to understand that?  | I didn't catch that? | I'm sorry, one more time please?
+004144b8	unicode	FUN_004944f0	http://bonzi.snap.com/search/directory/results/1,61,bonzi-0,00.html?tt.bonzi.nb.0.search
+00414570	unicode		HTTP://search.yahoo.com/bin/search?p=
+004145c0	unicode		HTTP://www.lycos.com/cgi-bin/pursuit?&query=
+00414620	unicode	FUN_00459c20	HTTP://www.bonzi.com/bonzibuddy/bbregisteruser.asp
+0041468c	unicode	FUN_00496f40,FUN_004b1a20,FUN_004b22c0	Daily.nbd
+004146a4	unicode	FUN_00456ec0,FUN_004adcc0	What are we looking for?  Enter search word(s) or topic(s) below and we'll travel the world until we find it!
+00414784	unicode	FUN_00456ec0,FUN_0048cbf0	Let's Travel! Simply enter the web site address below and off we go! (ie: www.bonzi.com)
+0041483c	unicode	FUN_0048cbf0	\ctx="Email"\www.bonzi.com
+00414878	unicode	FUN_0044d740,FUN_0044ed40,FUN_004521c0,FUN_00453bc0,FUN_00455ca0,FUN_004b6ea0	Apps.nbd
+00414894	unicode	FUN_00456ec0,FUN_0048cbf0	Enter your name or a name that you would like to be called and press OK.
+0041492c	unicode	FUN_00496f40	HTTP://www.bonzi.com/updates/bbyupdate.exe
+00414988	unicode	FUN_004b4070	HTTP://www.bonzi.com/updates/bbyupdatewithreader.exe
+004149f8	unicode	FUN_0048cbf0,FUN_00494d90	HTTP://www.bonzi.com/bonzibuddy/home.asp
+00414a50	unicode	FUN_004acf20	J001.nbd
+00414a68	unicode	FUN_00449830	10:30
+00414a7c	unicode		HTTP://www.bonzi.com/bonzibuddy/productoffer.asp
+00414ae4	unicode	FUN_00466030	https://webserver1.bonzi.com/scripts/download/bbdownload.asp
+00414b64	unicode	FUN_004a4c20	http://www.bonzi.com/bonzibuddy/tellfriends.asp
+00414bc8	unicode	FUN_00465310,FUN_00467fa0,FUN_0046a420,FUN_0046aa10,FUN_0046aed0,FUN_0046b390,FUN_0048cbf0	http://www.bonzi.com/bonzibuddy/yesno.asp
+00414c20	unicode	FUN_004964a0	Results.html
+00414c40	unicode	FUN_00496f40	Update.exe
+00414c5c	unicode	FUN_004a16a0	http://www.bonzi.com/support/bdymenu.htm
+00414cb4	unicode	FUN_0048cbf0,FUN_004a0b20	http://www.bonzi.com/bonzibuddy/bonzibuddymail.asp
+00414d20	unicode	FUN_004a5230	http://www.bonzi.com/bonzibuddy/home.asp?loc=
+00414d80	unicode		Commands.nbd
+00414da0	unicode		Command.tmp
+00414dbc	unicode	FUN_0047a3f0,FUN_0047af80	Search.nbd
+00414dd8	unicode	FUN_0047a3f0	Browse.nbd
+00414df4	unicode		Browse.tmp
+00414e10	unicode		History.nbd
+00414e34	unicode	FUN_0046bbb0	NewSetup.exe
+00414e54	unicode	FUN_004866f0	Sites.nbd
+00414e6c	unicode	FUN_004bdb90	bbmail.dat
+00414e88	unicode		bbapp32.dll
+00414ea4	unicode		D:\Program Files\DevStudio\3rd Party Controls\ActiveSkin 2.2\Samples\SkinBrowser\Skins\Navigator\
+00414f6c	unicode	FUN_004b1a20	http://www.bonzi.com/bonzibuddy/daily.nbd
+00414fc4	unicode	FUN_00496f40	siteoftheday=
+00414fe4	unicode		siteofthedayurl=
+00415010	unicode	FUN_00496f40	quoteoftheday=
+00415034	unicode	FUN_00496f40	jokeoftheday=
+00415054	unicode	FUN_00496f40	animation=
+00415070	unicode	FUN_00496f40	currentversion=
+00415094	unicode		updatesize=
+004150b0	unicode	FUN_004afcb0	http://www.bonzi.com/bonzibuddy/products.nbd
+00415110	unicode	FUN_004af270	http://www.bonzi.com/bonzibuddy/updates.nbd
+0041517c	unicode	FUN_004753c0,FUN_00475830	Header
+0041519c	string		chkRemind
+004151b8	string		SSDateCombo1
+004151d4	unicode	FUN_00478ff0	SOFTWARE\Microsoft\Shared Tools Location
+0041522c	unicode	FUN_00478ff0	MSINFO
+00415240	unicode	FUN_00478ff0	SOFTWARE\Microsoft\Shared Tools\MSINFO
+00415294	unicode	FUN_00478ff0	PATH
+00415308	string	00415340	D:\Program Files\DevStudio\VB98\VB6.OLB
+00415368	string		cmbDueHour
+00415374	string		cmbDueAMPM
+0041538c	string	004153e4	D:\PROGRA~1\DEVSTU~1\3RDPAR~1\SSCALWDG\SSCALA32.oca
+004153c0	string	004153e8	SSCalendarWidgets_A
+0041541c	string		lblReminderTime
+0041543c	string		fraDivider
+00415448	string		Label1
+00415470	string		cmdDelete
+0041560c	string	00415630	kernel32
+0041561c	string		GetProfileStringA
+00415668	string	00415688,00416588	user32
+00415674	string		SetForegroundWindow
+004156c0	string		BringWindowToTop
+004156d8	unicode	FUN_00449830	9:30
+004156e8	unicode	FUN_00449830	10:00
+00415730	string		ShowOwnedPopups
+00415778	string		GetMenu
+004157b8	string	004157e0,00415830	RasApi32.dll
+004157cc	string		RasEnumConnectionsA
+00415818	string		RasGetConnectStatusA
+00415888	unicode	FUN_00448380,FUN_0044c030,FUN_0045b310,FUN_004722d0,FUN_00477960,FUN_0047e6d0,FUN_00485f50,FUN_00489850,FUN_0048cbf0,FUN_0049b9d0,FUN_0049e1c0,FUN_0049f4d0,FUN_004a4c20,FUN_004a9e10,FUN_004b9410,FUN_004ba390,FUN_004bdb90	Explain
+0041589c	unicode	FUN_00449830	8:30
+004158ac	unicode	FUN_00449830	9:00
+00415a14	unicode	FUN_00448380,FUN_0044ed40,FUN_004521c0,FUN_00453bc0,FUN_00455ca0	m/d/yy
+00415a28	unicode	FUN_00448380,FUN_0047e6d0,FUN_00489850,FUN_0048cbf0,FUN_00499ea0	Congratulate
+00415a58	unicode	FUN_00448380,FUN_00470800,FUN_0048cbf0,FUN_0049ca80	Write
+00415a68	unicode	FUN_00448380,FUN_00470800,FUN_0048cbf0,FUN_0049ca80	WriteReturn
+00415a94	unicode	FUN_00448380	You must enter some text for the appointment before you can save it.
+00415b34	unicode	FUN_00449830,FUN_0048b4e0	12:00
+00415b44	unicode	FUN_00449830	12:30
+00415b54	unicode	FUN_00449830	1:00
+00415b64	unicode	FUN_00449830	1:30
+00415b74	unicode	FUN_00449830	2:00
+00415b84	unicode	FUN_00449830	2:30
+00415b94	unicode	FUN_00449830,FUN_0048b4e0	3:00
+00415ba4	unicode	FUN_00449830	3:30
+00415bb4	unicode	FUN_00449830	4:00
+00415bc4	unicode	FUN_00449830	4:30
+00415bd4	unicode	FUN_00449830	5:00
+00415be4	unicode	FUN_00449830	5:30
+00415bf4	unicode	FUN_00449830	6:00
+00415c04	unicode	FUN_00449830	6:30
+00415c14	unicode	FUN_00449830	7:00
+00415c24	unicode	FUN_00449830	7:30
+00415c34	unicode	FUN_00449830	8:00
+00415c44	string		__vbaCastObj
+00415c54	string		__vbaFreeVar
+00415c64	string		__vbaFreeStr
+00415c74	string		__vbaObjSetAddref
+00415c88	string		__vbaNew2
+00415c9c	string		__vbaStrCopy
+00415cac	string		__vbaLateIdCallLd
+00415cd0	string		__vbaDateVar
+00415ce0	string		__vbaDateStr
+00415cf0	string		__vbaDateR8
+00415cfc	string		__vbaStrDate
+00415d0c	string		__vbaStrI2
+00415d18	string		__vbaVarDup
+00415d2c	string		__vbaFreeObjList
+00415d40	string		__vbaFreeStrList
+00415d54	string		__vbaStrCat
+00415d60	string		__vbaFreeObj
+00415d70	string		__vbaHresultCheckObj
+00415d88	string		__vbaObjSet
+00415db4	string		__vbaStrVarMove
+00415dc4	string		__vbaStrMove
+00415dd4	string		__vbaFreeVarList
+00415de8	string		__vbaVarTstNe
+00415df8	string		__vbaOnError
+00415e08	string		mnuReadWeb
+00415e24	string		lblDescription
+00415e34	string		cmdEdit
+00415e4c	string		SSMonth1
+00415e88	string	00415ee0	D:\PROGRA~1\DEVSTU~1\3RDPAR~1\SSCALWDG\SSCALB32.oca
+00415ebc	string	00415ee4	SSCalendarWidgets_B
+00415f54	string		tmrIgnoreEvents
+00415f74	string		mnuReadStoryPolizoof
+00415f8c	string		mnuSalutation
+00415fac	string		mnuVoiceCommands
+00415fc0	string		mnuFact
+00415ff0	string	00416030	C:\WINDOWS\SYSTEM\MSINET.oca
+00416010	string	00416034	InetCtlsObjects
+00416048	string		mnuAbout
+0041607c	string		Agent1
+00416094	string	004160d4	C:\WINDOWS\MSAGENT\AGENTCTL.oca
+004160b4	string	004160d8	AgentObjectsCtl
+004160ec	string		mnuTellFriends
+004160fc	string		InetReReg
+00416110	string		mnuJokesAddonGroup
+00416124	string		mnuUpdate
+00416130	string		mnuInteraction
+00416148	string		mnuRegistration
+00416168	string		wsConnected
+00416184	string	004161c4	C:\WINDOWS\SYSTEM\MSWINSCK.oca
+004161a4	string	004161c8	MSWinsockLib
+004161dc	string		mnuSetup
+004161f8	string		mnuTalkingHelp
+00416208	string		mnuMyHome
+00416214	string		mnuWallet
+00416230	string		mnuTopSitesList
+00416240	string		mnuTalkingAddon
+00416250	string		mnuJokeAddon
+00416260	string		mnuFactAddon
+00416270	string		mnuMailReaderAddOn
+00416284	string		mnuJokeAddon2
+00416294	string		mnuFactAddon2
+004162a4	string		mnuStoryPolizoof
+004162b8	string		mnuLessInteraction
+004162cc	string		tmrCharacterAction
+004162e4	string		mnuMoreInteraction
+00416318	string	00416350	C:\WINDOWS\SYSTEM\SHDOCVW.DLL
+00416338	string	00416354	SHDocVw
+00416390	string	004163c8	C:\WINDOWS\SYSTEM\MSHTML.tlb
+004163b0	string	004163cc	MSHTML
+004163e0	string		QuietMIE
+004163ec	string		QuietHTMLDoc
+00416424	string	00416460	C:\WINDOWS\SYSTEM\EMPOP3.DLL
+00416444	string	00416464	EMPOP3Lib
+00416478	string		mnuTopTen
+00416484	string		mnuSing
+0041648c	string		mnuStoryBookAddonGroup
+004164a4	string		mnuOnlineHelp
+004164c4	string		mnuEmailSetup
+004164e0	string		mnuAddOn
+004164ec	string		mnuBrowse
+004164f8	string		mnuSearch
+00416504	string		mnuConnection
+00416514	string		txtDebugData
+00416524	string		mnuCalendar
+00416530	string		mnuFactsAddonGroup
+00416544	string		mnuIEDownload
+00416554	string		mnuEmail
+00416560	string		mnuReadStoryGroup
+00416578	string		SetWindowPos
+004165bc	string		AlwaysOnTop
+004165c8	string		mIE_DocumentComplete
+004165e0	string	00412694	POP3_StatusMessage
+004165f4	string	00412698	QuietMIE_DocumentComplete
+00416610	string	0041269c	mIE_OnQuit
+0041662c	string		DisplayDebugData
+004167b4	unicode	FUN_0044c030,FUN_00456ec0,FUN_0045cbc0	Suggest
+004167c8	unicode	FUN_0044c030	Having trouble?  Let me help you.
+0041681c	unicode	FUN_0044c030	To add an appointment or task, choose the date from this Calander for which you would like to schedule an appointment.
+00416910	unicode	FUN_0044c030	Then, click the 'Add' button below to add an appointment or memo for that day.
+004169b4	unicode	00485b65,FUN_0044c030,FUN_0044ed40,FUN_004521c0,FUN_00456ec0,FUN_00457450,FUN_0045b310,FUN_00463850,FUN_00464080,FUN_00465310,FUN_00466030,FUN_00467fa0,FUN_0046a420,FUN_0046aa10,FUN_0046aed0,FUN_0046b390,FUN_0046ba70,FUN_0046e3c0,FUN_004722d0,FUN_00476d40,FUN_0047e140,FUN_0047e6d0,FUN_00481290,FUN_004830f0,FUN_00485f50,FUN_00489850,FUN_0048aa70,FUN_0048b4e0,FUN_0048cbf0,FUN_00498cb0,FUN_0049b9d0,FUN_0049c620,FUN_0049e1c0,FUN_0049e750,FUN_0049ed00,FUN_0049f4d0,FUN_0049fd90,FUN_004a0340,FUN_004a0b20,FUN_004a1300,FUN_004a16a0,FUN_004a1a20,FUN_004a21f0,FUN_004a2540,FUN_004a2e80,FUN_004a3310,FUN_004a36b0,FUN_004a3e80,FUN_004a4430,FUN_004a49e0,FUN_004a4c20,FUN_004a5400,FUN_004b1430,FUN_004b2e50,FUN_004b4070,FUN_004b6ea0,FUN_004b9410,FUN_004bd0d0,FUN_004bdb90	Blink
+004169c4	unicode	FUN_0044ed40	Edit Appointment or Reminder for 
+00416a0c	unicode	FUN_0044c030	To edit an existing appointment, select the date on this calendar that contains the appointment you want to edit.
+00416af4	unicode	FUN_0044c030	GestureLeft
+00416b10	unicode	FUN_0044c030	Then, choose the appointment that you wish to edit from this Schedule for the selected day.
+00416bec	unicode	FUN_0044c030	Finally, click the edit button to edit this appointment or task.
+00416c84	unicode	FUN_0044d740,FUN_004521c0,FUN_00455ca0	Appointment
+00416cc8	unicode	FUN_0044d740	favicon.ico
+00416d60	unicode	FUN_0044d740,FUN_00455ca0	Schedule for 
+00416da8	unicode	FUN_0044ed40	Edit Appointment or Task
+00416de0	unicode	FUN_0044ed40,FUN_004521c0	Appointment or Task for 
+00416e18	unicode	FUN_0044ed40	I see you're editing an appointment!
+00416e68	unicode	FUN_0044ed40,FUN_004521c0	Type in the text for the appointment or task.
+00416ec8	unicode	FUN_0044ed40,FUN_004521c0	Then, below that, choose the Time at which the appointment will be due.
+00416f5c	unicode	FUN_0044ed40,FUN_004521c0	If you like, check the Reminder box, and choose a date and time for me to remind you of your appointment.
+00417034	unicode	FUN_0044ed40,FUN_004521c0	Click the Save button when you're done.
+00417088	unicode	FUN_0044ed40,FUN_00453bc0,FUN_00457450,FUN_0047e140,FUN_0048cbf0,FUN_004bdb90	Decline
+0041709c	unicode	00451ece	I encountered an error while trying to edit this appointment.  The error is: 
+00417148	unicode	FUN_0044ed40	You'll need to choose an appointment to edit from the Appointments list first.  Just click on the appointment that you wish to edit, then click the Edit button.
+004172a0	unicode	00451de2,0045396f,004960fc,FUN_00457450,FUN_00464080,FUN_00466030,FUN_0046a420,FUN_0046aa10,FUN_0046aed0,FUN_0046b390,FUN_00481e30,FUN_00499ea0	Surprised
+004172b8	unicode	FUN_004521c0	Add Appointment or Task
+004172e8	string		__vbaVarForNext
+004172fc	unicode	00451eef	.  You may want to try closing my calendar window, re-opening it, and then attempting to edit your appointment again.  If this error still occurs, you should visit Bonzi Software's support site at \Ctx="Email"\HTTP://www.bonzi.com/support.htm.
+004174e4	string		Label12
+004174f4	unicode	FUN_004521c0	I see you're adding an appointment!
+00417540	unicode	004539e9	I encountered an error while trying to add this appointment to the Appointment list.  The error is: 
+00417610	unicode	FUN_00453bc0	Delete selected appointment?
+00417650	unicode	FUN_00453bc0	Apps.tmp
+00417664	string		__vbaUbound
+00417670	string		__vbaNameFile
+00417680	string		optFemale
+0041768c	string		InetReg
+0041769c	unicode	00453a0a	.  You may want to try closing my calendar window, re-opening it, and then attempting to add your appointment again.  If this error still occurs, you should visit Bonzi Software's support site at \Ctx="Email"\HTTP://www.bonzi.com/support.htm.
+00417894	unicode	FUN_00453bc0	You'll need to choose an appointment to delete from the Appointments list first.  Just click on the appointment that you wish to delete, then click the Delete button.
+004179e4	string		__vbaVarTstEq
+004179f4	string		__vbaAryDestruct
+00417a08	string		cmbAge
+00417a10	string		__vbaGenerateBoundsError
+00417a2c	string		__vbaRedimPreserve
+00417a40	string		__vbaVarCmpNe
+00417a50	string		__vbaVarOr
+00417a68	string		__vbaVarForInit
+00417a78	string		cmbState
+00417a9c	string		__vbaStrCmp
+00417aa8	string		__vbaExitProc
+00417ab8	string		__vbaPutOwner4
+00417ac8	string		__vbaLenVar
+00417ad4	string		__vbaGetOwner4
+00417af8	string		__vbaVarSub
+00417b04	string		__vbaVarCat
+00417b10	string		__vbaStrVarVal
+00417b20	string		__vbaVarCmpEq
+00417b30	string		__vbaVarAnd
+00417b3c	string		__vbaBoolVarNull
+00417b50	string		__vbaErrorOverflow
+00417b64	string		__vbaFileClose
+00417b74	string		__vbaLsetFixstr
+00417b84	string		__vbaStrFixstr
+00417b94	string		__vbaRecDestruct
+00417ba8	string		optMale
+00417bb0	string		__vbaVarDiv
+00417bc8	string		__vbaFileOpen
+00417bd8	string		__vbaVarMove
+00417be8	string		__vbaLateIdSt
+00417c08	string		__vbaCastObjVar
+00417c18	string		__vbaLateIdCall
+00417c80	string		cmdCancel
+00417c8c	string		txtAnswer
+00417c98	string		fraQuestion
+00417cc0	unicode	FUN_00456ec0	Having trouble?  Let me help you. Enter the web site below and click on the 'OK' button.  For example, if you want to go to the \ctx="EMAIL"\bonzi.com site, you would enter \ctx="EMAIL"\www.bonzi.com.
+00417e84	string		txtMiddleName
+00417e94	string		txtLastName
+00417ea8	unicode	FUN_00456ec0	Having trouble?  Let me help you. Enter the words or phrases you would like me to search the web for and click on the 'OK' button.
+00417fb4	unicode	FUN_00456ec0	Having trouble?  Let me help you. Tell me your name or salutation below. This is how I will address you.
+004180d8	string		cmdRegister
+004180e4	string		txtFirstName
+004180fc	string		cmbCountry
+00418108	string		txtEmail
+00418138	unicode	FUN_00457450	Please enter your Name into the Name fields before you register.
+004181c0	unicode	FUN_00457450	Please enter a valid Zip or Postal code in the Zip/Postal Code field.
+00418250	unicode	FUN_00457450	Choose One
+0041826c	unicode	FUN_00457450	Please select your country from the Country field first.
+004182f4	unicode	FUN_00457450	Please supply a valid E-Mail address in the E-Mail field before you register.
+00418394	unicode	00482af0,FUN_00457450,FUN_00466030,FUN_00475f90,FUN_00476570,FUN_00478450,FUN_0047dbe0,FUN_0047e6d0,FUN_00482390,FUN_004830f0,FUN_00485c90,FUN_00485f50,FUN_00486e30,FUN_0048a3f0,FUN_0048b4e0,FUN_0048cbf0,FUN_0049ca80,FUN_0049dca0,FUN_0049e1c0,FUN_0049f4d0,FUN_004a08f0,FUN_004a10d0,FUN_004a38e0,FUN_004a88f0,FUN_004b4850,FUN_004b9410,FUN_004ba390,FUN_004bb370	UserInfo
+004183ac	unicode	FUN_00457450,FUN_00466030,FUN_0048a3f0	UserRegistrationNum
+004183d8	unicode	FUN_00457450	mmddyy
+004183ec	unicode	FUN_00457450	hhmmss
+00418400	unicode	FUN_00457450,FUN_0048a3f0	RegVersion
+0041841c	unicode	FUN_00457450	Great, now you're an official, registered user of Bonzi Buddy!
+004184a0	unicode	FUN_00457450,FUN_0045b310,FUN_0045cbc0,FUN_004722d0,FUN_0047e140,FUN_0047e6d0,FUN_00489850,FUN_0048aa70,FUN_0048cbf0,FUN_004a38e0,FUN_004a4c20,FUN_004a7450,FUN_004b4850,FUN_004b6ea0,FUN_004b9410,FUN_004ba390,FUN_004bace0	Pleased
+004184c8	unicode	FUN_00457450	If you attempt to register again now and this fails, you may want to waint until a little later to register me, when the servers aren't too busy.
+00418604	unicode	FUN_00457450	There was a minor problem while registering me.  This may be due to busy servers at my home site.  But, don't worry!  You can attempt to register me again now, or at any time later by right-clicking on me, and selecting 'Registration'.
+004187e0	unicode	FUN_00459c20	?fname=
+004187f4	unicode	FUN_00459c20	&mname=
+00418808	unicode	FUN_00459c20	&lname=
+0041881c	unicode	FUN_00459c20	&add1=
+00418830	unicode	FUN_00459c20	&add2=
+00418844	unicode	FUN_00459c20	&city=
+00418858	unicode	FUN_00459c20	&state=
+0041886c	unicode	FUN_00459c20	&zip=
+0041887c	unicode	FUN_00459c20	&country=
+00418894	unicode	FUN_00459c20,FUN_00466030	&email=
+004188a8	unicode	FUN_00459c20	&gender=
+004188c0	unicode	FUN_00459c20	&age=
+004188d0	unicode	FUN_00459c20	&reg=
+004188e0	unicode	FUN_00459c20	&ver=
+004188f8	unicode	FUN_00459c20,FUN_004bc1b0	www.bonzi.com
+00418918	unicode	FUN_00459c20	I'm attempting to register you now.
+00418964	unicode	FUN_00459c20	Registered
+00418980	unicode	FUN_00459c20	registered
+00418998	string		btnSpeak
+004189a8	unicode	FUN_00459c20	REGISTERED
+004189c4	unicode	FUN_0045b310	Let's take a moment and fill out our automated registration card.  Our registration card entitles you to Free Software Updates of little old me!
+00418aec	unicode	FUN_0045b310	Simply enter or change your information on our automated registration card.
+00418b84	string		txtSpeak
+00418b98	unicode	FUN_0045b310,FUN_00467fa0,FUN_004ba390	GestureDown
+00418bd4	string		__vbaInputFile
+00418be4	string		__vbaInStr
+00418bf0	string		__vbaFailedFriend
+00418c04	string		__vbaWriteFile
+00418c14	string		btnCancel
+00418c28	unicode	FUN_0045b310	When you've finished, please make sure that you are connected to the Internet, and then click the 'Register Me' button below. I will automatically register you and add you to my Free Software Update list. I can even notify you when my updates are available!
+00418e38	string		__vbaStrI4
+00418e44	string		__vbaI4ErrVar
+00418e54	string		__vbaInStrVar
+00418e64	string		__vbaVarTstLt
+00418ec8	unicode	FUN_0045c7d0	You'll have to type something first.
+00418f18	unicode	FUN_0045cbc0	Having trouble?  Let me help you. From this screen, I can say anything you'd like. Simply enter what you would like me to say and click on the 'Say It' button.
+0041905c	unicode	FUN_0045cbc0	And remember 
+00419078	string	00412410	BBPlayerShutDown
+004190a0	unicode	FUN_0045cbc0	, let's keep it clean!
+00419130	string		Class
+00419148	string	00419184	C:\WINDOWS\SYSTEM\MSVBVM60.DLL\3
+0041916c	string	00419188	VBRUN
+0041919c	string	004123e8,004123ec	BBPlayerIsPlaying
+004191b0	string	004123f0,004123f4	BBPlayerWasInterrupted
+004191c8	string	004123f8,0041252c	StartUpCharacter
+004191dc	string	004123fc,00412530	ShutDownCharacter
+004191f0	string	00412400	FireBBPlayerStop
+00419204	string	00412404	FireBBPlayerContinue
+0041921c	string	00412408	FireBBPlayerShutDown
+00419234	string	0041240c	BBPlayerStartup
+00419244	string	00412414	BBPlayerPausePlayback
+0041925c	string	00412418	BBPlayerResumePlayback
+00419274	string		BBPlayerStop
+00419284	string		BBPlayerContinue
+004192a8	unicode	FUN_0045d420	Shutting down BBPlayer.
+004192dc	unicode	FUN_0045d420	FireBBPlayerShutDown
+0041930c	unicode	FUN_0045d610	BBPlayerPausePlayback
+0041933c	unicode	FUN_0045d610,FUN_00479cc0	Stopping Playback
+00419364	unicode	FUN_0045d610,FUN_00479cc0	Stopped Playback
+0041938c	unicode	FUN_0045d840	BBPlayerResumePlayback
+004193c0	unicode	FUN_0045d840	Continuing Playback
+004193ec	unicode	FUN_0045da00	&Search
+00419410	unicode	FUN_0045d840	Continued Playback
+00419444	string		__vbaRaiseEvent
+00419474	unicode	FUN_0045da00	Bonzi Buddy
+004194a0	unicode	FUN_0045da00,FUN_0047e6d0	Browse
+004194b4	unicode	FUN_0045da00	My &Home
+004194dc	unicode	FUN_0045da00,FUN_0047e6d0	BrowseSite
+004194f8	unicode	FUN_0045da00	&Browse
+0041950c	unicode	FUN_0045da00,FUN_0047e6d0,FUN_004a9e10,FUN_004afcb0,FUN_004b22c0,FUN_004b32a0	Search
+00419530	unicode	FUN_0045da00,FUN_0047e6d0	Read It
+00419544	unicode	FUN_0045da00	&Read Web Page
+00419568	unicode	FUN_0045da00,FUN_0047e6d0,FUN_004a38e0	Speak
+00419578	unicode	FUN_0045da00	S&peak
+0041958c	unicode	FUN_0045da00,FUN_0047e6d0	Sing
+0041959c	unicode	FUN_0045da00	S&ing a Song
+004195bc	unicode	FUN_0045da00,FUN_0047e6d0	TellJoke
+004195d4	unicode	FUN_0045da00	Tell a &Joke
+004195f4	unicode	FUN_0045da00,FUN_0047e6d0	TellTrivia
+00419610	unicode	FUN_0045da00	Ama&zing Facts
+00419634	unicode	FUN_0045da00	Tell Me Some Trivia
+00419670	unicode	FUN_0045da00,FUN_0047e6d0	ExplainVR
+00419688	unicode	FUN_0045da00	Speech Reco&gnition
+004196b4	unicode	FUN_0045da00,FUN_0047e6d0,FUN_0049ca80	Calendar
+004196cc	unicode	FUN_0045da00	&Calendar
+004196e4	unicode	FUN_0045da00,FUN_0047e6d0	Salutation
+00419700	unicode	FUN_0045da00	Sa&lutation
+0041971c	unicode	FUN_0045da00,FUN_0047e6d0	Registration
+0041973c	unicode	FUN_0045da00	R&egistration
+0041975c	unicode	FUN_0045da00,FUN_0047e6d0	Wallet
+00419770	unicode	FUN_0045da00	My &Wallet
+0041978c	unicode	FUN_0045da00,FUN_0047e6d0	AdvCharOpt
+004197a8	unicode	FUN_0045da00	&Advanced Options
+004197dc	unicode	FUN_0045da00	Ta&ke a Break
+004197fc	unicode	FUN_0045da00,FUN_0047e6d0	Help
+0041980c	unicode	FUN_0045da00	My &Online Help
+00419830	unicode	FUN_0045da00,FUN_0047e6d0	Update
+00419844	unicode	FUN_0045da00	&Update Me
+00419860	unicode	FUN_0045da00,FUN_0047e6d0	TellAFriend
+0041987c	unicode	FUN_0045da00	I'm doing well.
+004198a4	unicode	FUN_0045da00	&Tell Your Friends About Me!
+004198e4	unicode	FUN_0045da00,FUN_0047e6d0	Exit
+004198f4	unicode	FUN_0045da00	E&xit
+00419904	unicode	FUN_0045da00	Goodbye
+00419930	unicode	FUN_0045da00,FUN_0047e6d0	Hello
+00419940	unicode	FUN_0045da00,FUN_0047e6d0	WhatsNew
+00419958	unicode	FUN_0045da00	What's New?
+00419974	unicode	FUN_0045da00,FUN_0047e6d0	HowAreYou
+0041998c	unicode	FUN_0045da00	How are you?
+004199ac	unicode	FUN_0045da00,FUN_0047e6d0	TellTime
+004199c4	unicode	FUN_0045da00	What time is it?
+004199ec	unicode	FUN_0045da00,FUN_0047e6d0	TellDate
+00419a04	unicode	FUN_0045da00	What is the date?
+00419a2c	unicode	FUN_0045da00,FUN_0047e6d0	ImGood
+00419a40	unicode	FUN_0045da00,FUN_0047e6d0	ImNotGood
+00419a5c	unicode	FUN_0045da00	I'm not doing well.
+00419a88	unicode	FUN_0045da00,FUN_0047e6d0	StopListening
+00419aa8	unicode	FUN_0045da00	Stop Listening
+00419b10	string		cmdPrint
+00419b1c	string		cmdClose
+00419b28	string		lblConfirm
+00419b54	string	00419b90	C:\WINDOWS\SYSTEM\MSCOMCTL.oca
+00419b74	string	00419b94	MSComctlLib
+00419ba8	string		InetYesNo
+00419bcc	string		wbOffer
+00419bf4	string	00419c30	C:\WINDOWS\SYSTEM\SHDOCVW.oca
+00419c14	string	00419c34	SHDocVwCtl
+00419c48	string		InetTrans
+00419c64	string		cmbCard
+00419c6c	string		cmdEditCard
+00419c98	string		lblWalletDesc
+00419ca8	string		imgCards
+00419cb4	string		lblFileDownload
+00419cc4	string		imgDownload
+00419cd0	string		cmdAddCard
+00419cdc	string		cmdAbout
+00419ce8	string		ReadRecords
+00419d8c	string		cmdSaveCard
+00419d98	string		cmbYear
+00419da0	string		cmdDeleteCard
+00419db0	string		cmbMonth
+00419dbc	string		txtPassword
+00419dc8	string		txtCardNumber
+00419dd8	string		txtCardHolder
+00419de8	string		txtDisplayName
+00419df8	string		txtConfirmPassword
+00419e2c	unicode	FUN_00463600	&Add Card
+00419e44	unicode	FUN_00463850	Are you sure you wish to quit and cancel this download?
+00419eb8	unicode	FUN_00463850	Unloading...One moment.
+00419f58	string		txtPasswordCheck
+00419fa4	unicode		 - Edit Card
+00419fc4	unicode	FUN_00464080	&Save Card
+00419fe0	unicode	FUN_00464080	, that does not appear to be the correct password for the selected card.  We cannot edit this card without the correct password.
+0041a0e8	unicode	FUN_00464080,FUN_00466030,FUN_004722d0	Remember 
+0041a100	unicode	FUN_0047cee0	1800
+0041a110	unicode	FUN_00464080,FUN_00466030	, I will always protect you!
+0041a150	unicode	FUN_00465310	Are you sure you want close the Wallet and miss ordering this 
+0041a1dc	unicode	FUN_00465310	If you change your mind 
+0041a214	unicode	FUN_00465310	, you can re-open my Wallet by right-clicking on me and selecting 'BonziBUDDY Wallet'.
+0041a2c8	unicode	FUN_00465310,FUN_0048cbf0	?answer=no&product=
+0041a2f8	unicode	FUN_00465ad0	The Print command is currently disabled.
+0041a350	unicode	FUN_00465ad0	Print command Error: 
+0041a394	unicode	FUN_00466030	Content-Type: application/x-www-form-urlencoded
+0041a3f8	unicode	FUN_00466030	ccard=
+0041a40c	unicode	FUN_00466030	&expiry=
+0041a424	unicode	FUN_00466030	&product=
+0041a43c	unicode	FUN_00466030	&regnum=
+0041a454	unicode	FUN_00466030	&cname=
+0041a468	unicode	FUN_00466030	POST
+0041a478	unicode	FUN_0046d360	response=invalid card number
+0041a4c8	unicode	FUN_00466030	, that does not appear to be the correct password for the selected card.  I cannot order without the correct password for this card.
+0041a5d8	unicode	FUN_00466030	Please add a new card by clicking the 'Add' button first.
+0041a650	unicode	FUN_0046a420	!  I was unable to successfully order the 
+0041a6b8	unicode	00467d7e	Please select a card to process this transaction with from the list above, first.
+0041a768	unicode	FUN_00467fa0,FUN_0046e3c0	file://
+0041a77c	unicode	FUN_00467fa0,FUN_0046a420,FUN_0046aa10,FUN_0046aed0,FUN_0046b390,FUN_0048cbf0	?answer=yes&product=
+0041a81c	unicode	FUN_00467fa0	I am unable to automatically download the 
+0041a878	unicode	FUN_004769c0,FUN_00477960,FUN_00478450,FUN_00486e30,FUN_004b6ea0	Interval
+0041a890	unicode	FUN_00467fa0	Click the 'Print Receipt' button below to print a copy of your receipt now.
+0041a92c	unicode	FUN_00467fa0	Downloading the 
+0041a960	unicode	FUN_00467fa0	This is your Receipt:
+0041a990	unicode	FUN_00467fa0	Great 
+0041a9a4	unicode	FUN_00467fa0	!, I just successfully ordered the 
+0041a9f0	unicode	FUN_00467fa0	You can kick your feet up now 
+0041aa34	unicode	FUN_00467fa0	 for you!
+0041aa5c	unicode	FUN_00467fa0	 for you!  I will now download and install it for you using my Secure Immediate Delivery System!
+0041ab24	unicode	FUN_00467fa0	! The server is telling me that this order for 
+0041ab88	unicode	FUN_00467fa0	 has already been placed.  Therefore, your card will not be charged again.
+0041ac40	unicode	FUN_00467fa0	I will now download and install it for you using my Secure Immediate Delivery System!
+0041acf0	unicode	FUN_00467fa0	I will monitor the status of our download with this status bar!  Please be sure to leave this window open, so I can monitor our progress!
+0041ae08	unicode	FUN_0046d360	response=timed out
+0041ae34	unicode	FUN_00467fa0	. I will let you know when I have successfully downloaded the 
+0041aeb8	unicode	FUN_00467fa0	 for you.
+0041aed0	unicode	FUN_00467fa0	GestureRight
+0041aef0	unicode	FUN_00467fa0	If you'd like me to print a copy of your receipt, click on the 'Print Receipt' button now and I will handle that as well.
+0041afe8	unicode	FUN_00467fa0	LookDownBlink
+0041b01c	unicode	FUN_00467fa0	 at this time.  I would normally download this for you, but it looks like it is not available for automatic download at this time. You however, may download the 
+0041b164	unicode	FUN_00467fa0	 by simply clicking the download link in the receipt window now.
+0041b1ec	unicode	FUN_004769c0,FUN_00477960,FUN_004bdb90	LogonName
+0041b204	unicode	FUN_0046a420	The response from the server indicates one of two things:
+0041b27c	unicode	FUN_0046a420	Either the Expiration Date you have selected for this card is incorrect, or this card account is over-drawn.
+0041b35c	unicode	FUN_0046bbb0	Our download is 50% complete!
+0041b39c	unicode	FUN_0046d360	Ready
+0041b3ac	unicode	FUN_0046d360	response=approved
+0041b3d4	unicode	FUN_004769c0,FUN_00477960,FUN_00486e30,FUN_004b6ea0,FUN_004bdb90	Email
+0041b3e4	unicode	FUN_0046a420	We may be able to correct this problem and try your transaction again by either verifying the expiration date on the selected card, or selecting another card from my wallet.
+0041b544	unicode	FUN_0046aa10,FUN_0046aed0,FUN_0046b390	! I was unable to successfully order the 
+0041b59c	unicode	FUN_0046aa10,FUN_0046aed0,FUN_0046b390,FUN_0046e3c0,FUN_0047e140,FUN_0047e6d0,FUN_00485c90,FUN_00485f50,FUN_0049b9d0,FUN_0049c620,FUN_0049d0d0,FUN_0049e1c0,FUN_0049e750,FUN_0049ed00,FUN_0049f4d0,FUN_0049fd90,FUN_004a0340,FUN_004a0b20,FUN_004a1300,FUN_004a16a0,FUN_004a1a20,FUN_004a21f0,FUN_004a2540,FUN_004a2e80,FUN_004a3310,FUN_004a36b0,FUN_004a3e80,FUN_004a4430,FUN_004a49e0,FUN_004a4c20,FUN_004a5400,FUN_004ba390	Alert
+0041b5ac	unicode	00482954,FUN_004769c0,FUN_00477960,FUN_00482390,FUN_004830f0,FUN_0048cbf0,FUN_004a88f0,FUN_004bd0d0,FUN_004bdb90	Server
+0041b5c0	unicode	FUN_004769c0,FUN_00477960,FUN_004bdb90	Pass
+0041b5d0	unicode	FUN_0046aa10	It appears that the server was busy. Let's try again. Simply click the 'Yes' button and I'll give it another shot.
+0041b6bc	unicode	FUN_0046bbb0	.  You should download this product manually now by clicking on the download link in the Receipt window.
+0041b794	unicode	FUN_0046bbb0	.exe
+0041b7c0	unicode	FUN_0046aed0	The server is telling me that the credit card number is invalid. Let's edit this card and fix the number by clicking on the my edit card button.
+0041b8e8	unicode	FUN_0046bbb0	I'm sorry that I was not able to complete the download for you myself.)
+0041b988	unicode	FUN_0046bbb0	newsetup
+0041b9a0	unicode	FUN_0046b390	We may want to try again. If we still can't order now, we may be able to correct this problem by selecting another card from my wallet.
+0041bab4	unicode	FUN_0046bbb0,FUN_0049e1c0,FUN_004a6f70,FUN_004b1430	Hey, 
+0041bac4	unicode	FUN_0046bbb0	.  I encountered a problem while downloading 
+0041bb24	unicode	FUN_0046bbb0	Our download is 25% complete.
+0041bb64	unicode	FUN_0046d360	response=declined
+0041bb8c	unicode	FUN_0046bbb0	Our download is 75% complete!  We're almost there!
+0041bbf8	unicode	FUN_0046bbb0	We're done downloading! I will have to leave for a few moments so that our new software can install.  Simply follow the on screen instructions and when your done, I'll be back.  See you in a few!
+0041bd84	unicode	FUN_0046d360	response=not approved
+0041bdb4	unicode	FUN_0046d360	response=duplicate
+0041bde0	unicode	FUN_0046d360	Connected to server...
+0041be14	unicode	FUN_0046d360	Requesting...
+0041be34	unicode	FUN_0046d360	Receiving response...
+0041be64	unicode	FUN_0046e3c0	! I just learned that I can automatically handle ordering, downloading and installing the 
+0041bf20	unicode	FUN_0046e3c0	 for you now!
+0041bf4c	string		fraProgress
+0041bf94	unicode		, I can safely and securely download and install this product for you!  Simply select a card from my wallet that you would like me to use.
+0041c0b0	unicode	FUN_0046e3c0	Would you like me to download and install the 
+0041c114	unicode	FUN_0046e3c0	 for you?
+0041c12c	unicode	FUN_00475830	.temp
+0041c138	string		lblDescAcct
+0041c180	unicode		, I can safely and securely order this product for you!  Simply select a card from my wallet that you would like me to use.
+0041c27c	unicode	FUN_0046e3c0	Would you like me to order the 
+0041c2c0	unicode	FUN_0046e3c0	&Close
+0041c2d0	string		__vbaEnd
+0041c2e0	unicode	FUN_00470170	bbc01.tmp
+0041c32c	unicode		, I can safely and securely download products for you!  Simply select a card from my wallet that you would like me to use.
+0041c428	unicode	FUN_0046e3c0	There is no new product available at this time.
+0041c48c	unicode	FUN_0046e3c0,FUN_004a0b20,FUN_004a4430,FUN_004adcc0,FUN_004b4850,FUN_004b6ea0	Hey 
+0041c498	string		__vbaLenBstr
+0041c4b0	unicode	FUN_0046e3c0	! I just learned that I can automatically handle ordering the 
+0041c534	unicode	FUN_0046e3c0	, before I can order this product for you, we'll first need to enter a card into my Secure Wallet by clicking the 'Add' button on my Wallet screen.
+0041c65c	string		fraInterval
+0041c66c	unicode	FUN_0046e3c0	Simply click on the 'Yes' button and I will take care of it!
+0041c6ec	unicode	FUN_0046e3c0	There is no product offer at this time.
+0041c794	string		__vbaCopyBytes
+0041c7a4	string		__vbaRedim
+0041c7b0	string		__vbaErase
+0041c7c0	unicode	FUN_004722d0	MasterCard
+0041c7dc	string		__vbaPutOwner3
+0041c7ec	string		__vbaVar2Vec
+0041c7fc	string		__vbaAryMove
+0041c818	string		__vbaPrintFile
+0041c83c	unicode	FUN_00470800	Invalid Credit Card Number.  Please check the credit card number you entered and try entering it again.
+0041c910	unicode	FUN_00470800	Invalid Expiration Date.
+0041c948	unicode	FUN_00470800	Please enter the name that appears on the card in the CardHolder Name field.
+0041c9e8	unicode	FUN_004722d0	Visa
+0041c9f8	unicode	FUN_004722d0	 - MasterCard
+0041ca24	unicode	FUN_00470800	Please enter a descriptive name for this card in the Display Name field.
+0041cabc	unicode	FUN_00470800	Your password must be alpa-numeric, and at least 4 characters long.
+0041cb48	unicode	FUN_00470800	You can add more cards, or close this screen now by clicking the 'Close' button.
+0041cc08	unicode	FUN_00470800	The two passwords you have entered do not match.  First, enter a password in the Password field.  Then, re-enter it to confirm in the Confirm Password field.
+0041cd48	unicode	FUN_00470800	Got it! | No problem. | I've updated my wallet. | Tis done.
+0041cdc4	unicode	FUN_00472170,FUN_004a4c20,FUN_004adcc0,FUN_004bace0	Idle2_1
+0041cdd8	unicode	FUN_004722d0	 - Visa
+0041cdec	unicode	FUN_004722d0	 - American Express
+0041ce18	unicode	FUN_004722d0	Amex
+0041ce28	unicode	FUN_004722d0	 - Discover
+0041ce44	unicode	FUN_004722d0	Discover
+0041ce5c	unicode	FUN_004722d0	 - Diners
+0041ce74	unicode	FUN_004722d0	Diners
+0041ce88	unicode	FUN_004722d0	 - JCB
+0041cea8	unicode	FUN_004722d0	Great! Now let's complete my 'Add To Wallet' form.
+0041cf14	unicode	FUN_00474c70	Great!  Now please enter the password for this card and we can proceed.
+0041cfb8	unicode	FUN_004722d0	Be sure to enter a password that you can easily remember. I will always prompt for it before ordering with my wallet!
+0041d0a8	unicode	FUN_004722d0	, I'm here to protect you!
+0041d0e0	string		__vbaVarCmpGt
+0041d0f0	string		__vbaVarCmpLt
+0041d120	string		cmdTest
+0041d12c	unicode	00475e31	Error Reading File:  
+0041d158	string		__vbaResume
+0041d164	string		__vbaLineInputStr
+0041d188	string		__vbaVarVargNofree
+0041d1ac	string		tabMailOptions
+0041d1bc	string		__vbaMidStmtBstr
+0041d210	string		optModem
+0041d224	string		optLAN
+0041d22c	string		fraConnectType
+0041d254	unicode	FUN_00475f90,FUN_00476570,FUN_00485c90,FUN_004bb370	ConnectionType
+0041d278	unicode	FUN_00475f90,FUN_00476570,FUN_004bc1b0	Modem
+0041d2a0	unicode	FUN_00475f90,FUN_0047e6d0,FUN_0048cbf0,FUN_004a2540,FUN_004bace0	Acknowledge
+0041d2bc	unicode	FUN_00475f90	Thanks 
+0041d2d4	unicode	FUN_00476570	Now let's select the option from my Internet Connection Screen which best describes how we should connect to the Internet.
+0041d40c	string		fraUserInfo
+0041d418	string		txtServer
+0041d424	string		txtName
+0041d42c	string		txtPass
+0041d434	string		txtCheckInterval
+0041d450	string		cmdSave
+0041d458	string		lblServer
+0041d46c	string		lblInterval2
+0041d47c	string		lblInterval1
+0041d494	unicode	FUN_00476d40,FUN_004bdb90	BONZI.COM Software/31A3410714080C03F530
+0041d4e8	unicode	FUN_00476d40	Great!  This email information seems to be working properly, 
+0041d568	unicode	FUN_00477960	If you're unsure about this information, it can easily be obtained from your Internet Service Provider or ISP.
+0041d64c	string		RegCloseKey
+0041d65c	unicode	FUN_00478c20	Version 
+0041d674	unicode	FUN_00476d40	There was an error while connecting to our mail server. Please verify that the Mail Server you have entered here is correct and try the test again.
+0041d7a0	unicode	FUN_00477960	From my E-Mail Reader Options screen, we can setup your E-Mail account and server information.
+0041d864	unicode	FUN_00476d40,FUN_004bdb90	It seems that the User Name we are using to check e-mail is incorrect. We can change it by clicking on the 'E-Mail Reader' option under 'Setup' on my menu.
+0041d9a0	unicode	FUN_00477960	This information will allow me to check your e-mail and read it for you!
+0041da38	unicode	FUN_00478ff0	\MSINFO32.EXE
+0041da58	unicode	FUN_00476d40,FUN_004bdb90	It seems that either the User Name or Password we are using to check e-mail is incorrect. We can change it by clicking on the 'E-Mail Reader' option under 'Setup' on my menu.
+0041dbbc	unicode	FUN_00477960	Hey!  That looks like my E-Mail Reader Options screen!
+0041dc30	unicode	FUN_0047cee0	3099
+0041dc40	unicode	FUN_00477960	Please enter the name or the IP address of your Internet Mail Server. This is also known as your POP 3 Mail Server information.  Then, enter your E-Mail logon User Name and Password.
+0041dde4	string	0041251c	StartSysInfo
+0041ddf4	string	00412520	GetKeyValue
+0041de04	unicode	FUN_00478c20	About 
+0041de28	unicode	FUN_00477960	Once you have entered this information, go ahead and click the 'Test' button.  I will make sure we have everything setup properly!
+0041df30	string		lblDisclaimer
+0041df40	string		cmdSysInfo
+0041df4c	string		lblVersion
+0041df5c	string	0041ddb0,0041df7c,0041dfc8	advapi32
+0041df6c	string		RegOpenKeyExA
+0041dfb4	string		RegQueryValueExA
+0041e004	unicode	FUN_00477960	If you would like, you can click on my 'Interval' tab, and specify how often you would like me to check for new E-Mail messages when we are online together!
+0041e14d	string		(6(__vbaNew
+0041e1ac	unicode	FUN_00478ff0	System Information Is Unavailable At This Time
+0041e218	string		__vbaVarAdd
+0041e224	string		__vbaStrToUnicode
+0041e238	string		__vbaSetSystemError
+0041e250	unicode	FUN_0047cee0	60119
+0041e268	string		__vbaStrToAnsi
+0041e2a8	string	00412524,00412528	StoryReaderIsPlaying
+0041e2c0	string	00412534	FireStoryReaderStop
+0041e2d4	string	00412538	FireStoryReaderNewBook
+0041e2ec	string	0041253c	FireStoryReaderShutDown
+0041e304	string	00412540	StoryReaderStartup
+0041e318	string	00412544	StoryReaderShutDown
+0041e32c	string	00412548	StoryReaderStopPlayback
+0041e344	string		StoryReaderStop
+0041e354	string		StoryReaderNewBook
+0041e36c	unicode	FUN_00479ad0	Shutting down StoryReader.
+0041e3a8	unicode	FUN_0047cee0	60110
+0041e3b8	unicode	FUN_00479ad0	FireStoryReaderShutDown
+0041e3ec	unicode	FUN_00479cc0	StoryReaderStopPlayback
+0041e49c	unicode	FUN_0047a3f0	mm/dd/yyyy
+0041e4b8	unicode	FUN_0047a3f0	hh:mm:ss
+0041e4dc	unicode	FUN_0047a3f0	http://
+0041e564	unicode	FUN_0047cee0	2131
+0041e574	unicode	FUN_0047cee0	308800
+0041e588	unicode	FUN_0047cee0	309499
+0041e59c	unicode	FUN_0047cee0	309600
+0041e5b0	unicode	FUN_0047cee0	310299
+0041e5c4	unicode	FUN_0047cee0	315800
+0041e5d8	unicode	FUN_0047cee0	315999
+0041e5ec	unicode	FUN_0047cee0	333700
+0041e600	unicode	FUN_0047cee0	334999
+0041e614	unicode	FUN_0047cee0	352800
+0041e628	unicode	FUN_0047cee0	358999
+0041e63c	unicode	FUN_0047cee0	2014
+0041e64c	unicode	FUN_0047cee0	2015
+0041e65c	unicode	FUN_0047cee0	2140
+0041e66c	unicode	FUN_0047cee0	2150
+0041e67c	unicode	FUN_0047dbe0	First
+0041e68c	unicode	FUN_0047dd50	Sure!  I would love to read 
+0041e6cc	unicode	FUN_0047dd50	 to you, 
+0041e6e4	unicode	FUN_0047dd50	! | OK!  Let's see what happens in 
+0041e730	unicode	FUN_0047dd50	. | Great.  I really enjoy reading with you, 
+0041e790	unicode	FUN_0047dd50	! | This is one of my favorite stories! | I'm always in the mood for a good story, 
+0041e83c	unicode	FUN_0047dd50	! | OK 
+0041e850	unicode	FUN_0047dd50	!  Let's read along together!
+0041e88c	string		__vbaVarCmpLe
+0041e89c	string		__vbaVarCmpGe
+0041e8ac	string		__vbaAryCopy
+0041e8cc	string		__vbaFPInt
+0041e8f0	string		__vbaRecAssign
+0041e900	string		__vbaVarMul
+0041e90c	string		__vbaVarInt
+0041e918	string		__vbaStrVarCopy
+0041e928	string		__vbaVarTstLe
+0041e944	string		__vbaAryUnlock
+0041e954	string		__vbaAryLock
+0041e964	string		__vbaNextEachCollObj
+0041e97c	string		__vbaExitEachColl
+0041e990	string		__vbaForEachCollObj
+0041e9a4	string		__vbaAryConstruct2
+0041e9bc	unicode	FUN_0047e140,FUN_0047e6d0,FUN_0048cbf0	Uncertain
+0041e9d4	unicode	FUN_0047e140	I've been there, 
+0041e9fc	unicode	FUN_0047e140	. | Well, I hope things start looking better for you. | Well, 
+0041ea80	unicode	FUN_0047e140	 I'm sure that things are going to get better. | Just look at it this way, 
+0041eb1c	unicode	FUN_00488be0	BBPlayer is running.
+0041eb4c	unicode	FUN_0047e140	.  Things can only get better. | Well, don't worry, I'm here when you need me. | I just know that things are going to get better 
+0041ec54	unicode	FUN_0047e140	That sounds nice. | Sounds like an exciting life you lead 
+0041ecd0	unicode	FUN_0047e6d0	? | How are \emp\you? | How are \emp\you, 
+0041ed2c	unicode	FUN_0047e140	! | Glad to hear it. | And I though \emp\I had a lot going on! | Well, maybe we could browse the web or something.
+0041ee18	unicode	FUN_0047e140	DontRecognize
+0041ee34	unicode	FUN_0047e6d0,FUN_00480f50	Name
+0041ee44	unicode	FUN_0047e6d0	Hello to you, 
+0041ee68	unicode	FUN_0047e6d0	. | Hi! | Hello! | Hello.  What's new? | Hey, 
+0041eecc	unicode	FUN_0047e6d0	. | Hi there!
+0041eeec	unicode	FUN_004887e0	LatestUpdate
+0041ef10	unicode	FUN_0047e6d0,FUN_0048cbf0	Suit yourself, I'll just do a little reading of my own while you browse.
+0041efa8	unicode	FUN_0047e6d0,FUN_0048cbf0,FUN_004bace0	Reading
+0041efbc	unicode	FUN_0047e6d0,FUN_0048cbf0	http://www.bonzi.com
+0041efec	unicode	FUN_0047e6d0,FUN_0048cbf0	NetBoost Prompted
+0041f014	unicode	FUN_0047e6d0,FUN_0048cbf0,FUN_004b9410	True
+0041f024	unicode	FUN_0047e6d0,FUN_0048cbf0	Do you want me to remind you later about InternetBOOST from \Ctx="Email"\www.bonzi.com?
+0041f0d8	unicode	FUN_00488be0	Form_Unload
+0041f0f4	unicode	FUN_0047e6d0,FUN_0048cbf0	Great! | Great!  I love that newly updated feeling! | Good choice!  I'm sure you'll be pleased with my new abilities.
+0041f1e4	unicode	FUN_0047e6d0,FUN_0048cbf0	This will only take a few minutes.  When I'm done, I'll have to leave for a few minutes to receive my new updates.
+0041f2d0	unicode	FUN_004887e0	Phrase
+0041f2e8	unicode	FUN_0047e6d0,FUN_0048cbf0	Once this new update is finished installing, I'll come back, better than ever!
+0041f38c	unicode	FUN_0047e6d0	Not much, 
+0041f3a8	unicode	FUN_0047e6d0	.  | Nothing much, just hanging out. | Not much today.
+0041f41c	unicode	FUN_0047e6d0	. | My cup runneth over, 
+0041f454	unicode	FUN_0047e6d0	. | I'm doing great myself 
+0041f490	unicode	FUN_0047e6d0	How about \emp\you 
+0041f4bc	unicode	FUN_0047e6d0	What's new with you today? | Anything exciting happening with you today? | What been going on? | What's happening with you?
+0041f5b8	unicode	FUN_0047e6d0	I'm doing well. | I'm feeling just fine today, thanks for asking. | Wonderful!  Things couldn't be better.  | I'm fine, 
+0041f6b4	unicode	FUN_0047e6d0	?  | How are things with \emp\you today?
+0041f70c	unicode	FUN_0047e6d0	I'm glad to hear that you're doing well, 
+0041f764	unicode	FUN_0047e6d0	. | It's nice to hear that things are good for you. | That's great 
+0041f7f0	unicode	FUN_0047e6d0	.  When \emp\you feel good, \emp\I feel good too. | That's nice to hear.
+0041f888	unicode	FUN_00486e30,FUN_004a08f0	less
+0041f898	unicode	FUN_0047e6d0	I'm sorry to hear that you're not well, 
+0041f8f0	unicode	FUN_0047e6d0	. | That's very sad, 
+0041f920	unicode	FUN_0047e6d0	.  Is there anything I can do for you? | It makes me sad to hear that, 
+0041f9b4	unicode	FUN_0047e6d0	. | Well, 
+0041f9d0	unicode	FUN_0047e6d0	, I hope things start looking better for you.
+0041fa54	unicode	FUN_00486e30,FUN_004a08f0,FUN_004a10d0	Interaction
+0041fa74	unicode	FUN_0047e6d0	What is troubling you? | What seems to be the problem today? | Why are things not well for you?
+0041fb38	unicode	FUN_0047e6d0	The time is 
+0041fb58	unicode	FUN_0047e6d0	Today's date is 
+0041fb7c	unicode	FUN_00480f50,FUN_00481570	Confidence
+0041fb94	unicode	FUN_00480f50	Alt1Name
+0041fba8	unicode	FUN_00480f50	Alt2Name
+0041fbbc	unicode	FUN_00480f50	Alt2Confidence
+0041fbe0	unicode	FUN_00481410	Good choice!
+0041fbfc	unicode	FUN_00481570	Voice
+0041fc0c	unicode	FUN_004830f0,FUN_0049ca80,FUN_004a38e0	FALSE
+0041fc40	unicode	FUN_004817c0	Wowa!  Careful with that thing! | Watch it with that mouse pointer! | \pit=250\Hee Hee!  \pit=120\That tickles. | Yes? | What can I do for you, 
+0041fd68	unicode	FUN_00482fa0	Modem Not Connected
+0041fd94	unicode	FUN_004830f0	BonziBUDDY
+0041fdd0	unicode	FUN_004830f0,FUN_0048cbf0,FUN_004a88f0,FUN_004a91e0	LastDownloadTime
+0041fdf8	unicode	FUN_004830f0,FUN_004a91e0	5MinutesAfterLoad
+0041fe24	unicode	FUN_004817c0,FUN_00481b90	? | I'm at your service. | Did somebody click?  | Somebody's a bit fresh with the mouse pointer! | Are you pointing at me? | Thanks for pointing that out. | A bit clicky today aren't we?
+0041ffa0	unicode	FUN_00481b90	Anything you request, 
+0041ffd4	unicode	FUN_00482e80	blink
+0041ffe4	unicode	FUN_00482fa0	Modem Connected
+00420008	unicode	FUN_00481b90	. | At your service! | Wowa!  Careful with that thing! | Watch it with that mouse pointer! | \pit=140\Hee Hee!  \pit=120\That tickles. | Yes? | What can I do for you, 
+0042015c	unicode	FUN_00482390,FUN_004830f0,FUN_004a9e10	Long
+0042017c	unicode	00482aeb,FUN_00482390,FUN_004830f0,FUN_004a88f0	ServerCheck
+00420198	unicode	FUN_00482390,FUN_004830f0,FUN_004a88f0	ServerCheckDay
+004201bc	unicode	FUN_00482390,FUN_004830f0,FUN_0048b4e0,FUN_0048cbf0,FUN_004a88f0,FUN_004a91e0,FUN_004b1260,FUN_004b1a20,FUN_004b4850,FUN_004b6ea0	mm/dd/yy
+004201d4	unicode	FUN_00482dd0,FUN_004bace0	Idle3_2
+004201e8	unicode	FUN_004820e0	I'll have a much better view from here. | Careful!  I'm very delicate. | This is much better.  |  What a fresh perspective! | Was I in your way? | Now why did you move me?  |  Woe!  Head rush. | This is a nicer spot anyway. | Oh, is this where you wanted me? | That makes me dizzy. | Sorry, didn't realize that I was in your way. | Now, what was wrong with being over there? | This is a nice spot. | OK OK! I'll stay over here. | You really move me, 
+00420574	unicode	FUN_004820e0	. | Thanks, my foot was falling asleep. | Thanks for putting me in my place. | That was a wild ride! | Moving is always a drag. | I'm always on the move. | Change is always good. | I look better from this angle. | I've finally arrived!
+00420750	unicode	FUN_00482390,FUN_004830f0,FUN_004a9e10	Short
+00420760	unicode	FUN_004830f0	It seems that you don't have this character installed properly.  Please visit HTTP://www.bonzi.com to download and install this character.
+0042087c	unicode	FUN_004830f0,FUN_0049dca0	XPos
+0042088c	unicode	FUN_004830f0,FUN_0049dca0	YPos
+0042089c	unicode	FUN_004830f0,FUN_0048cbf0	Name
+004208b8	unicode	FUN_004830f0	{D8905400-B5C8-11d0-B968-0020AFDB1B9C}
+0042090c	unicode	FUN_004830f0,FUN_0048cbf0,FUN_004a88f0,FUN_004a91e0,FUN_004b1260,FUN_004b1a20,FUN_004b22c0	Daily
+0042091c	unicode	FUN_004830f0,FUN_0048b4e0	FirstRun
+0042093c	unicode	FUN_00485c90	, in order for me to best help you in our Internet travels together, we need to specify how we will connect to the Internet.
+00420a3c	unicode	FUN_00485f50	SnapHome
+00420a54	unicode	FUN_00485f50,FUN_0048cbf0	If you like 
+00420a74	unicode	FUN_004866f0	Stock Quotes
+00420a94	unicode	FUN_004866f0	Weather Center
+00420ab8	unicode	FUN_004866f0	What's Hot!
+00420ad4	unicode	FUN_00486e30	 -- INSTALLED
+00420af4	unicode	FUN_00486e30	 -- NOT INSTALLED
+00420b1c	unicode	FUN_00485f50	Hey!  Did you hear that I've made new friends at \ctx="Email"\Snap.Com?  I now have an exciting new home where we can hang out!  There are lots of useful new things that we can explore together and try at our new home.  It's so very exciting that I can hardly contain myself!
+00420d48	unicode	FUN_00485f50	We can even customize our new home with local weather, stocks, late breaking news, and much more, making our time together on the web more enjoyable and useful!
+00420e90	unicode	FUN_00485f50,FUN_0048b4e0,FUN_004ba390	TRUE
+00420ea0	unicode	FUN_00485f50	Try it out by clicking on the 'My Snap' link here at our new home!
+00420f38	unicode	FUN_00485f50,FUN_0048cbf0	, I can even make our new home be the default start page in Internet Explorer! This way we will never be far from home!
+0042102c	unicode	FUN_00485f50	Why don't we check out our exciting new home site now?
+004210a0	unicode	FUN_004866f0	Horoscopes
+004210dc	unicode	FUN_004866f0	Personals
+004210f4	unicode	FUN_004866f0	Reference Center
+0042111c	unicode	FUN_00488be0	BBPlayer is NOT running.
+00421154	unicode	FUN_00488be0	StoryReader is running.
+00421188	unicode	FUN_00488be0	StoryReader is NOT running.
+004211c4	unicode	FUN_00488be0	Unloading**************
+004211f8	unicode	FUN_00489850	Here's one for you. | I've got another one for you.  |  OK, you'll have to laugh at this one.  | Have you heard this one? | 
+004212f8	unicode	FUN_00489850	, get ready to laugh. | This is funny. | 
+00421350	unicode	FUN_00489850	 I've got a good one for you. | Here's something to make you smile 
+004213dc	unicode	FUN_00489850	. | Check this out. | Hope you're in the mood for a joke. | OK 
+00421460	unicode	FUN_0048b4e0	. How has your day been? | Good evening 
+004214c8	unicode	FUN_00489850	, just try not to laugh at this one! | Here's something funny. | Here's something to tell your friends later! | I know you'll enjoy this one.
+004215e8	unicode	FUN_00489850,FUN_0048b4e0,FUN_0048cbf0,FUN_004a7450	Greet
+004215f8	unicode	FUN_00489850	. | Don't judge me on my sense of humor alone. \pau=1000\ Please. | You know 
+00421698	unicode	FUN_00489850	I've got a \emp\million of them! | That one \emp\really cracks me up! | I \emp\never get enough of that one! | I knocked them \emp\dead in Vegas with that one! | Sometimes I even amuse myself! | \pit=360\Ha Ha Ha! \pit=140\I'll need a minute to recover from \emp\that one! | What did you think of \emp\that one? | I should be paying you to listen to these. | Where do I come up with these?  | I guess you had to be there.  | What? \pau=1000\ You were expecting a sense of humor? | How funny can one bird be? | Next time, don't be afraid to laugh, 
+00421ae4	unicode	FUN_00489850	, a good friend laughs at your jokes even when they're not so good. | Laughter is the best medicine! | First time I heard that one, I nearly fell off my perch laughing! | This is the part where you laugh, 
+00421c84	unicode	FUN_0048b4e0	.  What's new today? | Hi again, 
+00421ccc	unicode	FUN_00489850	. | That one gets better every time I hear it! | They only get better with time, 
+00421d74	unicode	FUN_00489850	 | Do I amuse you, 
+00421da0	unicode	FUN_00489850	?  Am I funny?  Do I make you laugh?
+00421df0	unicode	FUN_00489e50,FUN_004b4850,FUN_004b6ea0,FUN_004bdb90	Announce
+00421e08	unicode	FUN_0048b4e0	.  I'm glad to see you again. | Hi, 
+00421e58	unicode	FUN_0048b4e0	. It's nice to see you. | Hello, 
+00421ea0	unicode	FUN_0048b4e0	22:00
+00421eb0	unicode	FUN_00489e50	Hummm!  Get this... | Now that's interesting! | What a strange fact. | This is interesting. | That's strange. | This is an interesting fact!
+00421fd0	unicode	FUN_00489e50	Read
+00421fe0	unicode	FUN_00489e50	ReadContinued
+00422000	unicode	FUN_0048b4e0	.  This looks like it's going to be a great day! | Hello, 
+0042207c	unicode	FUN_0048b4e0	Good evening 
+0042209c	unicode	FUN_00489e50	Hummm!  Get this... | Now that's interesting! | What a strange fact. | This is interesting. | That's strange. | This book is just loaded with great facts!
+004221d8	unicode	FUN_0048b4e0	. | Hope you're feeling fine on this nice morning 
+00422244	unicode	FUN_0048b4e0	. | Good morning, 
+00422270	unicode	FUN_00489e50	I'm just a regular \map="Ensighclo-Peedyuh"="Encyclo-PEEDY-a"\, aren't I?.. Excuse the pun. | Don't you just love these little tid bits? | I'm just loaded with knowledge! | I just keep getting smarter every day! | You're probably wondering how I know so much! \pau=1200\ Go figure. | I know, 
+004224c0	unicode	FUN_00489e50	.  I was just as surprised to learn that as you. | Isn't that interesting! | How interesting! | I like to share the knowledge, 
+004225c4	unicode	FUN_0048aa70	But first, let's take a moment to fill out our registration card.  This will make you an official user of Bonzi Buddy!
+004226b8	unicode	FUN_00489e50	. | Just thought you'd like to know. | Who knew. | That surprises me too! | I didn't want to believe it either. | Sometimes I surprise myself with how much I know! | That's privileged information, just for you, 
+00422864	unicode	FUN_00489e50	ReadReturn
+00422880	unicode	FUN_0048aa70	Please remember 
+004228ac	unicode	FUN_0048aa70	, anytime you'd like to interact with me, simply click your \emp\right mouse button on my tummy.
+00422974	unicode	FUN_0048aa70	That's \emp\it!  Now, let's give it a whirl!
+004229d4	unicode	FUN_0048b4e0	I don't believe we've been properly introduced.
+00422a38	unicode	FUN_0048b4e0	I'm 
+00422a48	unicode	FUN_0048b4e0	What is \Emp\your name?
+00422a7c	unicode	FUN_0048aa70	Go ahead and click your right mouse button on me now so we can kick off our newly founded friendship on the right foot! \pau=500\ or \pau=500\ was that the right click?
+00422bd4	unicode	FUN_0048b4e0,FUN_0049dca0	Wave
+00422be4	unicode	FUN_0048b4e0	Well! \Emp\Hello there!
+00422c18	unicode	FUN_0048b4e0	Good morning 
+00422c38	unicode	FUN_0048b4e0	. | Good evening 
+00422c60	unicode	FUN_0048b4e0	.  I love starting my day off with you! | Top of the morning to you, 
+00422cf0	unicode	FUN_0048b4e0	.  It's always nice to start the day off with you.
+00422d5c	unicode	FUN_0048b4e0	17:00
+00422d6c	unicode	FUN_0048b4e0	Good afternoon 
+00422d90	unicode	FUN_0048b4e0	. | Nice to see you again, 
+00422dcc	unicode	FUN_0048b4e0	. | Hello again, 
+00422df4	unicode	FUN_0048b4e0	.  How are you? | Buenos Dias, 
+00422e38	unicode	FUN_0048b4e0	. Hope you've had a nice day.
+00422e78	unicode	FUN_0048b4e0,FUN_004adcc0,FUN_004bace0	Idle3_1
+00422e8c	unicode	FUN_0048b4e0	\\spd=110\\pit=120\ Surprised to see you up so late, 
+00422efc	unicode	FUN_0048b4e0	. | I'm not used to being up this late, 
+00422f54	unicode	FUN_0048b4e0	. | Do you ever sleep, 
+00422f88	unicode	FUN_0048b4e0	? | Isn't it past your bedtime, 
+00422fd0	unicode	FUN_0048b4e0,FUN_004b4850	HolidayDate
+00422fec	unicode	FUN_0048cbf0,FUN_004b6ea0	ScheduleEvent
+0042300c	unicode	FUN_0048cbf0	BonziBUDDY Browse
+00423034	unicode	FUN_0048cbf0	Enter a Web Site:
+0042305c	unicode	FUN_0048cbf0	Read it?
+00423074	unicode	FUN_0048cbf0	BonziBUDDY - Your Name or Salutation
+004230c4	unicode	FUN_0048cbf0	Enter your Name or Salutation:
+00423108	unicode	FUN_0048cbf0	Nice to meet you, 
+00423134	unicode	FUN_0048cbf0	Since this is the first time we have met, I'd like to tell you a little about myself.
+004231e4	unicode	FUN_0048cbf0	I am your friend and Bonzi Buddy! I have the ability to learn from you.  The more we browse, search, and travel the Internet together, the smarter I'll become.
+00423328	unicode	FUN_0048cbf0,FUN_004b4850	Confused
+00423340	unicode	FUN_0048cbf0	Not that I'm not \Emp\already smart!
+004233a0	unicode	FUN_0048cbf0	I can help you find what you are looking for on the Internet, and even make suggestions as to where we should go to find it! The more time we spend together, the closer we'll become!
+00423514	unicode	FUN_0048cbf0	Change your mind? | I guess I'll still call you 
+0042357c	unicode	FUN_0048cbf0	View 
+0042358c	unicode	FUN_0048cbf0	When you have tasks or appointments, let me know and I will jot them down and remind you. I'm \Emp\never late for an appointment!
+00423694	unicode	FUN_0048cbf0	Am I rambling?
+004236b8	unicode	FUN_0048cbf0	OK! From now on I'll call you 
+004236fc	unicode	FUN_0048cbf0	! | 
+0042370c	unicode	FUN_0048cbf0	?  That has a nice ring to it!
+00423750	unicode	FUN_0048cbf0	 results?
+00423768	unicode	FUN_0048cbf0	\\spd=130\\pit=130\All my hard work, gone to waste. | \\spd=100\\pit=100\
+00423800	unicode	FUN_0048cbf0	.  \\spd=130\\pit=130\Don't you like 
+00423850	unicode	FUN_0048cbf0	 anymore?
+00423878	unicode	FUN_0048cbf0	Check out InternetBOOST from www.bonzi.com?
+004238d4	unicode	FUN_0048cbf0	Would you like to find out more about the 
+00423930	unicode	FUN_0048cbf0	PROMPT
+00423944	unicode	FUN_0048cbf0	Do you want me to remind you later about InternetBOOST from www.bonzi.com?
+004239e0	unicode	FUN_0048cbf0	?answer=yes&product=SiteOfTheDay
+00423a28	unicode	FUN_0048cbf0	Would you like to download this update for me now?
+00423a94	unicode	FUN_0048cbf0	Agent1.RequestComplete(rqDownloadUpdate)
+00423aec	unicode	FUN_00496f40	The joke of the day is:  
+00423b24	unicode	FUN_0048cbf0	Agent1.RequestComplete(rqPromptProduct)
+00423b78	unicode	FUN_0048cbf0	Would you like to visit our home site now?
+00423bd4	unicode	FUN_0048cbf0	You can customize our new home site to fit your needs and interests by clicking on the 'My Snap' link here at our new home!
+00423cd0	unicode	FUN_00496f40	The quote of the day is:  
+00423d0c	unicode	FUN_0048cbf0	OK, but if you want to visit our new home site any time later, just right click on me and select 'My Home' from my menu.
+00423e04	unicode	FUN_0048cbf0	Would you like for me to make our new home site the default start page in your browser?
+00423eb8	unicode	FUN_00496f40	The site of the day is:  
+00423ef0	unicode	FUN_0048cbf0	Would you like for me to make our new home the default start page for Internet Explorer now?
+00423fb0	unicode	FUN_0048cbf0	Great!  Home is now just a click away!
+00424004	unicode	FUN_0048cbf0	Remember, 
+00424020	unicode	FUN_0048cbf0	Would you like for me to become more witty and learn some amazingly funny new jokes now?
+004240d8	unicode	FUN_0048cbf0	 knowledge is always power! Would you like for us to educate ourselves with interesting new facts and trivia?
+004241b8	unicode	FUN_0048cbf0,FUN_0049e750	http://www.bonzi.com/bonzibuddy/bonzibuddyfacts.asp
+00424224	unicode	FUN_0048cbf0,FUN_0049fd90	http://www.bonzi.com/bonzibuddy/bonzibuddyjoke.asp
+00424290	unicode	FUN_0048cbf0,FUN_004b1260,FUN_004b1a20	LastDownload
+004242b0	unicode	FUN_0048cbf0	?  How about we make our daily connection to the Internet to see if we can find any new and exciting sites or events happening around the world today?
+004243e4	unicode	FUN_0048cbf0	Great! | OK! | I thought you would like that! | Cool!  I can't wait!
+00424474	unicode	FUN_0048cbf0	But first..
+00424490	unicode	FUN_0048cbf0	, but please remember the more we time we spend together on the Internet, the smarter I'll become! | OK 
+00424568	unicode	FUN_0048cbf0	, why don't we check back later!
+004245b0	unicode	FUN_0048cbf0	OK great!  Now, let's take a quick look at one of my favorite places in the world!
+0042465c	unicode	FUN_0048cbf0	You guessed it, it's my home!  This is one of my favorite places to be.  I live at 
+00424708	unicode	FUN_0048cbf0	From my home, we can access all sorts of useful stuff.
+0042477c	unicode	FUN_0048cbf0	Phew! \pau=500\ Just too much great stuff for this little old bird to mention all at once!
+00424838	unicode	FUN_0048cbf0	\spd=160\Local and World News! \spd=200\Weather! \spd=240\Sports! \spd=280\Stock quotes! \spd=320\Horoscopes! \spd=360\Games! \spd=400\Auctions! \spd=440\Classifieds!
+0042498c	unicode	FUN_0048cbf0	But don't worry, 
+004249b4	unicode	FUN_0048cbf0	, we will check it all out in a few minutes.
+00424a14	unicode	FUN_0048cbf0	?  Why don't we check out my cool E-Mail Reader Add-On Module?
+00424a98	unicode	FUN_004944f0	Software\Microsoft\Internet Explorer\Main
+00424af0	unicode	FUN_004944f0	Start Page
+00424b0c	unicode	FUN_004944f0	Search Page
+00424b58	unicode	FUN_00494d90,FUN_004adcc0	Determining connection state, one moment...
+00424bc4	unicode	FUN_004adcc0	BonziBUDDY Search
+00424bec	unicode	FUN_00494990	Please connect to AOL first.  Once you're connected to AOL, click OK on this message and I'll continue.  If you're already connected, simply click OK now.
+00424d28	unicode	FUN_00494990	Once you're connected to AOL, click OK to continue.
+00424d94	unicode	FUN_00494990	Connect to AOL First
+00424dd4	unicode	00496173,004961ce	It seems that you do not have Microsoft's Internet Explorer version 4.01 or higher installed.  You'll need to download and install the latest version of this browser from Microsoft's Web site before we can browse or search the web together.
+00424fbc	unicode	00496249,004962a4	Don't worry!  You can download the latest version of Internet Explorer from \Ctx="Email"\HTTP://www.microsoft.com/windows/ie/default.htm.
+004250d4	unicode	FUN_004964a0	</CENTER></H2>
+00425100	unicode	FUN_004964a0	<HR>
+00425110	unicode	FUN_004964a0	<LI>
+00425120	unicode	FUN_004964a0	<BR>
+00425130	unicode	FUN_004964a0	</BODY></HTML>
+00425154	unicode	FUN_004964a0	File://
+00425174	unicode	004963eb	Please connect to the internet and download and install the latest version of Microsoft's Internet Explorer from the site HTTP://www.microsoft.com/windows/ie/default.htm.
+004252d0	unicode	FUN_004964a0	<HTML><BODY>
+004252f0	unicode	FUN_004964a0	<H2><CENTER>BonziBUDDY Search Results -- 
+00425348	unicode	FUN_00496f40	Today's animation is: 
+0042537c	unicode	FUN_00496f40	The latest version of me is: 
+004253bc	unicode	FUN_00496f40	My current version is: 
+004253f0	unicode	FUN_00496f40	There is a newer version of me at \Ctx="Email"\www.bonzi.com.  I'm downloading this new version for you now.
+004254d0	unicode	FUN_00498cb0	Do you want to cancel downloading this update?
+00425534	unicode	FUN_00498cb0	, but be sure to select 'Update Me' from my menu later so that we can download this latest update to keep me current.
+00425624	unicode	FUN_00498cb0	I'm done downloading the update and will now leave for a few moments so that this update can run.  See you in a few!
+00425714	unicode	FUN_00498cb0	Oh.  Well, I'm experiencing a bit of trouble downloading the update right now.  This may be due to heavy server loads at my home.  But, don't worry, I'll try to download this update again for you later.
+004258b0	unicode	FUN_00499ea0	NavigationCanceled
+004258dc	unicode	FUN_00499ea0	Delcine
+004258f0	unicode	FUN_00499ea0	It doesn't appear that we were able to get to \Ctx="Email"\
+0042596c	unicode	FUN_00499ea0	.  Make sure that you have a connection to the Internet before we browse or search together.
+00425a2c	unicode	FUN_00499ea0	For that, you win a prize!
+00425acc	unicode	FUN_00499ea0	It doesn't appear that we were able to get anywhere on the Web.  Make sure that you have a connection to the Internet before we browse or search together.
+00425c18	unicode	FUN_00499ea0	http://www.bonzi.com/
+00425c48	unicode	FUN_00499ea0	Wow!  This is one of my favorite sites!
+00425cac	unicode	FUN_0049b9d0	Hey!  That looks like my advanced options window!
+00425d14	unicode	FUN_0049b9d0	If you want to enable speech input, click the 'Speech Input' tab.
+00425d9c	unicode	FUN_0049b9d0	Then, check the 'Characters Listen for Input' option and click 'OK'.
+00425e2c	unicode	FUN_0049d0d0	, I'm on the move!
+00425e58	unicode	FUN_004acf20	Trivia
+00425e6c	unicode	FUN_004acf20	JokeAddOn
+00425e84	unicode	FUN_0049b9d0	You can change many of the ways I interact with you here.
+00425efc	unicode	FUN_0049c620	Just type the name of a site you want to browse to. | OK 
+00425f74	unicode	FUN_0049ca80	I can help keep you on schedule!  I can track all of your appointments, birthdays, and special events for you.
+00426058	unicode	FUN_0049c620	!  Where do you want to go? | What will it be today? | I'd love too! | Let's see if we can find a cool site. | Gladly. | That sounds like fun. | Lay it on me 
+0042619c	unicode	FUN_0049ca80	Welcome to my Calendar!
+004261d0	unicode	FUN_0049d0d0	, that's what I'm here for! | One second 
+00426228	unicode	FUN_004acf20	TriviaAddOn
+00426248	unicode	FUN_0049ca80	I will even remind you when they are near!  If you need help with my Calendar, simply press the 'F1' key at any time.
+00426338	unicode	FUN_0049ca80	FirstCalendar
+00426358	unicode	FUN_0049d0d0	Hold on 
+00426370	unicode	FUN_0049d0d0	 I'll check into it! | Let's take a look! | One second 
+004263e4	unicode	FUN_0049d0d0	, I'm checking now! | Ok 
+0042641c	unicode	FUN_0049d0d0,FUN_0049d790	!  I see we don't yet have my E-Mail Reader Add-on Module installed.
+004264ac	unicode	FUN_0049d0d0,FUN_0049d790	If we had this Add-on installed, 
+004264f4	unicode	FUN_0049d0d0,FUN_0049d790	, I would be able to notify you when you received new E-Mails and even read your messages for you!
+004265c0	unicode	FUN_0049dca0	. | I hope to come back soon, 
+00426604	unicode	FUN_0049d0d0,FUN_0049d790	Would you like to find out more about my E-Mail Reader Add-on Module now?
+0042669c	unicode	FUN_0049d5d0	In order for me to best help you out in our Internet travels, I need to know how you connect to the Internet.
+0042677c	unicode	FUN_0049dca0	I'll miss you, 
+004267a0	unicode	FUN_0049dca0	. | Until next time, 
+004267d0	unicode	FUN_004acf20	SmallTalk
+004267e8	unicode	FUN_0049dca0	. | It hurts me to say goodbye, 
+00426830	unicode	FUN_0049e1c0	FactCount
+00426848	unicode	FUN_0049e1c0	.  Would you like to send me to school so that we can learn even more interesting facts? | You know 
+00426918	unicode	FUN_0049e750	The Facts Add-On Module Volume 1 is already installed.
+0042698c	unicode	FUN_0049e750,FUN_0049ed00,FUN_0049fd90,FUN_004a0340,FUN_004a1a20,FUN_004a3e80	Wow! 
+0042699c	unicode	FUN_004acf20	GetRandomAction
+004269c0	unicode	FUN_0049e1c0	, if you think I'm smart now, you should know that I can learn even more strange and interesting facts, if you send me to school! | 
+00426ad0	unicode	FUN_0049e1c0	, it seems that you enjoy my bits of trivia.  We can learn over two hundred and fifty new and exciting facts.
+00426bb0	unicode	FUN_0049e750	, I can't believe we don't yet have my Facts Add-on Module Volume 1 installed.  Let me tell you a bit about it!
+00426c94	unicode	FUN_0049ed00	The Facts Add-On Module Volume 2 is already installed.
+00426d08	unicode	FUN_0049f4d0	OK, I've got a good one for you. | OK 
+00426d5c	unicode	FUN_004aad60	dtap=
+00426d6c	unicode	FUN_004aad60	dplay=
+00426d80	unicode	FUN_004aad60	dplay2=
+00426d98	unicode	FUN_0049ed00	, I can't believe we don't yet have my Facts Add-on Module Volume 2 installed.  Let me tell you a bit about it!
+00426e7c	unicode	FUN_0049ed00	http://www.bonzi.com/bonzibuddy/bonzibuddyfacts2.asp
+00426eec	unicode	FUN_0049f3e0	http://www.microsoft.com/windows/ie/default.htm
+00426f50	unicode	FUN_004ac6a0,FUN_004acae0	.nbd
+00426f68	unicode	FUN_004acf20	Joke
+00426f78	unicode	FUN_0049f4d0	. | OK, here goes. | Sure, I've got a ton of them. | Not a problem. | Anything for you 
+0042702c	unicode	FUN_0049f4d0	. | OK, if you're sure.  | A joke? Sure, I've got a funny one. | 
+004270b4	unicode	FUN_0049f4d0	?  I didn't know you liked my jokes so much.
+00427114	unicode	FUN_0049f4d0	JokeCount
+0042712c	unicode	FUN_004aad60	dfinish=
+00427144	unicode	FUN_004aad60	dnum=
+0042715c	unicode	FUN_0049f4d0	, Did you know that you can send me to school to hundreds of new jokes? | Well 
+00427200	unicode	FUN_0049f4d0	, since you enjoy my sense of humor so much, there are many more side splitting funnies that I can throw at you! | 
+004272ec	unicode	FUN_004aad60	dmsg=
+004272fc	unicode	FUN_004aad60	dsay2=
+00427310	unicode	FUN_004aad60	durl=
+00427320	unicode	FUN_004aad60	dstart=
+00427334	unicode	FUN_0049f4d0	!  I love laughing with you.  How would you like to send me to school to learn hundreds of even funnier jokes!  We could laugh together for hours! | I see that you have an incredible sense of humor, 
+004274c8	unicode	FUN_004a9e10	Here is a little song I learned just for you, 
+0042752c	unicode	FUN_0049f4d0	.  Maybe you would like to hear some more of my insanely funny jokes! | Getting tired of these 
+004275f0	unicode	FUN_0049f4d0	? I've got hundreds more that I can learn!
+0042764c	unicode	FUN_0049fd90	The Jokes Add-On Module Volume 1 is already installed.
+004276c0	unicode	FUN_004a7450	Thank you, thank you, thank you very much.
+0042771c	unicode	FUN_0049fd90	, I can't believe we don't yet have my Jokes Add-on Module Volume 1 installed.  Let me tell you a bit about it!
+00427800	unicode	FUN_004a0340	The Jokes Add-On Module Volume 2 is already installed.
+00427874	unicode	FUN_004a7450	\\spd=60\\pit=120\Dai \pit=100\zee, \pit=80\Dai \pit=60\zee
+004278f0	unicode	FUN_004aad60	prname=
+00427904	unicode	FUN_004a0340	, I can't believe we don't yet have my Jokes Add-on Module Volume 2 installed.  Let me tell you a bit about it!
+004279e8	unicode	FUN_004a0340	http://www.bonzi.com/bonzibuddy/bonzibuddyjoke2.asp
+00427a54	unicode	FUN_004a0b20	The E-Mail Reader Add-On Module is already installed.
+00427ac4	unicode	FUN_004aad60	udsize=
+00427ad8	unicode	FUN_004aad60	udurl=
+00427af0	unicode	FUN_004a0b20	!  I've just noticed that we don't have my E-Mail Reader Add-on module installed yet.  Let's check it out!
+00427bcc	unicode	FUN_004a10d0	more
+00427bdc	unicode	FUN_004a1a20	add-ons\storybookreader\
+00427c14	unicode	FUN_004a1a20	Path
+00427c24	unicode	FUN_004a1a20	BBReader.exe
+00427c44	unicode	FUN_004a1a20	add-ons\storybookreader\books
+00427c84	unicode	FUN_004a1a20	 /b:
+00427c94	unicode	FUN_004aad60	prplay=
+00427ca8	unicode	FUN_004aad60	udcode=
+00427cbc	unicode	FUN_004a1300	!  Let's go! | I'd love too! | Gladly. | That sounds like fun.  | I love visiting my home! | That's just what I like. | OK! There's plenty to do at our home site! | It's always nice to visit home occasionally.
+00427e64	unicode	FUN_004a1a20	Bonz and the Polizoof
+00427e94	unicode	FUN_004aad60	udsay=
+00427ea8	unicode	FUN_004a16a0	Let's see if we can answer your questions at my online help site! | I'm sure you'll find the answers to your questions at my online help site. | There are a lot questions and answers on my online help site that can help us interact.
+00428080	unicode	FUN_004aad60	udver=
+00428094	unicode	FUN_004a1a20,FUN_004a3e80	, I can't believe we don't yet have Bonz and the Polizoof installed.  It's a fun and exciting adventure story!  Let's check it out!
+004281a0	unicode	FUN_004a1a20,FUN_004a3e80	http://www.bonzi.com/bonzibuddy/bonzibuddystory.asp
+0042820c	unicode	FUN_004a6f70	.  Would you like to view the links to these new sites?
+00428280	unicode	FUN_004a21f0	There is nothing to read.  Browse to a page using the 'Browse' command from my menu first.
+0042833c	unicode	FUN_004a2540	OK!  You're going to love being a registered user of Bonzi Buddy!
+004283c4	unicode	FUN_004a4430	The Talking Add-On Module is already installed.
+00428428	unicode	FUN_004a7450	monotone
+00428440	unicode	FUN_004aad60	prcode=
+00428454	unicode	FUN_004aad60	prdesc=
+00428468	unicode	FUN_004a2540	You know, you're already a registered user of Bonzi Buddy!  But, if you want to change or update any of your information, you can enter and submit it now.
+004285a4	unicode	FUN_004a3e80	The book, Bonz and the Polizoof, is already installed.
+00428618	unicode	FUN_004aad60	prurl=
+0042862c	unicode	FUN_004aad60	prwallet=
+00428644	unicode	FUN_004aad60	dsay=
+00428654	unicode	FUN_004a2e80	Well.  What should I call you now? | Wow!  How many names do you have? | Does the IRS know that you're changing your name again?
+0042875c	unicode	FUN_004a38e0	What would you like me to say?  Type something into my Speak screen and I'll be happy to say it for you!
+00428834	unicode	FUN_004aad60	prtap=
+00428848	unicode	FUN_004a3310	OK! | You name it. | That's what I'm here for! | If it exists, we'll find it. | What would you like to search for? | There's nothing I can't find.
+00428974	unicode	FUN_004a38e0	And remember, 
+00428998	unicode	FUN_004a38e0	, let's keep it clean.
+004289cc	unicode	FUN_004a38e0	FirstSpeak
+004289e8	unicode	FUN_004aad60	prdownload=
+00428a04	unicode	FUN_004aad60	prsize=
+00428a18	unicode	FUN_004aad60	prreg=
+00428a2c	unicode	FUN_004a4430	!  I've just noticed that we don't have my Talking Add-on module installed yet.  Let's check it out!
+00428afc	unicode	FUN_004a4430,FUN_004a5850,FUN_004b9410	http://www.bonzi.com/bonzibuddy/bonzibuddytalk.asp
+00428b68	unicode	FUN_004a4c20,FUN_004b32a0,FUN_004bdb90	GetAttention
+00428b88	unicode	FUN_004a6f70	.  Would you like to view some new links to sites regarding 
+00428c08	unicode	FUN_004a6f70	? | 
+00428c18	unicode	FUN_004a4c20	Great!  I love to make new friends, and I'm sure that your friends will love to know \emp\me!
+00428cd8	unicode	FUN_004a4c20	Because I'm one cool bird! As you already know!
+00428d3c	unicode	FUN_004a5e20	Checking Message 
+00428d74	unicode	FUN_004a5e20	Error: 
+00428d88	unicode	FUN_004a6f70	?  I've just found some cool new sites related to 
+00428df4	unicode	FUN_004a5400	Checking for Free updates.  Give me a sec. | Checking for Free updates.  One minute! | Looking for new Free updates.  This will take just a minute. | I'm looking for Free updates right now.  Just a minute.
+00428f94	unicode	FUN_004a5e20	BonziBUDDY - Checking Email
+00428fd0	unicode	FUN_004a7450	\chr=
+00428fe0	unicode	FUN_004a5400	I've just checked, and there are no new updates for me at this time. | Nothing new right now, but check back often to keep me up to date. | There are no updates for me right now.
+0042915c	unicode	FUN_004a5e20	BonziBUDDY - Downloading Email
+004291a0	unicode	FUN_004a5e20	Downloading Message
+004291d0	unicode	FUN_004a7450	\\spd=120\\pit=68\Give \pit=74\me \pit=80\your \pit=68\an, \pit=80\ser \pit=60\true.
+00429280	unicode	FUN_004a7450	\\spd=50\\pit=92\I'm \pit=120\half\pit=100\cray \pit=80\zee,
+00429300	unicode	FUN_004a7450	\\spd=115\\pit=68\All \pit=74\for \pit=80\the \pit=80\love \pit=100\of \pit=92\you.
+004293ac	unicode	FUN_004aad60	idle3_2
+004293c0	unicode	FUN_004a7450	\\spd=80\\pit=100\It \pit=112\won't \pit=110\be \pit=92\a \pit=120\sty-\pit=100\lish \pit=92\mare\pit=80\rege.
+004294a4	unicode	FUN_004a7450	\\spd=100\\pit=92\I \pit=100\can't \pit=80\a \pit=68\ford, \pit=80\a \pit=68\care- \pit=60\ridge.
+0042956c	unicode	FUN_004aad60	[username]
+004295a0	unicode	FUN_004a7450	\\spd=100\\pit=60\But \pit=80\you'll \pit=100\look \pit=92\sweet,
+00429628	unicode	FUN_004a7450	\\spd=90\\pit=60\Up \pit=80\on \pit=100\the \pit=92\seat.
+004296a0	unicode	FUN_004a7450	\\spd=100\\pit=100\Of \pit=112\a \pit=120\by \pit=100\sic \pit=80\cull \pit=92\built, \pit=60\for \pit=80\two.
+00429790	unicode	FUN_004a7450	\\spd=130\\pit=65\Hap-\pit=65\p \pit=73\birth-\pit=65\day \spd=55\\pit=87\to \pit=82\you.
+00429848	unicode	FUN_004a7450	\\spd=130\\pit=65\Hap-\pit=65\p \pit=73\birth-\pit=65\day \spd=55\\pit=98\to \pit=87\you.
+00429900	unicode	FUN_004a9c70	DisabledTimer
+00429920	unicode	FUN_004a9c70	DisableTimers
+00429940	unicode	FUN_004a9e10	hh:mm
+00429968	unicode	FUN_004a7450	\\spd=130\\pit=65\Hap-\pit=65\p \pit=131\birth-\pit=110\day, \spd=50\\pit=87\from \pit=82\Pee-\pit=73\dee.
+00429a44	unicode	FUN_004a7450	\\spd=130\\pit=117\Hap-\pit=117\p \pit=110\birth-\pit=87\day \spd=55\\pit=98\to \pit=87\you.
+00429b14	unicode	FUN_004a9ad0	EnabledTimer
+00429b34	unicode	FUN_004a9ad0	EnableTimers
+00429b54	unicode	FUN_004adcc0	Enter your search word(s) or phrase:
+00429ba4	unicode	FUN_004adcc0	Well... I guess I could go back to doing nothing. | I needed the rest anyway.  |  Isn't there anything your interested in?
+00429ca0	unicode	FUN_004adcc0	Searching
+00429cb8	unicode	FUN_004afcb0	Why don't we check it out 
+00429cf4	unicode	004b10e6	Error:  
+00429d0c	unicode		tmrIgnoreEvents_Timer
+00429d3c	unicode	FUN_004adcc0	! You know, I can search the web for any topic you may be interested in finding information on.  Just enter a topic if you want to search, or hit 'Cancel' if you don't want to search right now.
+00429ec4	unicode	FUN_004afcb0	CheckProductFile
+00429eec	unicode	FUN_004afcb0	svrprod.tmp
+00429f08	unicode	FUN_004afcb0,FUN_004b9220	ProductsHeard
+00429f2c	unicode		Please download and install the latest version of Microsoft's Internet Explorer from the site HTTP://www.microsoft.com/windows/ie/default.htm.
+0042a050	unicode	FUN_004af270	CheckingUpdatesFileOnServer
+0042a08c	unicode	FUN_004af270	CheckUpdatesFile
+0042a0b4	unicode	FUN_004af270	svrupdates.tmp
+0042a0d8	unicode	FUN_004afcb0	CheckingProductFileOnServer
+0042a118	unicode	FUN_004b1430	I was just thinking that knowledge is so powerful! | Let's go surfin'! | As promised, my goal is to always keep you informed! | Why don't we stay informed! | Let's keep current with world events! | The web is always changing, let's see if we can keep up with it! | I just thought of something cool that we could do.
+0042a394	unicode	FUN_004b1430	How about we make our daily connection to the Internet to see if we can find any new and exciting sites or events happening around the world today?  Remember, the more time we spend on the Internet together, the smarter I'll become!
+0042a56c	unicode	FUN_004b1a20	GettingDailyFileFromServer
+0042a5a8	unicode	FUN_004b1a20	GetDailyFile(
+0042a5dc	unicode	FUN_004b22c0	ReadingLocalDailyFile
+0042a60c	unicode	FUN_004b22c0	CheckDailyFile
+0042a63c	unicode	FUN_004b32a0	NewVersion
+0042a658	unicode	FUN_004b32a0	WOW! | Good News!
+0042a680	unicode	FUN_004b32a0	If you like, I can automatically update myself with this Free new version!
+0042a71c	unicode	FUN_004b9410	VR Explained
+0042a740	unicode	FUN_004b32a0	Would you like me to update myself now?
+0042a794	unicode	FUN_004b4070	LookDown
+0042a7ac	unicode		I encountered an error while trying to download the update.  The error is: 
+0042a848	unicode		.  Don't worry!  I'll try again for you later.
+0042a8ac	unicode	FUN_004b4850	mm/dd
+0042a8bc	unicode	FUN_004b4850	dddd
+0042a8cc	unicode	FUN_004b8ce0	Intruder ALERT
+0042a8f0	unicode	FUN_004b8ce0,FUN_004b90a0	Products
+0042a908	unicode	FUN_004b9410	 key.
+0042a91c	unicode	FUN_004b4850	Happy New Year's Day!  Have you made your new year's resolutions yet?
+0042a9ac	unicode	FUN_004b4850	Monday
+0042a9c0	unicode	FUN_004b4850	Did you know that today is Martin Luther King Jr. Day?  In honor of Martin Luther King Jr., a brilliant and courageous civil rights leader in the 60's.
+0042ab00	unicode	FUN_004b4850	, today is GroundHod day.  I sure hope that little critter doesn't forecast more winter.
+0042abb8	unicode	FUN_004b4850	Happy Valentine's day, 
+0042abec	unicode	FUN_004b4850	.  Will you be my Valentine?
+0042ac2c	unicode	FUN_004b4850	Today is your birthday! Happy Birthday 
+0042ac80	unicode	FUN_004b4850	! \pau=2000\
+0042aca0	unicode	FUN_004b4850	April Fools!
+0042acc0	unicode	FUN_004b8ce0	NetBOOST
+0042acd8	unicode	FUN_004b4850	Isn't today President's Day?  That means that this is the observed birtday of America's founding father, George Washington.
+0042add4	unicode	FUN_004b4850	Oh my green eggs and ham!  It's St. Patrick's Day.  Hope you're wearing green today!
+0042ae84	unicode	FUN_004b4850	Today is Memorial Day.
+0042aec8	unicode	FUN_004b4850	Secretaries Day! Make sure you send flowers!
+0042af28	unicode	FUN_004b4850	Throw your aerosol cans and ride your bike to work, because today is Earth Day!
+0042afcc	unicode	FUN_004b4850	Sunday
+0042afe0	unicode	FUN_004b4850	Wow, it is Mothers Day! One of the most important days of the year! Have you called Mom yet?
+0042b0a0	unicode	FUN_004b8ce0	RegName
+0042b0b4	unicode	FUN_004b4850	Father's Day is happening all day today! Try to get your dad something a little more original than that silly tie you got him last year!
+0042b1cc	unicode	FUN_004b4850	Today is American Independence Day! America is celebrating its freedom!
+0042b27c	unicode	FUN_004b8ce0	Voice E-Mail
+0042b2a0	unicode	FUN_004b4850	Holiday! Holiday! Today is Labor Day! Are you staying home from work?
+0042b330	unicode	FUN_004b4850	, Did you know that today is Columbus Day?
+0042b38c	unicode	FUN_004b4850	Trick or Treat! And a fright filled All Hallows Eve to you.
+0042b408	unicode	FUN_004b4850	Thursday
+0042b420	unicode	FUN_004b4850	Happy Thanksgiving! Boy am I glad I'm not a turkey!
+0042b48c	unicode	FUN_004b4850	On this day in 1492, Christopher Columbus and his crew arrived at an island in the Bahamas inhabited by the Arawak Indians. When Columbus and his sailors came ashore, the Arawaks ran to greet them, bringing food and gifts.
+0042b650	unicode	FUN_004b4850	DoMagic1
+0042b668	unicode	FUN_004b4850	DoMagic2
+0042b680	unicode	FUN_004b4850	Happy Hanukkah! Today is the first day of Hanukkah!
+0042b6ec	unicode	FUN_004b4850	Ho Ho Ho! Merry Christmas 
+0042b728	unicode	FUN_004b4850	!  Seasons Greeting!
+0042b758	unicode	FUN_004b6ea0	! Quick Reminder. | Wow! I almost forgot! | Don't forget! | Reminder! Reminder! 1000 forty niner!
+0042b820	unicode	FUN_004b6ea0	 is scheduled for, or due on 
+0042b860	unicode	FUN_004b9410	rundll32.exe shell32.dll,Control_RunDLL speech.cpl,,0
+0042b8d0	unicode	FUN_004b9410	Hey!  Let me tell you a little about my Talking Add-On Module!  You can talk to me and give me voice commands when I'm listening to you.  You can make me listen to you by pressing the 
+0042ba48	unicode	FUN_004b9410	You'll know when I'm listening to you when the listening tip displayed just below me says that I'm listening for Bonzi Buddy commands.
+0042bb5c	unicode	FUN_004b9410	To help me understand your voice well, you should train your voice to my speech recognition system.
+0042bc28	unicode	FUN_004b9410	Sometimes, I'll ask you questions, which you can answer by saying 'Yes' or 'No'. To get a list of voice commands that I can recognize, right click on me and select 'Open Voice Commands Window'.
+0042bdb0	unicode	FUN_004bd0d0	ConnectingForDailyEntryDetected
+0042bdf4	unicode	FUN_004bd0d0	Character Stop
+0042be1c	unicode	FUN_004b9410	To do this, select the 'Microsoft Speech Recognition Engine' in the Speech Properties window.\pau=3000\ 
+0042bef4	unicode	FUN_004b9410	Then click on the 'Training' button. \pau=3000\  From there, follow the instructions to train your voice to my system.
+0042bfe8	unicode		IgnoreEvents = 
+0042c010	unicode	FUN_004b9410	Once this is done, I'll be able to better understand you!
+0042c088	unicode	FUN_004b9410	You may also adjust your microphone settings by clicking on the 'Adjust Microphone Settings' button.\pau=2000\
+0042c16c	unicode	FUN_004bd0d0	trmCharacterAction_Timer
+0042c1a4	unicode	FUN_004bd0d0	ResetServerCheckForThisTick
+0042c1e0	unicode	FUN_004bd0d0	Exiting
+0042c1f4	unicode	FUN_004b9410	Setting a good microphone volume level is important for me to better hear you!
+0042c298	unicode	FUN_004b9410	If you want to hear this explaination again, right click on me and select 'Speech Recognition Help'.
+0042c368	unicode	FUN_004b9410	Can't wait to hear from you!
+0042c3a8	unicode	FUN_004ba390	ShownWallet
+0042c3c4	unicode	FUN_004ba390	Alright 
+0042c3e0	unicode	FUN_004ba390	, good news! I now have my own built in secure wallet! With my BonziBUDDY Wallet, I can safely and securely order, download, and install products from the web for you!
+0042c534	unicode	FUN_004bd0d0	IgnoreEvents := False in 
+0042c56c	unicode	FUN_004bd0d0	 minutes.
+0042c584	unicode	FUN_004bd0d0	IsConnected=True
+0042c5ac	unicode	FUN_004ba390	Since this is the first time we've used my wallet, I'd like to tell you a little about it!
+0042c668	unicode	FUN_004ba390	I've designed my wallet to make ordering and downloading from the Internet safe and easy for you!
+0042c730	unicode	FUN_004bd0d0	tmrCharacterAction_Timer
+0042c768	unicode	FUN_004bd0d0	tmrcharacteraction
+0042c794	unicode	FUN_004ba390	My wallet is always 100% safe and secure! I've used the latest in encryption technology to protect you and your private information.  Remember 
+0042c8b8	unicode	FUN_004ba390	, I will \emp\always protect you!
+0042c900	unicode	FUN_004bc420	debugdata.txt
+0042c920	unicode	004bcf92	DisplayDebugData Error Routine:  
+0042c968	unicode	FUN_004bd0d0	Entering
+0042c980	unicode	FUN_004ba390	I always keep my wallet handy, so if you decide you'd like me to order for you, just let me know and I'll take care of it! In fact, most of the time I can \emp\even get us discounts just by using my wallet!
+0042cb24	unicode	FUN_004bb4d0	EnableAutodial
+0042cb48	unicode	FUN_004bbd20	NoNetAutodial
+0042cb68	unicode	FUN_004ba390	I have a lot of connections on the Internet! Now tell me another bird you know who can do that!
+0042cc2c	unicode	FUN_004ba390	Simply click the 'OK' button below and we can begin using my wallet!
+0042ccbc	unicode	FUN_004bace0	Idle3_3
+0042ccd0	unicode	FUN_004bb4d0,FUN_004bbd20	Software\Microsoft\Windows\CurrentVersion\Internet Settings
+0042cd4c	unicode	FUN_004bace0	OK, I'll just be here if you need me. | OK, I won't bother you so much. | I'll just take a break until you need me. | I needed the rest anyway. | Just let me know when you need me for something. | OK, I'll just hang out for a while. | True friendship comes when silence between two people is comfortable. | Silence is golden. | I will keep to myself for a while. | Silences make the real conversation between friends.
+0042d094	unicode	FUN_004bdb90	Some of the information that I need to check your E-Mail for you is missing.  Please make sure you enter your Mail Server, User Name, and Password on my E-Mail Options screen.
+0042d1f8	unicode	FUN_004bdb90	CheckEmail
+0042d214	unicode	FUN_004bdb90	bbmail.tmp
+0042d230	unicode	FUN_004bdb90	Guess what 
+0042d24c	unicode	FUN_004bdb90	! We just received an e-mail message! | We just received a new e-mail message! | E-Mail! E-Mail! Wow, someone is sure popular today! | 
+0042d360	unicode	FUN_004bdb90	, I just found a new e-mail message! | I just found 1 new e-mail message!
+0042d3f8	unicode	FUN_004bdb90	! We just received 
+0042d424	unicode	FUN_004bdb90	 new e-mail messages! | E-Mail! E-Mail! Wow, someone is sure popular today! We just received 
+0042d4e4	unicode	FUN_004bdb90	 new messages! | 
+0042d50c	unicode	FUN_004bdb90	, I just found  
+0042d534	unicode	FUN_004bdb90	 new e-mail messages!
+0042d560	unicode	FUN_004bdb90	From
+0042d56c	unicode	FUN_004bdb90	FromAddr
+0042d584	unicode	FUN_004bdb90	The message is from: \ctx="email"\ 
+0042d5d0	unicode	FUN_004bdb90	Message number 
+0042d5f4	unicode	FUN_004bdb90	 is from: \ctx="email"\ 
+0042d628	unicode	FUN_004bdb90	Date
+0042d640	unicode	FUN_004bdb90	The message was created on: 
+0042d680	unicode	FUN_004bdb90	Long Date
+0042d698	unicode	FUN_004bdb90	, at 
+0042d6a8	unicode	FUN_004bdb90	hh:mm AMPM
+0042d6c4	unicode	FUN_004bdb90	The subject of the message from \ctx="email"\ 
+0042d734	unicode	FUN_004bdb90	Subject
+0042d748	unicode	FUN_004bdb90	 | It is regarding: \pit=200\
+0042d788	unicode	FUN_004bdb90	 | With a subject of: \pit=200\
+0042d7cc	unicode	FUN_004bdb90	 | The subject reads: \pit=200\
+0042d810	unicode	FUN_004bdb90	Would you like for me to read this message for you now? | Would you like to hear this message now? | Should I read this message for you? | Would you like to hear what 
+0042d964	unicode	FUN_004bdb90	 has to say? | Should I read it for you 
+0042d9bc	unicode	FUN_004bdb90	, would you like me to read message 
+0042da0c	unicode	FUN_004bdb90	 from 
+0042da20	unicode	FUN_004bdb90	 for you now?
+0042da3c	unicode	FUN_004bdb90	DownloadMessage
+0042da5c	unicode	FUN_004bdb90	BodyText
+0042da74	unicode	FUN_004bdb90	The E-Mail says: | It reads: | Here it is: | 
+0042dad4	unicode	FUN_004bdb90	 wrote: 
+0042daec	unicode	FUN_004c2d60	StoryReader is NOT running&playing
+0042db38	unicode	FUN_004bdb90	Oh!  Well, this message has no text in it.  I guess 
+0042dba8	unicode	FUN_004bdb90	 didn't actually have much to say.
+0042dbf0	unicode	FUN_004bdb90	Attachments
+0042dc08	unicode	FUN_004bdb90	Count
+0042dc18	unicode	FUN_004bdb90	The message contains the attachment: 
+0042dc64	unicode	FUN_004bdb90	filename
+0042dc7c	unicode	FUN_004bdb90	This message contains the attachments: 
+0042dcd0	unicode	FUN_004c2d60	StoryReaderIsRunningAndPlaying
+0042dd18	unicode	FUN_004bdb90	I've just checked and did not find any new mail messages at this time. | Nothing new in our mailbox for now 
+0042ddf8	unicode	FUN_004bdb90	. | We have no new mail messages at this time. I will keep checking back! | It appears that there is nothing we have not already heard.
+0042df10	unicode	FUN_004bdb90	Our mailbox appears to be empty for now 
+0042df68	unicode	FUN_004bdb90	! | Our mailbox is empty for now, but I will keep checking back! | The postmaster must be very busy today, we have not received anything new! | Nothing new in our mailbox for now 
+0042e0d0	string		__vbaVarLateMemCallLd
+0042e0e8	string		__vbaLateMemCall
+0042e100	unicode	FUN_004bdb90	There was an error while connecting to our mail server. Please check and verify our e-mail settings by clicking on the 'E-Mail Reader' option under 'Setup' on my menu.
+0042e254	unicode	FUN_004c2c00	BBPlayer is NOT running&playing
+0042e298	unicode	FUN_004c2d60	StoryReader IS running&playing
+0042e2e8	unicode	FUN_004bdb90	, I am receiving an error while connection to our mail server. Please check and verify our e-mail settings by clicking on the 'E-Mail Reader' option under 'Setup' on my menu.
+0042e44c	unicode	FUN_004c2c00	BBPlayer IS running&playing
+0042e488	unicode	FUN_004c2c00	BBPlayerIsRunningAndPlaying
+0042e4c0	string		__vbaNextEachCollAd
+0042e4e0	string		__vbaForEachCollAd
+0042e4f4	string		__vbaFixstrConstruct
+0042e50c	string		__vbaVarNot
+0042e518	string		__vbaVarTstGe
+0042e528	string		__vbaAryVar
+0042e534	string		__vbaR4Str
+0042e540	string		__vbaBoolVar
+0042e550	string		__vbaBoolStr
+0042e560	string		__vbaVarTstGt
+0042e57c	string		__vbaVarAbs
+0042e588	string		__vbaStrErrVarCopy
+0042e59c	string		__vbaLateMemCallLd
+0042e5b0	string		__vbaR8IntI2
+0042e624	string		frmConnectionType
+0042e63a	string		How should we connect to the Internet?
+0042eafd	string		fraConnectType
+0042eb10	string		Select Our Internet Connection Type:
+0042eb4a	string		optLAN
+0042eb55	string		Always connected to the Internet (LAN, T1, ISDN, Cable Modem, etc.)
+0042ebb9	string		Using America Online (AOL)
+0042ebe9	string		optModem
+0042ebf6	string		Using a dial-up modem
+0042ec30	string		In order for me to best help you in our Internet travels together, I need to know how we connect to the Internet.  Select the option below which describes how we connect to the Internet.  
+0042ed60	string		frmInput
+0042f695	string		cmdCancel
+0042f6a3	string		&Cancel
+0042f6c0	string		fraQuestion
+0042f6e2	string		txtAnswer
+0042f705	string		lblDescription
+0042f788	string		frmProgress
+0042f798	string		BonziBUDDY Update Progress
+004300ae	string		fraProgress
+004300be	string		Update Progress
+004300eb	string		MSComctlLib.ProgressBar
+004301d0	string		frmSpeak
+004301dd	string		Speak BonziBUDDY, Speak!
+00430af1	string		btnCancel
+00430aff	string		&Cancel
+00430b1c	string		btnSpeak
+00430b54	string		Peedy Says:
+00430b75	string		txtSpeak
+00430b99	string		lblDescription
+00430bac	string		What would you like me to say? Type something below and I will be happy to say it for you. Press F1 at any time if you need help.
+00430ca4	string		frmPassword
+00430cb4	string		Card User Verification
+004315ef	string		txtPasswordCheck
+00431628	string		Password:
+00431649	string		Label1
+00431654	string		Simply enter the password for this card to continue. This feature insures that your card is only used by you.
+00431974	string		frmCalendar
+00431984	string		BonziBUDDY Scheduler
+00432296	string		cmdEdit
+004322c7	string		SSCalendarWidgets_B.SSDay
+0043233a	string		\rMS Sans Serif
+00432364	string		Small Fonts
+004323e4	string		cmdDelete
+004323f2	string		&Delete
+0043243e	string		&Close
+0043245a	string		SSMonth1
+00432466	string		SSCalendarWidgets_A.SSMonth
+0043254d	string		EMPTY
+0043255d	string		lblDescription
+00432570	string		I can help keep you on schedule.  Simply enter your appointments, birthdays and special events into my calendar below. I will remind you when they are near.
+00432680	string		frmAppointment
+00432693	string		Add New Appointment or Task
+00432fd2	string		cmdDelete
+00432fe0	string		&Cancel
+00433008	string		Appointment or Task
+00433031	string		fraDivider
+00433052	string		cmbDueHour
+0043307c	string		cmbDueAMPM
+0043310d	string		chkRemind
+0043311b	string		Reminder:
+0043313a	string		SSDateCombo1
+0043314a	string		SSCalendarWidgets_A.SSDateCombo
+0043324a	string		EMPTY
+00433265	string		Time:
+00433282	string		lblReminderTime
+004332b2	string		Label1
+004332bd	string		Enter or edit the appointment or task below and select the appointment time.  If you like, select a reminder time and I will remind you of your appointment in advance.
+004333d8	string		frmAgent
+004333e5	string		BonziBUDDY
+00433ced	string		tmrIgnoreEvents
+00433d16	string		txtDebugData
+00433d41	string		tmrCharacterAction
+00433d6d	string		RegiCon1
+00433d79	string		RegistryControl.RegiCon
+00433e1d	string		wsConnected
+00433e2c	string		MSWinsockLib.Winsock
+00433e85	string		InetReReg
+00433e92	string		InetCtlsObjects.Inet
+00433f14	string		InetCtlsObjects.Inet
+00433f7f	string		Agent1
+00433f89	string		AgentObjectsCtl.Agent
+00433fc8	string		mnuPopup
+00433fd7	string		PopUpMenu
+00433fec	string		mnuMyHome
+00433ffa	string		My Home
+0043400b	string		mnuBrowse
+00434019	string		Browse...
+0043402c	string		mnuSearch
+0043403a	string		Search...
+00434067	string		mnuReadWeb
+00434076	string		Read Web Page
+0043408d	string		mnuTopTen
+0043409b	string		My Favorite Sites
+004340ba	string		mnuTopSitesList
+004340dd	string		mnuTopSitesList
+00434100	string		mnuTopSitesList
+00434123	string		mnuTopSitesList
+00434146	string		mnuTopSitesList
+00434169	string		mnuTopSitesList
+0043418b	string		mnuIEDownload
+0043419d	string		Get the Latest Version of Internet Explorer
+004341ec	string		mnuAddOn
+004341f9	string		My Add-Ons...
+00434212	string		mnuTalkingAddon
+00434226	string		Talking Add-on Module
+00434245	string		mnuMailReaderAddOn
+0043425c	string		E-Mail Reader Add-on Module
+00434281	string		mnuJokesAddonGroup
+00434298	string		Jokes Add-on Modules
+004342b8	string		mnuJokeAddon
+004342c9	string		250 Jokes (Volume I)
+004342e7	string		mnuJokeAddon2
+004342f9	string		250 Jokes (Volume II)
+00434319	string		mnuFactsAddonGroup
+00434330	string		Facts Add-on Modules
+00434350	string		mnuFactAddon
+00434361	string		250 Facts (Volume I)
+0043437f	string		mnuFactAddon2
+00434391	string		250 Facts (Volume II)
+004343b1	string		mnuStoryBookAddonGroup
+004343cc	string		Storybook Add-on Module
+004343ef	string		mnuStoryPolizoof
+00434404	string		BONZ and the Polizoof!
+0043443f	string		mnuVoiceCommands
+00434454	string		My Voice Commands
+0043446f	string		mnuSpeak
+0043447c	string		Speak
+0043448b	string		mnuSing
+00434497	string		Sing a Song
+004344b8	string		Tell a Joke
+004344cd	string		mnuFact
+004344d9	string		Amazing Facts
+004344f0	string		mnuReadStoryGroup
+00434506	string		Read a Story
+0043451e	string		mnuReadStoryPolizoof
+00434537	string		BONZ and the Polizoof!
+00434558	string		mnuCalendar
+00434568	string		Calendar
+0043457a	string		mnuWallet
+00434588	string		My Wallet
+004345b4	string		mnuEmail
+004345c1	string		Check For E-Mail...
+004345f8	string		mnuSetup
+00434605	string		My Options
+0043461b	string		mnuSalutation
+0043462d	string		Salutation
+00434641	string		mnuInteraction
+00434654	string		Interaction
+0043466b	string		mnuMoreInteraction
+00434682	string		More Interaction
+0043469c	string		mnuLessInteraction
+004346b3	string		Less Interaction
+004346ce	string		mnuConnection
+004346e0	string		Internet Connection Settings
+00434706	string		mnuEmailSetup
+00434718	string		E-Mail Reader Options
+00434737	string		mnuRegistration
+0043474b	string		Online Registration
+00434772	string		Advanced Setup Options
+004347af	string		mnuOnlineHelp
+004347c1	string		My Online Help
+004347d9	string		mnuTalkingHelp
+004347ec	string		Talking Add-on Help
+00434809	string		mnuAbout
+00434818	string		About BonziBUDDY
+00434833	string		mnuUpdate
+00434841	string		Update Me
+0043486d	string		mnuTellFriends
+00434880	string		Share Me With Friends
+0043494c	string		frmMailSetup
+00434976	string		 Options
+0043527c	string		fraUserInfo
+0043528c	string		E-Mail Server (POP3) Account Information:
+004352cb	string		cmdTest
+004352d7	string		&Test
+004352f2	string		txtServer
+00435312	string		txtPass
+00435337	string		txtName
+0043547b	string		wwwwwwwwwwww
+004357b2	string		lblServer
+004357c0	string		Mail Server:
+004357f0	string		Password:
+0043581d	string		Account Name:
+00435842	string		lblDescAcct
+00435852	string		Please enter your E-Mail Server account information below.
+004358a3	string		fraInterval
+004358b3	string		Check/Read E-Mail Time Interval:
+004358e9	string		txtCheckInterval
+00435c3a	string		lblInterval2
+00435c4b	string		minute(s).
+00435c6d	string		lblInterval1
+00435c7e	string		Check for new mail every
+00435cba	string		I can automatically check and read new e-mail messages for you. From here, you can adjust how often you would like me to check and read you new mail messages.
+00435d6f	string		cmdSave
+00435d98	string		cmdCancel
+00435da6	string		&Cancel
+00435dc5	string		tabMailOptions
+00435dd7	string		MSComctlLib.TabStrip
+00435e79	unicode		UserInfo
+00435ead	unicode		Interval
+00435f34	string		frmAboutWallet
+00436887	string		BonziBUDDY Promise:
+004368bb	string		I always keep my wallet handy, so if you decide you'd like me to order something, just let me know and I can take care of it for you! In most cases, I can get us discounts just by using my wallet! I have a lot of connections on the Internet!
+004369c2	string		Label1
+004369cd	string		"I've designed my wallet to make ordering and downloading anything from the Internet seamless and easy for both you and I! My wallet is 100% safe and secure! I've used the latest in encryption technology to protect you and your private information.  Remember, I will always protect you!
+00438704	string		frmAbout
+00438711	string		About BonziBUDDY
+00439055	string		cmdSysInfo
+00439064	string		&System Info...
+0043b03a	string		lblDescription
+0043b095	string		lblVersion
+0043b0a4	string		Version
+0043b0c1	string		lblDisclaimer
+0043b0d3	string		Warning: ...
+0043b158	string		frmWalletAdd
+0043b17b	string		 - Add Card
+0043ba86	string		cmdDeleteCard
+0043ba98	string		&Delete Card
+0043bab4	string		Remove Card Information from the BonziBUDDY Wallet.
+0043bafc	string		Display Name and Password:
+0043bb2c	string		txtConfirmPassword
+0043bb56	string		Confirm your password for this card here.
+0043bb89	string		txtPassword
+0043bbac	string		Enter a password for this card here.
+0043bbda	string		txtDisplayName
+0043bbf9	string		Enter the Display name for this card here. (Example: Dad's Home Visa)
+0043bc54	string		Confirm Password:
+0043bc88	string		Password:
+0043bcb4	string		The Display Name and Password allow you to easily recognize and protect your card. Please make a note of your password. I will prompt you for this password everytime you use my wallet.
+0043bd8d	string		Display Name:
+0043bdb3	string		cmdCancel
+0043bdc1	string		&Close
+0043bdd7	string		Close BonziBUDDY Wallet - Add Card.
+0043be04	string		cmdSaveCard
+0043be14	string		&Save Card
+0043be30	string		Add or Save the Card Information into the BonziBUDDY Wallet.
+0043be81	string		Card Information:
+0043bea8	string		cmbYear
+0043bf5c	string		Enter or change the card expiration date here.
+0043bf94	string		cmbMonth
+0043c011	string		Enter or change the card expiration date here.
+0043c049	string		txtCardHolder
+0043c067	string		Enter the Cardholder's name here. 
+0043c093	string		txtCardNumber
+0043c0b1	string		Enter or change your credit card number here.
+0043c0e8	string		cmbCard
+0043c0f3	string		MSComctlLib.ImageCombo
+0043c18a	string		Allows you to select the type of card your are using.
+0043c1d4	string		Card Type:
+0043c24f	string		Cardholder Name:
+0043c277	string		Label1
+0043c282	string		Card Expiration:
+0043c2b5	string		Card Number:
+0043c2da	string		ImageList1
+0043c2e8	string		MSComctlLib.ImageList
+0043e234	string		frmRegistration
+0043e248	string		BonziBUDDY Online Registration
+0043e6de	string		InetReg
+0043e6e9	string		InetCtlsObjects.Inet
+0043e754	string		cmdRegister
+0043e764	string		&Register Me
+0043e791	string		Age Range: (Choose One)
+0043e7be	string		cmbAge
+0043e8e4	string		Gender:
+0043e901	string		optFemale
+0043e90f	string		Female
+0043e92b	string		optMale
+0043e95d	string		BonziBUDDY Registered To:
+0043e9d2	string		cmbCountry
+0043ea12	string		United Kingdom\t
+0043eaba	string		Antigua and Barbuda\t
+0043eaea	string		Ascension\t
+0043eb21	string		Austria\n
+0043eb3f	string		Bahrain\n
+0043ec22	string		Canada\n
+0043ecab	string		Cook Islands\n
+0043ecb9	string		Costa Rica\r
+0043ed86	string		Falkland Islands\r
+0043edbe	string		France\r
+0043ee14	string		Ghana\t
+0043ee26	string		Greece\t
+0043ee51	string		Guadeloupe\t
+0043ee68	string		Guinea\r
+0043ee8e	string		Honduras\t
+0043eeb5	string		India\t
+0043ef26	string		Jordan\t
+0043efa4	string		Liechtenstein\t
+0043efb3	string		Lithuania\n
+0043efd1	string		Macedonia\n
+0043f011	string		Marshall Islands\n
+0043f023	string		Martinique\n
+0043f02f	string		Mauritania\t
+0043f046	string		Mexico\n
+0043f06b	string		Mongolia\n
+0043f081	string		Morocco\n
+0043f0cb	string		Netherlands Antilles\r
+0043f0f0	string		New Zealand\t
+0043f144	string		North Korea*
+0043f195	string		Palau\t
+0043f285	string		Saipan\n
+0043f2bc	string		Senegal"
+0043f2c5	string		Serbia and Montenegro (Yugoslavia)\n
+0043f2f5	string		Sierra Leone\t
+0043f357	string		Spain\t
+0043f370	string		Suriname\t
+0043f471	string		United Kingdom\r
+0043f490	string		United States Pacific Islands&
+0043f50a	string		Vatican City\t
+0043f52c	string		Wallis & Futuna\r
+0043f8a2	string		txtEmail
+0043f8d9	string		cmbState
+0043f9ed	string		Manitoba\r
+0043fa6d	string		Yukon Territory!?
+0043fb9f	string		txtMiddleName
+0043fbc8	string		txtLastName
+0043fbef	string		txtFirstName
+0043fc34	string		(US and Canada Only)
+00440ddc	string		Label12
+00440de8	string		Address2:
+00440e15	string		Address1:
+00440e41	string		Country:
+00440e96	string		Zip/Postal:
+00440ec4	string		State/Province:
+00440f1e	string		Middle:
+00440f48	string		Last Name:
+00440f6a	string		Label1
+00440f75	string		First Name:
+00441861	string		- Required Field
+00441894	string		Please enter your registration information below.  This will entitle you to FREE BonziBUDDY software updates.
+00441978	string		frmBonziBUDDYWallet
+0044229e	string		InetYesNo
+004422ab	string		InetCtlsObjects.Inet
+0044232e	string		InetCtlsObjects.Inet
+004423a1	string		MSComctlLib.ProgressBar
+00442427	string		InetTrans
+00442434	string		InetCtlsObjects.Inet
+004424af	string		cmdAbout
+004424bc	string		A&bout Wallet
+00442502	string		ImageList1
+00442510	string		MSComctlLib.ImageList
+00444442	string		cmdEditCard
+00444467	string		Allows you to edit or remove cards from your BonziBUDDY Wallet.
+004444b0	string		cmdAddCard
+004444d3	string		Allows you to add cards to your BonziBUDDY Wallet.
+0044450f	string		cmbCard
+0044451a	string		MSComctlLib.ImageCombo
+004445c3	string		Review Product Info:
+004445ed	string		wbOffer
+004445f8	string		SHDocVwCtl.WebBrowser
+004446d0	string		MSComctlLib.StatusBar
+004447c1	string		cmdPrint
+004447ce	string		&Print Receipt
+004447f4	string		cmdClose
+00444801	string		&Close
+0044481f	string		imgDownload
+0044510b	string		lblWalletDesc
+00445137	string		, I can safely and securely order this product for you!  Simply select a card from my wallet that you would like me to use.
+004451c8	string		imgCards
+00446fb8	string		lblFileDownload
+00446fcc	string		Your new product is now being automatically downloaded to your computer.  If there is any problem with this automatic download, you can click on the hyperlink below to manually download this product.
+004470ab	string		lblConfirm
+004470ba	string		Would you like me to order the Talking Add-On Module for you?
+0044820c	string	00447124	bState
+00448214	string	00447160,00447168	pDisp
+00448220	string	004471c8	bstrText
+0044823c	string	004471d4	cCode
+00448244	string	00447170	strData
+0044824c	string	00447148,00447150,00447154,00447174	strCaller
+00448280	string	00447144	blnNewBBPlayerIsPlaying
+00448298	string		blnNewBBPlayerWasInterrupted
+004482b8	string		objBBPlayer
+00448300	string	004471fc	KeyRoot
+00448308	string	00447200	KeyName
+00448310	string	00447204	SubKeyRef
+0044831c	string	00447208	KeyVal
+00448324	string		blnNewStoryReaderIsPlaying
+00448340	string	0044712c	strNewPath
+0044834c	string	00447128	objStoryReaderInstance
+00448364	string	0044714c	strBookPath
+004c3234	TerminatedCString		MSVBVM60.DLL
+004c3244	TerminatedCString		EVENT_SINK_GetIDsOfNames
+004c3260	TerminatedCString		__vbaVarTstGt
+004c3270	TerminatedCString		__vbaVarSub
+004c327e	TerminatedCString		__vbaStrI2
+004c328c	TerminatedCString		_CIcos
+004c3296	TerminatedCString		_adj_fptan
+004c32a4	TerminatedCString		__vbaStrI4
+004c32b2	TerminatedCString		__vbaVarMove
+004c32c2	TerminatedCString		__vbaVarVargNofree
+004c32d8	TerminatedCString		__vbaAryMove
+004c32e8	TerminatedCString		__vbaFreeVar
+004c32f8	TerminatedCString		__vbaLineInputStr
+004c330c	TerminatedCString		__vbaLenBstr
+004c331c	TerminatedCString		__vbaLateIdCall
+004c332e	TerminatedCString		__vbaStrVarMove
+004c3340	TerminatedCString		__vbaEnd
+004c334c	TerminatedCString		__vbaFreeVarList
+004c3360	TerminatedCString		_adj_fdiv_m64
+004c3370	TerminatedCString		EVENT_SINK_Invoke
+004c3384	TerminatedCString		__vbaRaiseEvent
+004c3396	TerminatedCString		__vbaFreeObjList
+004c33aa	TerminatedCString		__vbaStrErrVarCopy
+004c33c0	TerminatedCString		_adj_fprem1
+004c33ce	TerminatedCString		__vbaResume
+004c33dc	TerminatedCString		__vbaCopyBytes
+004c33ee	TerminatedCString		__vbaForEachCollAd
+004c3404	TerminatedCString		__vbaVarCmpNe
+004c3414	TerminatedCString		__vbaStrCat
+004c3422	TerminatedCString		__vbaWriteFile
+004c3434	TerminatedCString		__vbaLsetFixstr
+004c3446	TerminatedCString		__vbaSetSystemError
+004c345c	TerminatedCString		__vbaRecDestruct
+004c3470	TerminatedCString		__vbaStrDate
+004c3480	TerminatedCString		__vbaNameFile
+004c3490	TerminatedCString		__vbaHresultCheckObj
+004c34a8	TerminatedCString		__vbaLenVar
+004c34b6	TerminatedCString		_adj_fdiv_m32
+004c34c6	TerminatedCString		__vbaAryVar
+004c34d4	TerminatedCString		__vbaVarTstLe
+004c34e4	TerminatedCString		Zombie_GetTypeInfo
+004c34fa	TerminatedCString		__vbaVarCmpGe
+004c350a	TerminatedCString		__vbaAryDestruct
+004c351e	TerminatedCString		__vbaBoolStr
+004c352e	TerminatedCString		__vbaForEachCollObj
+004c3544	TerminatedCString		__vbaExitProc
+004c3554	TerminatedCString		__vbaVarForInit
+004c3566	TerminatedCString		__vbaOnError
+004c3576	TerminatedCString		__vbaObjSet
+004c3584	TerminatedCString		_adj_fdiv_m16i
+004c3596	TerminatedCString		__vbaObjSetAddref
+004c35aa	TerminatedCString		_adj_fdivr_m16i
+004c35bc	TerminatedCString		__vbaBoolVar
+004c35cc	TerminatedCString		__vbaStrFixstr
+004c35de	TerminatedCString		__vbaFpR8
+004c35ea	TerminatedCString		__vbaVarTstLt
+004c35fa	TerminatedCString		__vbaBoolVarNull
+004c360e	TerminatedCString		_CIsin
+004c3618	TerminatedCString		__vbaErase
+004c3626	TerminatedCString		__vbaNextEachCollObj
+004c363e	TerminatedCString		__vbaVarCmpGt
+004c364e	TerminatedCString		__vbaChkstk
+004c365c	TerminatedCString		__vbaFileClose
+004c366e	TerminatedCString		EVENT_SINK_AddRef
+004c3682	TerminatedCString		__vbaVarAbs
+004c3690	TerminatedCString		__vbaGenerateBoundsError
+004c36ac	TerminatedCString		__vbaExitEachColl
+004c36c0	TerminatedCString		__vbaStrCmp
+004c36ce	TerminatedCString		__vbaAryConstruct2
+004c36e4	TerminatedCString		__vbaPutOwner3
+004c36f6	TerminatedCString		__vbaVarTstEq
+004c3706	TerminatedCString		__vbaR4Str
+004c3714	TerminatedCString		__vbaPutOwner4
+004c3726	TerminatedCString		__vbaDateR8
+004c3734	TerminatedCString		__vbaObjVar
+004c3742	TerminatedCString		__vbaI2I4
+004c374e	TerminatedCString		DllFunctionCall
+004c3760	TerminatedCString		__vbaVarOr
+004c376e	TerminatedCString		__vbaCastObjVar
+004c3780	TerminatedCString		__vbaRedimPreserve
+004c3796	TerminatedCString		_adj_fpatan
+004c37a4	TerminatedCString		__vbaR4Var
+004c37b2	TerminatedCString		__vbaFixstrConstruct
+004c37ca	TerminatedCString		__vbaLateIdCallLd
+004c37de	TerminatedCString		Zombie_GetTypeInfoCount
+004c37f8	TerminatedCString		__vbaRedim
+004c3806	TerminatedCString		EVENT_SINK_Release
+004c381c	TerminatedCString		__vbaNew
+004c3828	TerminatedCString		_CIsqrt
+004c3832	TerminatedCString		__vbaObjIs
+004c3840	TerminatedCString		__vbaVarAnd
+004c384e	TerminatedCString		EVENT_SINK_QueryInterface
+004c386a	TerminatedCString		__vbaVarMul
+004c3878	TerminatedCString		__vbaExceptHandler
+004c388e	TerminatedCString		__vbaStrToUnicode
+004c38a2	TerminatedCString		__vbaPrintFile
+004c38b4	TerminatedCString		__vbaInputFile
+004c38c6	TerminatedCString		__vbaDateStr
+004c38d6	TerminatedCString		_adj_fprem
+004c38e4	TerminatedCString		_adj_fdivr_m64
+004c38f6	TerminatedCString		__vbaI2Str
+004c3904	TerminatedCString		__vbaFailedFriend
+004c3918	TerminatedCString		__vbaVarDiv
+004c3926	TerminatedCString		__vbaVarCmpLe
+004c3936	TerminatedCString		__vbaFPException
+004c394a	TerminatedCString		__vbaInStrVar
+004c395a	TerminatedCString		__vbaStrVarVal
+004c396c	TerminatedCString		__vbaUbound
+004c397a	TerminatedCString		__vbaGetOwner4
+004c398c	TerminatedCString		__vbaVarCat
+004c399a	TerminatedCString		__vbaDateVar
+004c39aa	TerminatedCString		__vbaI2Var
+004c39b8	TerminatedCString		_CIlog
+004c39c2	TerminatedCString		__vbaErrorOverflow
+004c39d8	TerminatedCString		__vbaFileOpen
+004c39e8	TerminatedCString		__vbaR8Str
+004c39f6	TerminatedCString		__vbaVar2Vec
+004c3a06	TerminatedCString		__vbaInStr
+004c3a14	TerminatedCString		__vbaNew2
+004c3a20	TerminatedCString		__vbaVarInt
+004c3a2e	TerminatedCString		_adj_fdiv_m32i
+004c3a40	TerminatedCString		_adj_fdivr_m32i
+004c3a52	TerminatedCString		__vbaStrCopy
+004c3a62	TerminatedCString		__vbaI4Str
+004c3a70	TerminatedCString		__vbaVarNot
+004c3a7e	TerminatedCString		__vbaVarCmpLt
+004c3a8e	TerminatedCString		__vbaFreeStrList
+004c3aa2	TerminatedCString		_adj_fdivr_m32
+004c3ab4	TerminatedCString		__vbaR8Var
+004c3ac2	TerminatedCString		_adj_fdiv_r
+004c3ad0	TerminatedCString		__vbaVarTstNe
+004c3ae0	TerminatedCString		__vbaI4Var
+004c3aee	TerminatedCString		__vbaVarCmpEq
+004c3afe	TerminatedCString		__vbaLateMemCall
+004c3b12	TerminatedCString		__vbaAryLock
+004c3b22	TerminatedCString		__vbaVarAdd
+004c3b30	TerminatedCString		__vbaStrToAnsi
+004c3b42	TerminatedCString		__vbaVarDup
+004c3b50	TerminatedCString		__vbaFpI2
+004c3b5c	TerminatedCString		__vbaVarTstGe
+004c3b6c	TerminatedCString		__vbaVarLateMemCallLd
+004c3b84	TerminatedCString		__vbaFpI4
+004c3b90	TerminatedCString		__vbaR8IntI2
+004c3ba0	TerminatedCString		__vbaLateMemCallLd
+004c3bb6	TerminatedCString		_CIatan
+004c3bc0	TerminatedCString		__vbaAryCopy
+004c3bd0	TerminatedCString		__vbaStrMove
+004c3be0	TerminatedCString		__vbaCastObj
+004c3bf0	TerminatedCString		__vbaStrVarCopy
+004c3c02	TerminatedCString		__vbaR8IntI4
+004c3c12	TerminatedCString		_allmul
+004c3c1c	TerminatedCString		__vbaLateIdSt
+004c3c2c	TerminatedCString		_CItan
+004c3c36	TerminatedCString		__vbaNextEachCollAd
+004c3c4c	TerminatedCString		__vbaAryUnlock
+004c3c5e	TerminatedCString		__vbaFPInt
+004c3c6c	TerminatedCString		__vbaVarForNext
+004c3c7e	TerminatedCString		_CIexp
+004c3c88	TerminatedCString		__vbaMidStmtBstr
+004c3c9c	TerminatedCString		__vbaRecAssign
+004c3cae	TerminatedCString		__vbaI4ErrVar
+004c3cbe	TerminatedCString		__vbaFreeObj
+004c3cce	TerminatedCString		__vbaFreeStr
+004cc2b2	unicode		TYPELIB
+004cc2c2	unicode		_SRCIID_CLSSTORYREADER
+004cc2f0	unicode		_IID_CLSBBPLAYER
+004cc312	unicode		_SRCIID_CLSBBPLAYER
+004cc33a	unicode		_IID_CLSSTORYREADER
+004cc366	unicode		VS_VERSION_INFO
+004cc3c2	TerminatedUnicode		VarFileInfo
+004cc3e2	TerminatedUnicode		Translation
+004cc406	TerminatedUnicode		StringFileInfo
+004cc42a	TerminatedUnicode		040904B0
+004cc442	TerminatedUnicode		CompanyName
+004cc45c	TerminatedUnicode		BONZI.COM Software
+004cc48a	TerminatedUnicode		FileDescription
+004cc4ac	TerminatedUnicode		BonziBUDDY is your intelligent, interactive traveling companion on the Internet.
+004cc556	TerminatedUnicode		ProductName
+004cc570	TerminatedUnicode		BonziBUDDY
+004cc58e	TerminatedUnicode		FileVersion
+004cc5a8	TerminatedUnicode		2.00
+004cc5ba	TerminatedUnicode		ProductVersion
+004cc5d8	TerminatedUnicode		2.00
+004cc5ea	TerminatedUnicode		InternalName
+004cc604	TerminatedUnicode		BonziBDY
+004cc61e	TerminatedUnicode		OriginalFilename
+004cc640	TerminatedUnicode		BonziBDY.EXE
+004cc662	TerminatedUnicode		OLESelfRegister
